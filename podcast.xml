@@ -1,0 +1,1081 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title>NICAR 2024 audio recordings</title>
+  <description><![CDATA[<p>An unofficial podcast feed of audio recordings from NICAR 2024</p>]]></description>
+  <language>en-us</language>
+  <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+  <generator>Podcast RSS Generator (https://github.com/vpetersson/podcast-rss-generator)</generator>
+  <atom:link href="https://backspace.com/nicar2024/podcast_feed.xml" rel="self" type="application/rss+xml" />
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:owner><itunes:email>john@backspace.com</itunes:email></itunes:owner>
+  <itunes:author>NICAR</itunes:author>
+  <itunes:summary>An unofficial podcast feed of audio recordings from NICAR 2024</itunes:summary>
+  <itunes:category text="Technology" />
+  <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  <item>
+    <pubDate>Thu, 07 Mar 2024 14:00:00 -0000</pubDate>
+    <title>AI 101: AI-driven tools, tips and tricks to empower your data journalism</title>
+    <description><![CDATA[<p>Dozens of new, powerful (and sometimes scary) AI tools have already started transforming society and industries as a whole. What this means for news is an ongoing conversation. But some of these tools can be a boon to newsroom data journalists and coders. We walk through a dozen big and small tools, tips and tricks for utilizing AI in your daily workflows.</p>
+    <p>Darla Cameron, The Texas Tribune; Jeff Hargarten, Star Tribune; June Kim, Brown Institute for Media Innovation; Mike Reilley, UIC and JournalistsToolbox.ai</p>
+    <p><a href="https://resources.ire.org/tipsheets/20240307-30382.pdf">Tipsheet</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30510.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30510.mp3" type="audio/mp3" length="61705845" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3582</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 14:00:00 -0000</pubDate>
+    <title>Building and learning a new beat in data</title>
+    <description><![CDATA[<p>Lots of early-career data and graphics journalists may find themselves working on a niche beat new to them, with complicated data, hard-to-find data sources, and a general need to have in-depth knowledge to excel in their data reporting. This session will provide a primer of how to build data-specific sources and contacts (including a tipsheet with some of this information for a range of beats), how to get your footing in a topic that's brand new, and how to emerge as an expert in your field.</p>
+    <p>Note: Journalist Fazil Khan was scheduled to speak on this panel before his untimely death Feb. 23. Friends and colleagues are making space at the conference to remember him on Friday, March 8, from 3:30 - 4:30 p.m. in room Laurel C.</p>
+    <p>Fazil Khan (in memoriam), The Hechinger Report; Bianca Pallaro, The City; Catherine Rentz, Independent Journalist/Filmmaker; Paroma Soni, Politico</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30500.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30500.mp3" type="audio/mp3" length="80505206" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3768</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 14:00:00 -0000</pubDate>
+    <title>Reporting on zoning: The invisible laws that shape our urban inequality</title>
+    <description><![CDATA[<p>The economic and racial segregation that we see in our country is not natural, but the result of decades of public policy. Zoning laws have made it difficult to build affordable housing and have excluded many from advantaged neighborhoods. In this session, we will talk about how to report on zoning issues and what data tools are available to explain the impact of these policies.</p>
+    <p>Sara  Bronin, Cornell University and National Zoning Atlas; Kriston  Capps, Bloomberg CityLab; Juan Pablo Garnham, Eviction Lab; Matthew Mleczko, Eviction Lab, Princeton University</p>
+    <p><a href="https://drive.google.com/file/d/1Ih4Cn__xD-k3BZ5yZku-R7DWfDOpyqII/view">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30514.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30514.mp3" type="audio/mp3" length="72714562" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3305</itunes:duration>
+    <itunes:episode>3</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 14:00:00 -0000</pubDate>
+    <title>Text analysis in different languages for investigative journalism</title>
+    <description><![CDATA[<p>During this session, panelists will share their experiences and thoughts on working with text extracted from documents, the social web or other sources. How can journalists turn unstructured information in various languages into data to better understand patterns and trends? Attendees will learn about approaches to analyzing text as well as tools — ranging from simple formulas in Google Sheets to nifty tools in DocumentCloud to more complex ones like Python-based libraries. Attendees will walk away with methods to approaching text analysis projects, both simple and complex.</p>
+    <p>Fernanda Aguirre, The Examination; Chris Amico, MuckRock; Josephine Lukito, University of Texas at Austin; Lam Thuy Vo, The Craig Newmark Graduate School of Journalism at City University New York and The Markup</p>
+    <p><a href="https://docs.google.com/presentation/d/1nab_nANLJBM4UATSANQPMiTy7bT4AukvO6p3ug-Vdfw/edit#slide=id.p">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30505.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30505.mp3" type="audio/mp3" length="67176814" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3600</itunes:duration>
+    <itunes:episode>4</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 14:00:00 -0000</pubDate>
+    <title>Uncovering shadow campaigns in 2024 elections</title>
+    <description><![CDATA[<p>Several candidates running for the presidency in the 2024 election have raised hundreds of millions of dollars through aligned political operations, including super PACs, leadership PACs, congressional reelection campaigns and even dark money groups that do not disclose their donors – and sometimes even their spending – to the Federal Election Commission. This session will cover how to follow the money around these groups aligned with potential presidential contenders and their allies, from each group’s spending to the donors bankrolling them.</p>
+    <p>Michael Beckel, Issue One; Carrie Levine, Votebeat; Anna Massoglia, OpenSecrets</p>
+    <p><a href="https://docs.google.com/document/d/1FGJXIxMBnyHkayiw6T2snowUgAMcOAMIfX3p5PAlVVA/edit">Tipsheet</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30519.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30519.mp3" type="audio/mp3" length="85108358" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3867</itunes:duration>
+    <itunes:episode>5</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 15:15:00 -0000</pubDate>
+    <title>Covering disparities in higher education</title>
+    <description><![CDATA[<p>With the recent Supreme Court affirmative action ruling and the anti-DEI movement, colleges today are overhauling the ways they recruit, admit, and retain historically marginalized students. Learn about ways you can understand college outcomes and write about today’s debates.</p>
+    <p>This session is sponsored by the Lumina Foundation. IRE retains control of content, including the topic and speaker selection, for all conference sessions.</p>
+    <p>Daarel Burnette II, The Chronicle of Higher Education; Chris Quintana, USA TODAY; Olivia Sanchez, The Hechinger Report</p>
+    <p><a href="https://docs.google.com/presentation/d/1qyS8RCL2iTWRvLsetvHpuYQ41xk64CIpf2MLEg1WprA/edit#slide=id.p">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30520.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30520.mp3" type="audio/mp3" length="73060711" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3490</itunes:duration>
+    <itunes:episode>6</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 15:15:00 -0000</pubDate>
+    <title>Finding the story in criminal justice data: Crime, police, prisons and more</title>
+    <description><![CDATA[<p>Most journalists who’ve covered the criminal justice system know how difficult it can be to pry coherent data out of the police, the courts and the prisons. And even if you can get data, is it even usable? In this panel discussion, journalists from City Bureau, the Invisible Institute and The Marshall Project will talk about their recent, data-driven investigations into the justice system. They’ll talk about how to get (or make) data, how to vet the data and how to identify the strongest stories within the data. They’ll share their hard-won wisdom from their analyses and reporting and will want to hear advice from others in the audience as well.</p>
+    <p>Sarah Conway, City Bureau; Tom Meagher, The Marshall Project; Trina Reynolds-Tyler, Invisible Institute</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30515.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30515.mp3" type="audio/mp3" length="78080872" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3602</itunes:duration>
+    <itunes:episode>7</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 15:15:00 -0000</pubDate>
+    <title>How to do data- and document-driven investigations in small and/or underserved newsrooms</title>
+    <description><![CDATA[<p>This session is great for beginners or NICAR newbies!</p>
+    <p>Data- and document-driven journalism is universally challenging for many reasons. It requires specific skills to obtain, clean and analyze information, report the findings and present the story in an engaging and understandable way. A data-driven reporter may need strong support from other reporters, editors, access to tools and other resources to produce this kind of story. For smaller, local newsrooms the challenges are amplified. Funding is only one important step.</p>
+    <p>For the last two years, the Data-Driven Reporting Project (DDRP) has awarded financial support to local news organizations to amplify data-and-document driven reporting. Along the way, we’ve learned about some of the gaps that can prevent a newsroom from completing a successful project.</p>
+    <p>Join us to hear stories of what has worked (or has not) to build data journalism capacity in small and underserved newsrooms.</p>
+    <p>Pam Dempsey, Data-Driven Reporting Project; Chris Gelardi, New York Focus; Brittany Harlow, VNN Oklahoma; Sylvia A. Harvey, Independent journalist; Daniel Wheaton, NPR's Midwest Newsroom (Nebraska Public Media)</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30501.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30501.mp3" type="audio/mp3" length="77070809" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3691</itunes:duration>
+    <itunes:episode>8</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 15:15:00 -0000</pubDate>
+    <title>Securing your social media accounts with the magic of browser extension automations</title>
+    <description><![CDATA[<p>The visibility of being a journalist in today's very online world means heightened risk of digital attacks, from harassment and doxxing to fraud, account hacking, and identity theft. Personal social media accounts expose a broad surface area for attacks, in addition to potentially leaking data or content that can be weaponized against you -- hence the ubiquitous recommendation from security experts to lock everything down. The problem is how difficult, boring, and tedious it can be to actually ensure that your settings are consistent with your ideal security stance. This session will walk through tradeoffs and risks of your personal social media usage and a demo of Privacy Party as a free tool for making privacy easy.</p>
+    <p>Tracy Chou, Block Party</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30506.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30506.mp3" type="audio/mp3" length="22428249" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>1151</itunes:duration>
+    <itunes:episode>9</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 15:15:00 -0000</pubDate>
+    <title>So you want to report on racial disparities</title>
+    <description><![CDATA[<p>The “disparity” has emerged as one of the most powerful and widely used tools for identifying and critiquing social inequality. Disparity-based analyses have helped us answer questions like who advances in school, who owns a home, who gets sick, or who gets pulled over. As quantitative methods have become more common in journalism, the disparity has become a mainstay of investigative, accountability-based reporting.</p>
+    <p>But has our profession become overreliant on this metric? Although we've come to expect disparities to measure social inequality, we rarely say out loud the assumptions — and uncertainty — underlying them. Sometimes, we let the data do our work for us, opening ourselves up to criticism by people with starkly different assumptions about what the data means. In this presentation and group discussion, we’ll take up this question with real examples from ProPublica's past work on issues as distinctly different as COVID-19, traffic enforcement, and home-lending.</p>
+    <p>We’ll proceed from the main assumption underlying any disparity analysis. We’ll walk through the basic math. We’ll talk about what disparities are really good at expressing — and what they leave out. And we’ll end with a discussion of how we can, and must, shore up our disparity analyses with robust reporting on the mechanisms that produce inequality, rather than the symptoms.</p>
+    <p>Sophie Chou & Haru Coryne, ProPublica</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30511.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30511.mp3" type="audio/mp3" length="62688358" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3705</itunes:duration>
+    <itunes:episode>10</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 16:30:00 -0000</pubDate>
+    <title>AI 202: Cooking with generative AI</title>
+    <description><![CDATA[<p>Are Generative AI systems actually useful? How do we use them effectively and ethically?</p>
+    <p>Panelists detail their tips and tricks for using LLMs like ChatGPT on the job. We’ve used it to battle ornery records custodians, whip up scripts, create sample data sets and help debug code. We’ll talk about how to maximize the utility of this digital assistant, as well as limitations and pitfalls, including using problems suggested by the audience. Submit your data reporting problem before the panel and we'll show you how we would solve them: https://bit.ly/nicar_ai</p>
+    <p>Pri Bengani, Tow Center for Digital Journalism, Columbia University; Andrew Ford, The Arizona Republic; Jeff Kao, ProPublica; Jonathan Soma, Columbia Journalism School</p>
+    <p><a href="https://docs.google.com/presentation/d/1EZjK4u-K9GLI0B84WoYZq-U6arY9JGR0Llgp8NW0i9U/edit#slide=id.p">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30507.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30507.mp3" type="audio/mp3" length="69399425" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3539</itunes:duration>
+    <itunes:episode>11</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 16:30:00 -0000</pubDate>
+    <title>Microdata: Asking deeper questions</title>
+    <description><![CDATA[<p>Sometimes you just need monthly totals. But sometimes you need the percentages for just 23- to 31-year-olds. Or how many kids have at least one immigrant parent. Or the median income of families with just preschool kids. Or what share of Black vs white pedestrians are killed by hit-and-run drivers. That's when you need microdata -- the untabulated, original data that can answer a question that no one else may have ever asked. This hybrid demo/hands-on session will offer an overview and demo some examples. Bring your laptop: We'll also work through some exercises using tools that simplify access to some key microdata sets.</p>
+    <p>Paul Overberg, The Wall Street Journal</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30512.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30512.mp3" type="audio/mp3" length="55379596" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3476</itunes:duration>
+    <itunes:episode>12</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 16:30:00 -0000</pubDate>
+    <title>Obtaining public records and data to power your 2024 election reporting</title>
+    <description><![CDATA[<p>Public records can serve as a vital source of information about the U.S. elections process and how Americans cast their votes. This session will cover how federal and state open records laws address access to voter rolls, ballots, initial ballot count and recount processes, and other election-related records and data that can help inform your reporting on the 2024 election.</p>
+    <p>This session is sponsored by Reporters Committee for Freedom of the Press. IRE retains control of content, including the topic and speaker selection, for all conference sessions.</p>
+    <p>Christina A. Cassidy, The Associated Press; Kate Huangpu, Spotlight PA; Carrie Levine, Votebeat; Gunita Singh, Reporters Committee for Freedom of the Press</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30521.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30521.mp3" type="audio/mp3" length="79179480" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3783</itunes:duration>
+    <itunes:episode>13</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 19:15:00 -0000</pubDate>
+    <title>Data education beyond the tools</title>
+    <description><![CDATA[<p>Data journalism is so much more than spreadsheets, R, Python, Datawrapper, etc. For university-level educators, our courses tend to be branded as 'skills-based,' but there are so many other non-tech or tool aspects of producing a piece of journalism that involves data. In this session, attendees will hear from data educators who will focus on how they bring history, theory, ethics, research, and practical exercises into their classrooms to impart upon students that data journalism is not just counting, sorting and grouping.</p>
+    <p>Eva Constantaras, Lighthouse Reports; Nausheen Husain, Syracuse University; Janelle O'Dea, Center for Public Integrity; Winny de Jong, NRC</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30516.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30516.mp3" type="audio/mp3" length="71619044" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3427</itunes:duration>
+    <itunes:episode>14</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 19:15:00 -0000</pubDate>
+    <title>Public records 101: Great records for investigating higher education</title>
+    <description><![CDATA[<p>This hands-on training will provide practical tips for getting records out of universities. The session will offer examples of useful records for covering high education, and then cover strategies for finding and acquiring them. We'll also provide strategies for getting records relevant to private universities.</p>
+    <p>David Cuillier, Joseph L. Brechner Freedom of Information Project; Diana Fuentes, IRE & NICAR</p>
+    <p><a href="https://resources.ire.org/tipsheets/20240307-30357.pdf">Slides</a> <a href="https://resources.ire.org/tipsheets/20240307-30358.pdf">Tipsheet</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30513.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30513.mp3" type="audio/mp3" length="66528691" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3739</itunes:duration>
+    <itunes:episode>15</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 19:15:00 -0000</pubDate>
+    <title>Secrets over seniors: Exposing hidden senior living injuries</title>
+    <description><![CDATA[<p>Three investigative reporters who have exposed senior living injuries – and made impact  – will share tips on how to cover a secretive industry with little regulation.</p>
+    <p>Jayme Fraser, USA TODAY / Gannett; Sahana Jayaraman, The Arizona Republic; Caitlin McGlade, Arizona Republic</p>
+    <p><a href="https://docs.google.com/presentation/d/1f6e-wDe61PSA3RqbqNj8i2DMsCQalJ-mH0Anteeq178/edit#slide=id.p">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30522.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30522.mp3" type="audio/mp3" length="78763988" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3681</itunes:duration>
+    <itunes:episode>16</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 19:15:00 -0000</pubDate>
+    <title>Updates in FOIA litigation</title>
+    <description><![CDATA[<p>The speakers are a prolific FOIA reporter and prolific FOIA litigator and will share insights from the past year of FOIA litigation on various subjects of public interest.</p>
+    <p>Jason Leopold, Bloomberg News; Matt Topic, Loevy & Loevy</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30502.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30502.mp3" type="audio/mp3" length="77975891" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3748</itunes:duration>
+    <itunes:episode>17</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 19:15:00 -0000</pubDate>
+    <title>Who's behind that website?</title>
+    <description><![CDATA[<p>Reporting online today, journalists must battle with astroturf campaigns, fake news sites and sketchy shell companies to find out who is behind the story. Usually it leads to a frustratingly common question: Who is behind this website?</p>
+    <p>Using a range of tools (free and otherwise), we walk you through how to investigate the provenance and ownership of websites: how can you identify the scope and scale of the network it belongs to — if any? Who’s behind the site, now and in the past? Who are the main actors promoting this website? Where else does this site crop up?</p>
+    <p>While it is not always possible to fully unmask the owner of a site, using a thorough checklist of tools and techniques that we have used in real-world investigations, we can help you make sure to reveal as much as possible about a website, and potentially uncover important clues.</p>
+    <p>Pri Bengani, Tow Center for Digital Journalism, Columbia University; Jon Keegan, The Markup</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30508.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30508.mp3" type="audio/mp3" length="63671181" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3345</itunes:duration>
+    <itunes:episode>18</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 20:30:00 -0000</pubDate>
+    <title>Crisis reporting with remotely sensed data</title>
+    <description><![CDATA[<p>From natural disasters and military operations to visual forensics, the use of remotely sensed satellite data in reporting breaking news has a fundamental role in the newsroom. Speakers will talk about their approaches to and representation of satellite imagery and data in their work covering the war in Gaza, crackdown on protests in Iran, flooding, wildfires and earthquakes.</p>
+    <p>Leanne Abraham, The New York Times; Allison Martell, Reuters; Atthar Mirza, Bloomberg Industry Group; Deborah Nelson, University of Maryland; Daniel Wolfe, Washington Post</p>
+    <p><a href="https://resources.ire.org/tipsheets/20240307-30414.pdf">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30523.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30523.mp3" type="audio/mp3" length="78197428" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3671</itunes:duration>
+    <itunes:episode>19</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 20:30:00 -0000</pubDate>
+    <title>Enhancing your news stories with Census Bureau data</title>
+    <description><![CDATA[<p>In this presentation, journalists will learn the fundamentals of both the 2020 Census and American Community Survey (ACS), as well as how to access data from each using data.census.gov. We will then provide users with resources relevant to journalists for learning more about the Census Bureau and its data products, as well as highlighting the recent changes and improvements made to data.census.gov so that reporters have the latest skills to stay up to date on how to retrieve Census data.</p>
+    <p>Mary Ana McKay & Maria Valdisera, U.S. Census Bureau</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30517.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30517.mp3" type="audio/mp3" length="54665275" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>2596</itunes:duration>
+    <itunes:episode>20</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 20:30:00 -0000</pubDate>
+    <title>Trans data: How we can do better</title>
+    <description><![CDATA[<p>In the last year, many publications have made mis-steps in how they explain, contextualize, and visualize data about trans communities. Data-driven journalism about trans communities often relies on sources that are incomplete or frequently changing, buried in complex scientific studies, or influenced by poll and survey design. Understanding all of that can require a lot of specialized knowledge, both about data and about trans people.</p>
+    <p>In this session, we will talk about common errors when working with data about trans people, the consequences of misuse, and how to avoid these errors in your reporting.</p>
+    <p>This builds on, but has entirely separate content from, Finding and using data about LGBTQ+ people.</p>
+    <p>This session has been planned in collaboration with the Trans Journalists Association. IRE retains control of content, including the topic and speaker selection, for all conference sessions.</p>
+    <p>Alberto Cairo, University of Miami; Kae Petrin, Chalkbeat; Aarushi Sahejpal, American University, Investigative Reporting Workshop and The Center for Public Integrity</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30503.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30503.mp3" type="audio/mp3" length="78473697" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3770</itunes:duration>
+    <itunes:episode>21</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 21:45:00 -0000</pubDate>
+    <title>Backgrounding local elections: The questions, documents, and data the public needs</title>
+    <description><![CDATA[<p>As challenging as Congressional and other federal elections are to properly cover, local races often have gotten less of a spotlight. Join us to talk through how you can better cover local elections, no matter your experience or bandwidth. We'll walk through a range of techniques to background political candidates running for office, including requesting public records, analyzing personal financial disclosures and more.</p>
+    <p>Elizabeth Clemons, Sunlight Search; Kelly Kauffman, MuckRock; Noah Pransky, NBC News; Albert Serna, OpenSecrets</p>
+    <p><a href="https://resources.ire.org/tipsheets/20240307-30386.pdf">Tipsheet</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30504.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30504.mp3" type="audio/mp3" length="68419363" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3261</itunes:duration>
+    <itunes:episode>22</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 21:45:00 -0000</pubDate>
+    <title>How to make data viz with (almost) every tool</title>
+    <description><![CDATA[<p>This lightning-fast panel will cover how to use nine individual tools to visualize the same data. Presentations will cover everything from Datawrapper to d3.js. By the end of the session, you'll have a good idea of some of the tools available for data visualization, their strengths and weaknesses, and how difficult it might be to get started with each.</p>
+    <p>Emilia Ruzicka, University of Virginia, Freelance Data Journalist; CJ Sinner, Star Tribune; Jonathan Soma, Columbia Journalism School</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30509.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30509.mp3" type="audio/mp3" length="60376734" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3064</itunes:duration>
+    <itunes:episode>23</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 21:45:00 -0000</pubDate>
+    <title>Navigating an ever-changing industry as a freelancer</title>
+    <description><![CDATA[<p>Freelancing' is a vague way to describe working independently, whether you're a lifer or just between jobs. Let's talk about funding your investigative passion project, supplementing your income and balancing prestige pub gigs with journalism-adjacent work. We'll help you figure out pitching, access, platforms and even tax considerations so you can do the work you want to do. Our industry is a hot mess, but this panel of freelancing experts will help you find opportunity in chaos.</p>
+    <p>Sylvia A. Harvey, Independent journalist; Kristin Hussey, Independent Journalist; Katherine Lewis, The Institute for Independent Journalists; Benét Wilson, Poynter-Koch Media & Journalism Fellowship</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30524.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30524.mp3" type="audio/mp3" length="76785398" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3595</itunes:duration>
+    <itunes:episode>24</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Thu, 07 Mar 2024 21:45:00 -0000</pubDate>
+    <title>Reporting on water with data (what's in your water and how much water you have)</title>
+    <description><![CDATA[<p>With droughts in the west, water contamination in the Midwest, water usage rights nabbing headlines and drinking water quality issues in our metros and rural areas, reporting on water is a high-interest area ripe for further exploration. Panelists will talk about how they identify data sources and government documents that inform their reporting on groundwater quantity and contaminants in water, including PFAs and nitrate.</p>
+    <p>David Condos, KUER, NPR Utah; Mira Rojanasakul, The New York Times; Lisa Sorg, NC Newsline; Yanqi Xu, Flatwater Free Press</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240307-30518.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240307-30518.mp3" type="audio/mp3" length="78524192" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3668</itunes:duration>
+    <itunes:episode>25</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Fri, 08 Mar 2024 14:00:00 -0000</pubDate>
+    <title>Data storytelling to empower migrant communities</title>
+    <description><![CDATA[<p>The barriers facing migrant communities in accessing fair working conditions are rarely covered through data since reliable data is so hard to come by. This has changed recently through groundbreaking reporting that center the information needs of affected communities, including Rappler's coverage of trafficking of domestic workers, The New Arab's coverage of the fate of Syrian doctors and Lighthouse Report's coverage of the victims of brain waste in Europe. Each story collects data on otherwise invisible communities to map the extent of exploitation, identify barriers to implementing policy solutions and identifying ways communities themselves can take action to protect their own rights.</p>
+    <p>Justin-Casimir Braun & Eva Constantaras, Lighthouse Reports; Loujein Haj Youssef, Radio Rozana; Ana Santos, Rappler</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240308-30536.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240308-30536.mp3" type="audio/mp3" length="74898692" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3440</itunes:duration>
+    <itunes:episode>26</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Fri, 08 Mar 2024 14:00:00 -0000</pubDate>
+    <title>Reconsidering data on mass shootings</title>
+    <description><![CDATA[<p>In the past decade, many news organizations have grappled with defining the term “mass shooting” and assessing the data we use to count these events. Different data sources (including from the government, advocacy organizations, and news outlets) use slightly different definitions of the term, and these discrepancies can be confusing for readers and make analysis of the phenomenon more complicated. This panel conversation among editors from publications that frequently cover mass shootings will consider how we think about the term, the available data on mass shootings, and data on gun violence more broadly.</p>
+    <p>Lindsey Cook & Simone Landon, The New York Times; Larry Fenn, Associated Press; John Harden, The Washington Post; Jennifer Mascia, The Trace</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240308-30541.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240308-30541.mp3" type="audio/mp3" length="80201775" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3600</itunes:duration>
+    <itunes:episode>27</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Fri, 08 Mar 2024 14:00:00 -0000</pubDate>
+    <title>Starting, growing and maintaining a data desk at student publications</title>
+    <description><![CDATA[<p>Every data desk operates differently, and starting and maintaining a data desk at a student-run publication often requires a lot of trial and error. How can you publish more data-centered reporting as a student? What does the process of starting a data desk from scratch look like? Data editors and reporters from student-run publications will walk through how they began their data desks, what the organization and editing processes look like, how their data desks have grown and shifted and advice for anyone hopeful to bring more data reporting to their student newsrooms.</p>
+    <p>Katherine Oung & Rhea Patney & Brina Ratangee, The Vanderbilt Hustler; Victoria Stavish, The Diamondback; Lam Thuy Vo, The Craig Newmark Graduate School of Journalism at City University New York and The Markup; Rina Torchinsky, Forbes; Shreya Vuttaluru, Tampa Bay Times</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240308-30528.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240308-30528.mp3" type="audio/mp3" length="70804001" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3672</itunes:duration>
+    <itunes:episode>28</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Fri, 08 Mar 2024 15:15:00 -0000</pubDate>
+    <title>Building a sustainable data journalism infrastructure</title>
+    <description><![CDATA[<p>Come explore the possibilities of building a support system for journalism – a connected infrastructure of tools, platforms and collaborations – that can provide services tailored to the size and abilities of each journalist and newsroom. We'll discuss what it could look like, how it would work and what it will take to get there, starting with the Big Local News DART matrix of resources and needs: Data, Algorithms and tools, Reporting recipes and Training.</p>
+    <p>Diana Fuentes, IRE & NICAR; Marc Lavallee, John S. and James L. Knight Foundation; Cheryl Phillips, Stanford University</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240308-30532.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240308-30532.mp3" type="audio/mp3" length="69281944" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3883</itunes:duration>
+    <itunes:episode>29</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Fri, 08 Mar 2024 15:15:00 -0000</pubDate>
+    <title>Finding and using data about LGBTQ+ people</title>
+    <description><![CDATA[<p>Data on LGBTQ+ people is notoriously sparse and inconsistent, especially at the federal level. So how do we find and use alternatives like state or municipal data, advocacy group surveys or reports, and polls? And how do we deal with the unique problems each of these data sources bring?</p>
+    <p>We’ll talk about what data’s out there, how to use it in reporting and visual work, how to think through common reporting problems, and how to tell a good story even with tricky data.</p>
+    <p>This builds on, but has entirely separate content from, How charts lie: transgender data edition.</p>
+    <p>This session has been planned in collaboration with the Trans Journalists Association. IRE retains control of content, including the topic and speaker selection, for all conference sessions.</p>
+    <p>Minami Funakoshi, Reuters; Jasmine Mithani, The 19th*; Adam Rhodes, IRE & NICAR; Emilia Ruzicka, University of Virginia, Freelance Data Journalist</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240308-30537.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240308-30537.mp3" type="audio/mp3" length="82366633" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3822</itunes:duration>
+    <itunes:episode>30</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Fri, 08 Mar 2024 15:15:00 -0000</pubDate>
+    <title>Large-scale scraping projects: Best practices for doing it legally and ethically</title>
+    <description><![CDATA[<p>It's easier and cheaper than ever to do large-scale scraping projects with a small team. We will discuss code, cloud computing infrastructure, and lessons learned. We will also run through sample notebooks that attendees can take home and adapt to their own projects.</p>
+    <p>Jeff Kao, ProPublica; Ilica Mahajan, The Marshall Project; Leon Yin, Bloomberg</p>
+    <p><a href="https://docs.google.com/presentation/d/1ZhGeTidzVvqrpVFB6LihnBXbWWAhL-cKfE0P6YGUwtk/edit#slide=id.p">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240308-30542.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240308-30542.mp3" type="audio/mp3" length="82266253" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3693</itunes:duration>
+    <itunes:episode>31</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Fri, 08 Mar 2024 15:15:00 -0000</pubDate>
+    <title>Visual investigations</title>
+    <description><![CDATA[<p>You’ve done all the work, now you need to visualize it. See examples of how data journalists use graphics, animations, photographs and video to explain and display their work on a variety of platforms. Panelists will share how we gather, parse and produce visual evidence and how to incorporate it into investigations in a clear and concise way. This session is for everyone.</p>
+    <p>Carlotta Dotto, CNN; Tisha Thompson, ESPN; Tracee Wilkins, WRC</p>
+    <p><a href="https://docs.google.com/presentation/d/1Fqi3wYyc6UYd1rhXZ-gXiwDcE3P76fyiAaCGsS3UxPc/edit#slide=id.p">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240308-30525.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240308-30525.mp3" type="audio/mp3" length="84043708" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>4060</itunes:duration>
+    <itunes:episode>32</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Fri, 08 Mar 2024 15:15:00 -0000</pubDate>
+    <title>Weathering the stormy news business</title>
+    <description><![CDATA[<p>The news business is navigating through an extremely stormy, chaotic moment. Newsrooms are downsizing, looming layoffs cast a gloom and disruptive technologies like A.I. are clouding the future. Social platforms that connected you to readers have collapsed, forcing you to rebuild on strange new networks.</p>
+    <p>But there are steps you can take today to seize control of the direction of your career no matter what the industry has is store for you.</p>
+    <p>Let’s talk about how and why you should own your connection to your readers and chart a new course by starting a newsletter (without having to climb aboard another problematic VC-funded platform). We’ll look at the excellent tools available for publishing, promotion and analytics (embracing open source and privacy friendly tools where possible).</p>
+    <p>We’ll also talk about how to bounce back from a layoff, or how to pivot to new opportunities such as freelancing, syndication and basic promotion by getting a simple website of your work up and running in no time.</p>
+    <p>Tara García Mathewson & Jon Keegan, The Markup; Paroma Soni, Politico</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240308-30529.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240308-30529.mp3" type="audio/mp3" length="71699379" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3762</itunes:duration>
+    <itunes:episode>33</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Fri, 08 Mar 2024 16:30:00 -0000</pubDate>
+    <title>Behind the story: 2023 Philip Meyer winners</title>
+    <description><![CDATA[<p>A data deep dive into the 2023 Philip Meyer Award winners. Hear from reporters on how they gathered, cleaned, analyzed and visualized the data behind some of the year's biggest stories.</p>
+    <p>Justin-Casimir Braun, Lighthouse Reports; Sarah Cohen, Arizona State University; Jason Grotto, Bloomberg News; Aaron Sankin, The Markup; Leon Yin, Bloomberg</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240308-30526.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240308-30526.mp3" type="audio/mp3" length="73504037" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3545</itunes:duration>
+    <itunes:episode>34</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Fri, 08 Mar 2024 16:30:00 -0000</pubDate>
+    <title>Fire, smoke and prevention: Using data to investigate the wildfire crisis</title>
+    <description><![CDATA[<p>Wildfire prevention and response are massive endeavors stretching across local, state and federal agencies — they're complex, high stakes, big budget, and rarely covered in deep dives. They also generate lots of data, but knowing where to look and what you're looking at can be challenging as a reporter. This session will cover how metrics are tracked, how to approach wildfire data with an investigative mindset, and some of the panelists' favorite databases.</p>
+    <p>Adiel Kaplan, NBC News; Veronica Penney, The Washington Post; Emily Zentner, The California Newsroom</p>
+    <p><a href="https://docs.google.com/presentation/d/1qMcwHH2Haf6v83pKicXW2YBkeUoKCRouCYedJ_frNrA/edit#slide=id.p">Slides</a> <a href="https://docs.google.com/document/d/1Qx18FxRmzs_g5Ruvcuj3-y22OLsIRetIbgMz0XbwUM4/edit">Tipsheet</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240308-30538.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240308-30538.mp3" type="audio/mp3" length="75534123" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3540</itunes:duration>
+    <itunes:episode>35</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Fri, 08 Mar 2024 16:30:00 -0000</pubDate>
+    <title>Navigating the world of nonprofit data</title>
+    <description><![CDATA[<p>What can you learn about a nonprofit from its tax return? What data is available on nonprofits through the IRS and tools like ProPublica’s Nonprofit Explorer? When should you file a records request for more information? In this session, we’ll discuss the tools and techniques you can use to investigate nonprofits, and dive into examples of how reporters have used publicly available tax records and datasets to land stories.</p>
+    <p>David Fahrenthold, The New York Times; Andrea Suozzo, ProPublica; Lauren Weber, The Washington Post</p>
+    <p><a href="https://docs.google.com/presentation/d/1C1q0FAMjSDCRErlJp1zyaaKkjkdpQGbq/edit#slide=id.p1">Slides</a> <a href="https://docs.google.com/document/d/1Tg0WD-6rkG0HZWZD72U-t-eMgx4ubdO26NVA3dPLNUE/edit#heading=h.1pgkcz2aa1i7">Tipsheet</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240308-30543.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240308-30543.mp3" type="audio/mp3" length="83623993" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3968</itunes:duration>
+    <itunes:episode>36</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Fri, 08 Mar 2024 16:30:00 -0000</pubDate>
+    <title>Understanding the impact of Asian American voters: From data to stories</title>
+    <description><![CDATA[<p>Witness the remarkable surge in the number of eligible Asian American voters during the previous presidential election cycle. With projections estimating over 15 million Asian Americans eligible to vote, constituting just over 6% of the eligible population, their growth surpasses that of other racial and ethnic groups.</p>
+    <p>What insights can we gain from analyzing existing data on Asian American voters? How will Asian Americans make a significant impact in local elections? What challenges do reporters commonly face when covering AAPI issues? Join this panel, hosted by the Asian American Journalists Association, and glean knowledge from researchers and seasoned data reporters.</p>
+    <p>This session was planned in collaboration with the Asian American Journalists Association. IRE retains control of content, including the topic and speaker selection, for all conference sessions.</p>
+    <p>Nicole Dungca, The Washington Post; Pratheek Rebala, Center for Public Integrity; Neil G. Ruiz, Pew Research Center; Janelle Wong, AAPI Data</p>
+    <p><a href="https://docs.google.com/presentation/d/1X-ng9oMhovzWg3yBmgsOX5TpiZj5ldBjk3fWgx9kQ54/edit#slide=id.p">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240308-30533.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240308-30533.mp3" type="audio/mp3" length="64352245" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3499</itunes:duration>
+    <itunes:episode>37</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Fri, 08 Mar 2024 19:15:00 -0000</pubDate>
+    <title>Navigating press freedom: A conversation about journalists’ safety</title>
+    <description><![CDATA[<p>Hear from panelists on how they keep themselves, sources, data and documents safe. Top leaders in the industry discuss what their newsrooms do when faced with political threats, unlawful arrests and detainments, surveillance and more.</p>
+    <p>This session is sponsored by Dow Jones. IRE retains control of content, including the topic and speaker selection, for all conference sessions.</p>
+    <p>Paul Beckett, The Wall Street Journal; David Cuillier, Joseph L. Brechner Freedom of Information Project; Emilia Díaz-Struck, Global Investigative Journalism Network (GIJN); Cindy Galli, ABC News; Karrie Kehoe, International Consortium of Investigative Journalists (ICIJ); Ron Nixon, Associated Press</p>
+    <p><a href="https://resources.ire.org/tipsheets/20240308-30359.pdf">Tipsheet</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240308-30527.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240308-30527.mp3" type="audio/mp3" length="81734763" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3941</itunes:duration>
+    <itunes:episode>38</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Fri, 08 Mar 2024 19:15:00 -0000</pubDate>
+    <title>Undercovered stories about trans communities</title>
+    <description><![CDATA[<p>Anti-transgender laws have surged across state legislatures in recent years. At least 83 anti-trans bills have passed in U.S. states in  2023 so far, and hundreds more have been proposed in Congress. Many outlets have reported on the existence of this legislation, but fewer news organizations have dug deeper into the root causes of anti-trans activism or where money and resources for anti-trans legislation come from. More, as these laws go into effect across the U.S., there will be important stories about the consequences of their enforcement and the experiences of transgender people as their rights are chipped away.</p>
+    <p>Come with questions about how to find better reporting questions, frame stronger stories, and cut through politics to get to facts. Get practical tips on finding and reporting stories that cover anti-trans legislation's consequences accurately and responsibly. Panelists will talk through examples of how previous investigative stories were developed and how editorial framing decisions were made.</p>
+    <p>The first half of the session will be a brief panel discussion. The second half of the session will be a larger group discussion for all attendees. NICAR attendees are encouraged to bring story ideas to this session and workshop them with TJA members.</p>
+    <p>This session has been planned in collaboration with the Trans Journalists Association. IRE retains control of content, including the topic and speaker selection, for all conference sessions.</p>
+    <p>Alberto Cairo, University of Miami; Haru Coryne & Lucas Waldron, ProPublica; Justin Myers, Chicago Sun-Times; Orion Rummler, The 19th News</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240308-30540.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240308-30540.mp3" type="audio/mp3" length="82454084" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3722</itunes:duration>
+    <itunes:episode>40</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Fri, 08 Mar 2024 19:15:00 -0000</pubDate>
+    <title>Using data in government and policy reporting</title>
+    <description><![CDATA[<p>Newsrooms often keep data reporters separate from their government team, resulting in last-minute consultations and missed opportunities. In this session, a panel of government, policy, and data reporters will share databases, story ideas, tools, and other tips that they use in their beat. With 2024 on the horizon, this panel hopes to arm reporters with all the data they will need to cover their state.</p>
+    <p>Justin Hicks, Louisville Public Media; Kate Huangpu, Spotlight PA; Bianca Pallaro, The City; Adam Rayes, Michigan Public (Formerly Michigan Radio); Daniel Schuman, POPVOX Foundation</p>
+    <p><a href="https://resources.ire.org/tipsheets/20240308-30406.pdf">Slides</a> <a href="https://resources.ire.org/tipsheets/20240308-30407.pdf">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240308-30544.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240308-30544.mp3" type="audio/mp3" length="73125091" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3391</itunes:duration>
+    <itunes:episode>41</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Fri, 08 Mar 2024 19:15:00 -0000</pubDate>
+    <title>Web APIs in R with httr2</title>
+    <description><![CDATA[<p>httr2 is an R package that helps you generate and perform HTTP requests then process the responses. In this talk, I'll introduce you to httr2 and the basics of HTTP, so you can learn what powers so much of the modern internet, and how you can work with it from R.</p>
+    <p>httr2 is the successor to httr and has been under development for around two years. Compared to httr, httr2 has an explicit request object which leads to a more familiar interface where you can iteratively build up complex requests with the pipe. There's no need to stop using httr, as we'll continue to maintain it for many years to come, but for new projects, I'd highly recommend giving httr2 a shot.</p>
+    <p>Hadley Wickham, Posit</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240308-30534.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240308-30534.mp3" type="audio/mp3" length="68804608" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3589</itunes:duration>
+    <itunes:episode>42</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Fri, 08 Mar 2024 20:30:00 -0000</pubDate>
+    <title>Google Trends for election coverage</title>
+    <description><![CDATA[<p>Learn how to use Google Trends to track search interest in real-time and support election coverage. We’ll show you how to watch for major spikes in searches, get national and regional-level data and use search insights to find inspiration for your next story.</p>
+    <p>This session is sponsored by Google Trends. IRE retains control of content, including the topic and speaker selection, for all conference sessions.</p>
+    <p>Ana Gabriela Caesar, Google Trends/Vaco; Pallavi Singhal, </p>]]></description>
+    <guid>https://resources.ire.org/audio/20240308-30531.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240308-30531.mp3" type="audio/mp3" length="58727787" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3126</itunes:duration>
+    <itunes:episode>43</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Fri, 08 Mar 2024 20:30:00 -0000</pubDate>
+    <title>Unleashing the power of data in investigations to expose political influence operations</title>
+    <description><![CDATA[<p>This panel will provide actionable information to help journalists follow the money and uncover political influence, from who is seeking to influence policy to U.S. elections. Panelists will share a wide range of investigative techniques and tools, walking participants through a simple recipe of creating compelling investigative stories exposing political influence. Learn the ins and outs of where to find what information, as well as potential pitfalls. Resources covered will include campaign finance data, lobbying disclosures and other public records.</p>
+    <p>Anna Massoglia, OpenSecrets; Ben Wieder, McClatchy/Miami Herald; K. Sophie Will, CQ Roll Call</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240308-30539.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240308-30539.mp3" type="audio/mp3" length="75521078" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3541</itunes:duration>
+    <itunes:episode>44</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Fri, 08 Mar 2024 22:00:00 -0000</pubDate>
+    <title>Lightning Talks ⚡️</title>
+    <description><![CDATA[<p>Sometimes you don't need 45 minutes to explain a useful technique or interesting resource. Join your colleagues for a session of short (5-minute) talks about doing data journalism, web development and related topics.</p>
+    <p>Lucio Villa, The Washington Post</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240308-30535.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240308-30535.mp3" type="audio/mp3" length="80534053" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>4593</itunes:duration>
+    <itunes:episode>45</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 14:00:00 -0000</pubDate>
+    <title>Elevate your graphics with Illustrator and Inkscape</title>
+    <description><![CDATA[<p>Vector graphics programs like Illustrator and Inkscape are great tools for creating beautiful, completely unique data viz and graphics – but the best part is it doesn’t need to all be done from scratch. In this session, we will go over ways to begin making your chart using various online tools that most newsrooms already use (like Datawrapper, RawGraphs, Flourish, ggplot, etc.) but elevate its design with the magic of SVGs and vector graphics programs.</p>
+    <p>We’ll talk through color choices, fonts, accessibility, framing, and more – and give you tips and tricks to create stunning graphics that you can customize to your heart’s delight. This session is good for journalist with some data and data visualization knowledge. Attendees will need to bring their own laptop for the training.</p>
+    <p>Adam Marton, Merrill College of Journalism, University of Maryland; Paroma Soni, Politico</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30554.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30554.mp3" type="audio/mp3" length="72665898" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3398</itunes:duration>
+    <itunes:episode>46</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 14:00:00 -0000</pubDate>
+    <title>How to track opioid settlement funds in your state</title>
+    <description><![CDATA[<p>State and local governments have agreed to national settlements with companies that made, distributed, or sold opioid painkillers. The settlements total over $50 billion and are meant to be spent on addiction treatment and prevention. But we know from the history of the tobacco settlements that money doesn't always go toward its intended purpose. That's where journalists come in. We can track this money and hold elected officials accountable for using it toward one of the greatest public health crises of our time. In this session, attendees will be introduced to half a dozen national databases that can facilitate their reporting, as well as guidelines and reporter forums that can serve as resources. They'll also hear from local reporters in Pennsylvania and Maine about examples of ways they used data and public records to tell this story.</p>
+    <p>Emily Bader, The Maine Monitor; Ed Mahon, Spotlight PA; Ashton Mara, Reporting on Addiction, 100 Days in Appalachia; Aneri Pattani, KFF Health News</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30560.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30560.mp3" type="audio/mp3" length="71054444" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3495</itunes:duration>
+    <itunes:episode>47</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 14:00:00 -0000</pubDate>
+    <title>Land Grab University 2.0 investigation: How we did it</title>
+    <description><![CDATA[<p>Panelists will discuss Grist's investigation to reconstruct 8.1 million acres of state trust lands, currently benefiting 14 land-grant universities, taken from nearly 125 Indigenous nations. These lands now produce millions of dollars a year for universities through timber harvesting, oil and gas, mineral extraction, and agriculture. We’ll tell you about our research process, the difficulties of tracing data across hundreds of years of history, and the possibilities of working with our public dataset.</p>
+    <p>Clayton Aldern & Maria Parazo Rose, Grist</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30545.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30545.mp3" type="audio/mp3" length="70521086" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3541</itunes:duration>
+    <itunes:episode>48</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 14:00:00 -0000</pubDate>
+    <title>Using AI tools for data journalism</title>
+    <description><![CDATA[<p>The speed at which new generative AI tools have been released is dizzying. While it is still early in their development, these powerful tools have already shown promise for helping augment the work of data journalists. We will look at specific examples of how journalists are using ChatGPT, Github Copilot and other novel AI tools to rapidly generate code, interrogate documents and do things we weren't able to do before. And we will also take care to highlight how NOT to use these tools, and how they should work within your newsroom's AI policies (your newsroom has AI policies, right?).</p>
+    <p>Jon Keegan, The Markup</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30548.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30548.mp3" type="audio/mp3" length="66168298" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3801</itunes:duration>
+    <itunes:episode>49</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 15:15:00 -0000</pubDate>
+    <title>Automating your beat: Unredact documents, monitor websites, file better FOIAs and much more with the MuckRock portfolio</title>
+    <description><![CDATA[<p>Ever have a gnarly PDF you're trying to untangle? Wish you had better ideas for requests to file or a process for managing your large-scale project? Join this session to hear how MuckRock can help with everything from extracting spreadsheets or unredacting documents to getting alerts from your local city council meetings when a hot topic hits the agenda. We'll run through a wide range of capabilities right within the MuckRock and DocumentCloud services, available for verified journalists to start tapping into today.</p>
+    <p>Derek Kravitz & Michael Morisy, MuckRock</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30546.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30546.mp3" type="audio/mp3" length="60934073" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3097</itunes:duration>
+    <itunes:episode>50</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 15:15:00 -0000</pubDate>
+    <title>Data and accountability on the climate change beat</title>
+    <description><![CDATA[<p>Data can be a powerful way to illustrate the impacts of human society on our climate and environment. But it’s also a key tool for holding authorities accountable for the promises they make about protecting the environment and those living in it. On this panel, journalists will speak about how to use data to hold those in power accountable for environmental disasters and a changing climate.</p>
+    <p>Clayton Aldern, Grist; Dillon Bergin, MuckRock; Savanna Strott, Public Health Watch; Emily Zentner, The California Newsroom</p>
+    <p><a href="https://docs.google.com/presentation/d/1Yliq3S6iQzGTeG6-nm9RjHFsVVcERu0DFUqdeuV6PnM/edit?usp=sharing">Slides</a> <a href="https://docs.google.com/document/d/1T7KVTisyy6wStzBnpEpgtBEqQY5xqZ-7RZJvIREAVd8/edit?usp=sharing">Tipsheet</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30549.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30549.mp3" type="audio/mp3" length="70651057" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3658</itunes:duration>
+    <itunes:episode>51</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 15:15:00 -0000</pubDate>
+    <title>How to keep your finger on the pulse of foreign influence</title>
+    <description><![CDATA[<p>This session will help journalists keep their finger on the pulse of propaganda and foreign influence operations. Tracking the spread of foreign propaganda has become more important than ever with foreign influence increasingly felt across the U.S., ranging from federal lobbying to state ballot measures and digital media. This session would help journalists know what to look out for when they are targeted by foreign propaganda campaigns and walk attendees through how to unlock insights from billions of dollars in spending on operations reported in Foreign Agent Registration Act (FARA) and lobbying filings, state-level records, gift disclosures, digital ad archives, personal financial disclosures, visitor logs, corporate databases and more!</p>
+    <p>Taylor Giorno, The Hill; Mark Greenblatt, Arizona State University; Anna Massoglia, OpenSecrets; Rowan Philp, Global Investigative Journalism Network</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30555.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30555.mp3" type="audio/mp3" length="77401747" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3382</itunes:duration>
+    <itunes:episode>52</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 15:15:00 -0000</pubDate>
+    <title>The new OSINT investigative wave</title>
+    <description><![CDATA[<p>Newsrooms all over the world are running to secure Open Source Intelligence analysts to power up their investigative teams. In 2023 many media organisations have invested in hirings, tools and new teams in both US and Europe. But what is OSINT and what can this investigative branch really add to reporting? In this session, speakers will dicsuss how they are using OSINT/CAR investigative tools and practices to enrich their reporting projects.</p>
+    <p>Sarah Cahlan & Meg Kelly, The Washington Post; Sam Joiner, The Financial Times; Daniele Palumbo, BBC; Brenna Smith, The Baltimore Banner</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30561.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30561.mp3" type="audio/mp3" length="82764409" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>4042</itunes:duration>
+    <itunes:episode>53</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 16:30:00 -0000</pubDate>
+    <title>Covering state-based and local courts – transparency, tips, and tricks</title>
+    <description><![CDATA[<p>While the U.S. Supreme Court grabs a lot of the public attention, more than 95 percent of cases are filed in state courts, which hand down thousands of rulings affecting ordinary people’s daily lives. But court transparency is spotty and newsroom budgets are constrained. At this panel hear about existing resources, tips on wrangling access and data, and story examples and ideas for covering courts and justice locally.</p>
+    <p>Michael Lissner, Free Law Project; Danielle Ohl, Spotlight PA; Nancy Watzman, Lynx LLC/State Court Report</p>
+    <p><a href="https://docs.google.com/document/d/1PcWybvbl3nV8ptK_8P_BW2OdjkKvKzD0Hapke7efWeI/edit">Tipsheet</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30550.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30550.mp3" type="audio/mp3" length="64568315" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3691</itunes:duration>
+    <itunes:episode>54</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 16:30:00 -0000</pubDate>
+    <title>Encryption and risk-reduction practices</title>
+    <description><![CDATA[<p>In today's digital age, investigative reporters are increasingly vulnerable to cyber threats, making protecting sensitive information paramount. This training session empowers journalists with advanced encryption techniques to safeguard their data on computers and mobile phones. We'll explore the latest technologies and best practices for secure communication with sources, colleagues, and editors. Participants will learn how to shield their digital footprint from predatory actors, ensuring the confidentiality and integrity of their work. By the end of the class, reporters will be equipped with the knowledge and practical skills to implement robust encryption strategies in their investigative endeavors.</p>
+    <p>Jorge Luis Sierra, Bordera Center for Journalists and Bloggers</p>
+    <p><a href="https://docs.google.com/presentation/d/16BiGVeXYopPj8SrTDGsU8W5wL0PEjSKkIB_-xWC_MR4/edit#slide=id.p">Slides</a> <a href="https://docs.google.com/presentation/d/1IIW8wMXGpLTAfi_WZVbGpxXamFAE-SrCsU115EPDZEE/edit#slide=id.p">Slides</a> <a href="https://docs.google.com/document/d/1efZBJ3DEsAPgLUFkH2wbnE0F5Zx2TI75HNLqz_tYx3U/edit">Tipsheet</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30556.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30556.mp3" type="audio/mp3" length="74270862" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3617</itunes:duration>
+    <itunes:episode>55</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 16:30:00 -0000</pubDate>
+    <title>Navigating FOIA</title>
+    <description><![CDATA[<p>Too often journalists are stonewalled when requesting information under the Freedom of Information Act about how the federal government is operating at the national, state, and local levels. This session will cover strategies to find success with FOIA, including how to get agencies respond to your requests more quickly, when you might want to look for records that could be public in other places, and where you can find resources to help you appeal denials.</p>
+    <p>This session was planned in collabration with Reporters Committee for Freedom of the Press. IRE retains control of content, including the topic and speaker selection, for all conference sessions.</p>
+    <p>Paula Lavigne, ESPN; Jason Leopold, Bloomberg News; Adam Marshall, Reporters Committee for Freedom of the Press; Kate Martin, APM Reports</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30562.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30562.mp3" type="audio/mp3" length="85771895" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3695</itunes:duration>
+    <itunes:episode>56</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 19:15:00 -0000</pubDate>
+    <title>Auditing algorithms and AI for bias</title>
+    <description><![CDATA[<p>As firms race to adopt generative AI to get an edge over competitors, reporters are designing experiments to measure the harms these technologies pose to consumers.</p>
+    <p>This panel showcases three original investigations into statistical bias embedded within generative AI products.</p>
+    <p>Victoria Turk and Leonard Nicoletti will discuss their respective approaches to testing AI-generated images for stereotypes. Leon Yin will share how to audit [REDACTED].</p>
+    <p>Meredith Broussard will moderate a discussion between the panelists on their approaches to reporting on state-of-the-art technologies critically, systematically, and precisely.</p>
+    <p>Meredith Broussard, New York University; Leonardo Nicoletti, Bloomberg News; Victoria Turk, Rest of World; Leon Yin, Bloomberg</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30551.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30551.mp3" type="audio/mp3" length="65254361" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3637</itunes:duration>
+    <itunes:episode>57</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 19:15:00 -0000</pubDate>
+    <title>Data around the world for investigations everywhere</title>
+    <description><![CDATA[<p>This session has the purpose to offer journalists ideas to search in international datasets and resources for local stories. This can be also an invitation to think more possible cross-border stories from a local perspective.</p>
+    <p>Agustin Armendariz, International Consortium of Investigative Journalists; Eva Constantaras, Lighthouse Reports; Emma Prest, Independent journalist; Anastasia Valeeva, Newsday Media Group</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30557.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30557.mp3" type="audio/mp3" length="66462915" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3184</itunes:duration>
+    <itunes:episode>58</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 19:15:00 -0000</pubDate>
+    <title>The power of knowing your (data's) weaknesses</title>
+    <description><![CDATA[<p>Even the most advanced data analysis can still be tripped up by the age-old maxim: Garbage in, garbage out. And let's face it, every dataset has problems. We'll walk attendees how to instill a healthy data-skeptical approach to your reporting. You'll learn strategies for identifying:</p>
+    <p>* The strengths and weaknesses of your data * Workable weaknesses * Deal breakers * When the weaknesses are the story</p>
+    <p>Chad Day & Larry Fenn, Associated Press; Meghan Hoyer, The Washington Post; Kae Petrin, Chalkbeat</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30563.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30563.mp3" type="audio/mp3" length="72385376" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3420</itunes:duration>
+    <itunes:episode>59</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 20:30:00 -0000</pubDate>
+    <title>Fireside chat with Hilke Schellmann and Meredith Broussard</title>
+    <description><![CDATA[<p>Join Hilke Schellmann and Meredith Broussard discuss Schellmann’s new investigative book “The Algorithm: How AI Decides Who Gets Hired, Monitored, Promoted, and Fired and Why We Need to Fight Back Now”</p>
+    <p>Six years ago Schellmann heard from a Lyft driver that they were interviewed by a “robot.” She went down a rabbit hole and found out that companies are using AI in hiring and to monitor workers at unprecedented levels without much oversight or the public’s knowledge.</p>
+    <p>In this chat, she will reveal how she reported and found the personal stories in her book and how she tested these tools herself and found out that many do more harm than good. Participants will also get an inside look on how investigative journalists can hold AI tools accountable (without any coding required!) and how to tell compelling stories.</p>
+    <p>Meredith Broussard, New York University; Hilke Schellmann, Freelance Reporter/ NYU Journalism Professor</p>
+    <p><a href="https://resources.ire.org/tipsheets/20240309-30403.pdf">Tipsheet</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30558.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30558.mp3" type="audio/mp3" length="79398762" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3616</itunes:duration>
+    <itunes:episode>60</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 20:30:00 -0000</pubDate>
+    <title>Leveraging local newsrooms to uncover hidden police accountability stories</title>
+    <description><![CDATA[<p>Using data from New York police misconduct records, the USA Today Network embarked on the first-ever investigation of police vehicle crashes in the state, finding that well over 335 crashes took place in Syracuse alone between 2013 and 2022. Most crashes resulted in no discipline for officers involved, and two-thirds of the officers who were disciplined got only a written reprimand. In the past nine months, a team of USA Today Network journalists, in partnership with Syracuse University’s S.I. Newhouse School of Public Communications and The Central Current, used data tools like Excel and Google Pinpoint, mined court documents and conducted dozens of interviews with attorneys, victims and police officials to publish a comprehensive account of how officers put haste over public safety, raising questions about their training, discipline policies and their ability to protect civilians on the road.</p>
+    <p>Kayla  Canne, Democrat and Chronicle; Nausheen Husain & Jodi Upton, Syracuse University; Beryl Lipton, USA Today; David Robinson & Sarah Taddeo, USA Today Network</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30564.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30564.mp3" type="audio/mp3" length="78771707" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3672</itunes:duration>
+    <itunes:episode>61</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 20:30:00 -0000</pubDate>
+    <title>Lifting a veil on local campaign finance reports</title>
+    <description><![CDATA[<p>Have you ever wondered how much money your local candidates raise? Are you curious about what interests fund school board trustees, city council reps and county judges? Join Professor Christian McDonald and three student interns at the University of Texas for a discussion about their Local Campaign Finance Project, where they set out to create a searchable database of campaign finance reports in Texas using DocumentCloud. Learn about challenges they faced, successes they found and obstacles they’ve yet to overcome. Get a live walk-through of the reports they’ve collected so far.</p>
+    <p>This session is good for: Anyone interested in public information request projects, document management or campaign finance.</p>
+    <p>Athena Hawkins & Karina Kumar & Christian McDonald & Carolyn Parmer, University of Texas at Austin</p>
+    <p><a href="https://docs.google.com/document/d/1IyMNgsFN-uUdiUTGg8n47sfEXui1uqORiAdJvim2yPU/edit#heading=h.q5cwhlqqkwus">Tipsheet</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30552.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30552.mp3" type="audio/mp3" length="60698618" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3379</itunes:duration>
+    <itunes:episode>62</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 21:45:00 -0000</pubDate>
+    <title>AI 303: Case studies</title>
+    <description><![CDATA[<p>Jennifer LaFleur, University of California Berkeley; Pratheek Rebala, Center for Public Integrity; Jonathan Stray, UC Berkeley</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30565.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30565.mp3" type="audio/mp3" length="81143854" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3658</itunes:duration>
+    <itunes:episode>63</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 21:45:00 -0000</pubDate>
+    <title>Finding and telling stories for the communities you cover</title>
+    <description><![CDATA[<p>For journalists reporting on our own communities, our proximity can give us unprecedented access and insight to stories others might overlook, but that often means challenging longstanding ideas of objectivity. Join this session to hear how reporters report on the people around them with unique nuance, depth and expertise.</p>
+    <p>Grace Asiegbu, Injustice Watch; Emmanuel Martinez, The Washington Post; Libby Seline, Independent journalist; John-John Williams IV, The Baltimore Banner</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30553.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30553.mp3" type="audio/mp3" length="70572053" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3950</itunes:duration>
+    <itunes:episode>64</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 21:45:00 -0000</pubDate>
+    <title>Scraping TikTok and Instagram videos for investigative reporting</title>
+    <description><![CDATA[<p>While the social media landscape continues to rapidly evolve, video-based platforms continue to be rich sources of material for investigative reporting. Platforms like TikTok and Instagram, however, are designed to make it incredibly difficult for users to access video data in bulk, if at all. This session will walk through tools and a flexible Javascript/command-line pipeline to batch download TikTok videos or Instagram reels for a specific topic or list of users, extract metadata, and transcribe audio. I’ll also discuss general principles and advice for how to navigate reporting on these platforms, using the story “The food industry pays ‘influencer’ dietitians to shape your eating habits” as a case study.</p>
+    <p>Caitlin Gilbert, The Washington Post</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30559.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30559.mp3" type="audio/mp3" length="62681234" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>2847</itunes:duration>
+    <itunes:episode>65</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sat, 09 Mar 2024 21:45:00 -0000</pubDate>
+    <title>Using geospatial and tabular data for impactful climate reporting and visualization</title>
+    <description><![CDATA[<p>Though climate change is the salient issue of our time, we need to be intentional about our methodology and presentation to cut through a morass of doomscrolling and pseudoscience. In this session, we will use our piece, “Rising Seas Imperil US Sites, Military Bases Worth $387 Billion,” as a case study to demonstrate how to acquire, understand, analyze and visualize complex climate topics, and properly communicate your findings to your audience.</p>
+    <p>Jon Meltzer & Atthar Mirza, Bloomberg Industry Group</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240309-30547.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240309-30547.mp3" type="audio/mp3" length="65517132" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3376</itunes:duration>
+    <itunes:episode>66</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sun, 10 Mar 2024 14:15:00 -0000</pubDate>
+    <title>Making your stories ironclad</title>
+    <description><![CDATA[<p>Whether it’s for a months-long investigation or a quicker-turn enterprise piece, you want your data analysis to be rock solid. We’ll talk about the best ways to vet your findings and avoid dangerous mistakes and assumptions. Come ready to share your own ideas so we can learn from each other.</p>
+    <p>Monica Cordero Sancho, Investigate Midwest; Holly Hacker, KFF Health News; Steven Rich, The Washington Post</p>]]></description>
+    <guid>https://resources.ire.org/audio/20240310-30566.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240310-30566.mp3" type="audio/mp3" length="75310359" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3671</itunes:duration>
+    <itunes:episode>67</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubDate>Sun, 10 Mar 2024 15:30:00 -0000</pubDate>
+    <title>A world of possibilities: Lassoing satellite data for global and local investigations</title>
+    <description><![CDATA[<p>Journalists have used satellite data to map flooding, illegal deforestation, methane emissions, high-risk zones for future epidemics and much more. We’ll discuss how to access and analyze stacks of satellite data, with platforms like Google Earth Engine, to produce investigations that break new ground with help from the sky.</p>
+    <p>Carl Churchill, The Wall Street Journal; Laura Kurtzberg, Florida International University; Deborah Nelson, University of Maryland</p>
+    <p><a href="https://docs.google.com/presentation/d/1l-cDi16Q41PXHg-UE6Jw3eWcu3hhsnlHOemuMpu2dIg/edit#slide=id.g1f1fab65f55_0_585">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/audio/20240310-30567.mp3</guid>
+    <enclosure url="https://resources.ire.org/audio/20240310-30567.mp3" type="audio/mp3" length="79092238" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3679</itunes:duration>
+    <itunes:episode>68</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
+    <itunes:image href="https://backspace.com/nicar2024/podcast-cover.jpg" />
+  </item>
+</channel>
+</rss>
