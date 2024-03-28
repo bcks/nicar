@@ -3,12 +3,14 @@
 
 Do you like podcasts? And computer-assisted investigative journalism? Then you might enjoy this mini-podcast feed of audio recordings from the [2024 NICAR conference](https://www.ire.org/training/conferences/nicar-2024/).
 
-Drop this URL into your favorite podcast app:  
+<br> 
+
+**Drop this URL into your favorite podcast app:**  
 [https://raw.githubusercontent.com/bcks/nicar-2024/main/podcast.xml](https://raw.githubusercontent.com/bcks/nicar-2024/main/podcast.xml)
 
-  
+<br> 
 
-The feed is packaged from the list of [audio files and tip sheets](https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/) generously shared by the presenters and organizers. 
+The feed is packaged from the list of [audio files and tip sheets](https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/) generously shared by the presenters and conference organizers. 
 
 NB: Most of the audio is not in stereo.
 
