@@ -9,5 +9,5 @@ Drop this URL into your favorite podcast app:
 
 The feed is packaged from the list of [audio files and tip sheets](https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/) generously shared by the presenters and organizers. 
 
-N.b. most of the audio is not in stereo.
+NB: Most of the audio is not in stereo.
 
