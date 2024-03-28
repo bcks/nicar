@@ -6,7 +6,7 @@
   <language>en-us</language>
   <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
   <generator>Podcast RSS Generator (https://github.com/vpetersson/podcast-rss-generator)</generator>
-  <atom:link href="https://backspace.com/nicar2024/podcast_feed.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://raw.githubusercontent.com/bcks/nicar-2024/main/podcast.xml" rel="self" type="application/rss+xml" />
   <itunes:explicit>no</itunes:explicit>
   <itunes:owner><itunes:email>john@backspace.com</itunes:email></itunes:owner>
   <itunes:author>NICAR</itunes:author>
