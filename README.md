@@ -6,6 +6,7 @@ Do you like podcasts? And computer-assisted investigative journalism? Then you m
 Drop this URL into your favorite podcast app:  
 [https://raw.githubusercontent.com/bcks/nicar-2024/main/podcast.xml](https://raw.githubusercontent.com/bcks/nicar-2024/main/podcast.xml)
 
+  
 
 The feed is packaged from the list of [audio files and tip sheets](https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/) generously shared by the presenters and organizers. 
 
