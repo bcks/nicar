@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel> 
   <title>NICAR Sessions</title>
-  <description>&lt;![CDATA[&lt;p&gt;An unofficial podcast feed of audio recordings from NICAR 2024 and 2025&lt;/p&gt;]]&gt;</description>
+  <description>An unofficial podcast feed of audio recordings from NICAR 2024 and 2025</description>
   <language>en-us</language> 
   <link>https://github.com/bcks/nicar</link>
   <generator>Podcast RSS Generator (https://github.com/vpetersson/podcast-rss-generator)</generator>
@@ -14,12 +14,13 @@
   <itunes:author>NICAR</itunes:author>
   <itunes:summary>An unofficial podcast feed of audio recordings from NICAR 2024 and 2025 </itunes:summary>
   <itunes:category text="Technology" />
+  <itunes:category text="News" />
   <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
 
   <item>
-    <pubdate>Thu, 06 Mar 2025 15:00:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 15:00:00 -0000</pubDate> 
     <title>Beginner track: New to data journalism? Start here</title>
-    <description>&lt;![CDATA[&lt;p&gt;Over the next few days, you'll see there is a seemingly endless number of things you can learn in the data journalism world. It can be daunting! But everyone at this conference started at the same place as you. We'll help you get started! This session will cover the basics of data journalism, starting with what it is, tips for building up your skills and advice for how you can — realistically — integrate these skills into your daily reporting. Joel Jacobs, ProPublica; Anu Narayanswamy, The Washington Post; Janelle O'Dea, Illinois Answers Project; MaryJo Webster, Minnesota Star Tribune &lt;a href="https://docs.google.com/presentation/d/1AWfDFlflu7kbUNmR_WvS7t9X0fWP024zrnbzK5bY22k/edit#slide=id.p"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Over the next few days, you'll see there is a seemingly endless number of things you can learn in the data journalism world. It can be daunting! But everyone at this conference started at the same place as you. We'll help you get started! This session will cover the basics of data journalism, starting with what it is, tips for building up your skills and advice for how you can — realistically — integrate these skills into your daily reporting. Joel Jacobs, ProPublica; Anu Narayanswamy, The Washington Post; Janelle O'Dea, Illinois Answers Project; MaryJo Webster, Minnesota Star Tribune <a href="https://docs.google.com/presentation/d/1AWfDFlflu7kbUNmR_WvS7t9X0fWP024zrnbzK5bY22k/edit#slide=id.p">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-2070.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-2070.mp3" type="audio/mp3" length="56505408" />
     <itunes:explicit>no</itunes:explicit>
@@ -31,9 +32,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 15:00:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 15:00:00 -0000</pubDate> 
     <title>Big Local News tools, wares and resources</title>
-    <description>&lt;![CDATA[&lt;p&gt;A lightning-round showcase of innovative newsroom tools and other resources that can help you collaborate on data journalism projects, harvest data and documents at scale, and track institutions for accountability reporting, from police agencies to state legislatures. Gerald Rich &amp;amp; Eric Sagara &amp;amp; Serdar Tumgoren, Big Local News&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>A lightning-round showcase of innovative newsroom tools and other resources that can help you collaborate on data journalism projects, harvest data and documents at scale, and track institutions for accountability reporting, from police agencies to state legislatures. Gerald Rich &amp;amp; Eric Sagara &amp;amp; Serdar Tumgoren, Big Local News</p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-2047.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-2047.mp3" type="audio/mp3" length="63871296" />
     <itunes:explicit>no</itunes:explicit>
@@ -45,9 +46,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 15:00:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 15:00:00 -0000</pubDate> 
     <title>Critical datasets to know when covering K-12</title>
-    <description>&lt;![CDATA[&lt;p&gt;Join this panel to learn the most important datasets, what to do if they disappear, how to approach K-12 data when you’re new to the beat, state-level data and story ideas. Becky Dernbach, Sahan Journal; Sharon Lurye, The Associated Press; Nadia Tamez-Robledo, EdSurge; Ann Thomas, retired analytics advisor &lt;a href="https://resources.ire.org/tipsheets/20250306-30405.pdf"&gt;Tipsheet&lt;/a&gt; &lt;a href="https://docs.google.com/document/d/1DcqC8EM2v2iUC5kIwk7Irjx8Y8Sc1Kji6QYqAbqZzrk"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Join this panel to learn the most important datasets, what to do if they disappear, how to approach K-12 data when you’re new to the beat, state-level data and story ideas. Becky Dernbach, Sahan Journal; Sharon Lurye, The Associated Press; Nadia Tamez-Robledo, EdSurge; Ann Thomas, retired analytics advisor <a href="https://resources.ire.org/tipsheets/20250306-30405.pdf">Tipsheet</a> <a href="https://docs.google.com/document/d/1DcqC8EM2v2iUC5kIwk7Irjx8Y8Sc1Kji6QYqAbqZzrk">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-2066.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-2066.mp3" type="audio/mp3" length="56323968" />
     <itunes:explicit>no</itunes:explicit>
@@ -59,9 +60,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 15:00:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 15:00:00 -0000</pubDate> 
     <title>Everything everywhere all at once: Data from around the world to report on global issues</title>
-    <description>&lt;![CDATA[&lt;p&gt;In an interconnected world, data is more accessible than ever—but finding and using global data comes with unique challenges. In this panel, reporters will explore strategies for locating reliable international datasets and navigating the obstacles that come with using them. From language barriers to currency conversions, inconsistent formats, and varying levels of data transparency, journalists must adapt to diverse contexts to uncover the story within the data. Panelists will share practical solutions for addressing these challenges, including best practices for working with multilingual datasets, standardizing metrics across borders, and verifying sources in regions with limited transparency. Additionally, the session will tackle the complex issue of obtaining documents and records in countries where public records laws are weak, inefficient, or nonexistent. Panelists will highlight creative approaches to accessing critical information, from building local partnerships to leveraging non-traditional sources. Key questions for discussion during the panel: • What are the most effective methods for identifying and accessing reliable global data sources? • What unique challenges do international datasets present—such as language barriers, currency discrepancies, or incompatible formats—and what strategies can help overcome them? • How can journalists access critical documents in countries where public records laws are weak, inefficient, or nonexistent? Helena Bengtsson, Gota Media; Irene Casado Sanchez, Big Local News; Eva Constantaras, Lighthouse Reports; Andy Lehren, The Center for Collaborative Investigative Journalism | CUNY JSchool; Bianca Muniz, Agência Pública de Jornalismo Investigativo &lt;a href="https://docs.google.com/presentation/d/1ZTU4qLstd0cZn4DZwxskhGAsNaEKMdKh20xB850Sh3Q/edit#slide=id.g33cafabc205_2_210"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>In an interconnected world, data is more accessible than ever—but finding and using global data comes with unique challenges. In this panel, reporters will explore strategies for locating reliable international datasets and navigating the obstacles that come with using them. From language barriers to currency conversions, inconsistent formats, and varying levels of data transparency, journalists must adapt to diverse contexts to uncover the story within the data. Panelists will share practical solutions for addressing these challenges, including best practices for working with multilingual datasets, standardizing metrics across borders, and verifying sources in regions with limited transparency. Additionally, the session will tackle the complex issue of obtaining documents and records in countries where public records laws are weak, inefficient, or nonexistent. Panelists will highlight creative approaches to accessing critical information, from building local partnerships to leveraging non-traditional sources. Key questions for discussion during the panel: • What are the most effective methods for identifying and accessing reliable global data sources? • What unique challenges do international datasets present—such as language barriers, currency discrepancies, or incompatible formats—and what strategies can help overcome them? • How can journalists access critical documents in countries where public records laws are weak, inefficient, or nonexistent? Helena Bengtsson, Gota Media; Irene Casado Sanchez, Big Local News; Eva Constantaras, Lighthouse Reports; Andy Lehren, The Center for Collaborative Investigative Journalism | CUNY JSchool; Bianca Muniz, Agência Pública de Jornalismo Investigativo <a href="https://docs.google.com/presentation/d/1ZTU4qLstd0cZn4DZwxskhGAsNaEKMdKh20xB850Sh3Q/edit#slide=id.g33cafabc205_2_210">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-2005.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-2005.mp3" type="audio/mp3" length="57853248" />
     <itunes:explicit>no</itunes:explicit>
@@ -73,9 +74,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 15:00:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 15:00:00 -0000</pubDate> 
     <title>Reporting in underserved communities with hard-to-get data</title>
-    <description>&lt;![CDATA[&lt;p&gt;This panel discussion will show examples of how journalists are navigating complex and data-driven stories on underserved communities. Speakers will share stories and how they problem-solved connecting with the people behind the data. Chelsea Curtis, Arizona Luminaria; Pam Dempsey, Data-Driven Reporting Project; Ayuka Kawakami, Independent journalist; Mauricio Peña, Borderless Magazine&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>This panel discussion will show examples of how journalists are navigating complex and data-driven stories on underserved communities. Speakers will share stories and how they problem-solved connecting with the people behind the data. Chelsea Curtis, Arizona Luminaria; Pam Dempsey, Data-Driven Reporting Project; Ayuka Kawakami, Independent journalist; Mauricio Peña, Borderless Magazine</p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-1155.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-1155.mp3" type="audio/mp3" length="50771184" />
     <itunes:explicit>no</itunes:explicit>
@@ -87,9 +88,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 16:15:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 16:15:00 -0000</pubDate> 
     <title>Beginner track: How to find data</title>
-    <description>&lt;![CDATA[&lt;p&gt;How to find and vet credible data sources that you can use right away. Greta Kaul, Minnesota Star Tribune; Stephanie Lamm, The Atlanta Journal-Constitution&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>How to find and vet credible data sources that you can use right away. Greta Kaul, Minnesota Star Tribune; Stephanie Lamm, The Atlanta Journal-Constitution</p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-2071.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-2071.mp3" type="audio/mp3" length="57059664" />
     <itunes:explicit>no</itunes:explicit>
@@ -101,9 +102,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 16:15:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 16:15:00 -0000</pubDate> 
     <title>Practical, ethical use of AI in the newsroom: Translation, audio processing and chatbots</title>
-    <description>&lt;![CDATA[&lt;p&gt;As AI continnues to proliferate and become more advanced, how can journalists use this technology ethically while advancing the work we do? Come to this session to talk about how AI can be a helpful tool in your reporting, and how to mitigate ethical risks as you explore. Eric Nicholas Barrett, OCCRP; Tazbia Fatima, Hearst; Matt Zdun, Houston Chronicle&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>As AI continnues to proliferate and become more advanced, how can journalists use this technology ethically while advancing the work we do? Come to this session to talk about how AI can be a helpful tool in your reporting, and how to mitigate ethical risks as you explore. Eric Nicholas Barrett, OCCRP; Tazbia Fatima, Hearst; Matt Zdun, Houston Chronicle</p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-1064.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-1064.mp3" type="audio/mp3" length="56753712" />
     <itunes:explicit>no</itunes:explicit>
@@ -115,9 +116,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 16:15:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 16:15:00 -0000</pubDate> 
     <title>Technical tech regulators: The data we use to regulate the most powerful companies in the world</title>
-    <description>&lt;![CDATA[&lt;p&gt;Get familiar with open data we use to regulate powerful companies, and discuss structures for accountability. Erie Meyer, Recent Federal Worker; Mike Tigas, Bad Idea Factory&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Get familiar with open data we use to regulate powerful companies, and discuss structures for accountability. Erie Meyer, Recent Federal Worker; Mike Tigas, Bad Idea Factory</p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-1087.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-1087.mp3" type="audio/mp3" length="55719312" />
     <itunes:explicit>no</itunes:explicit>
@@ -129,9 +130,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 16:15:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 16:15:00 -0000</pubDate> 
     <title>When databases don’t exist</title>
-    <description>&lt;![CDATA[&lt;p&gt;It’s happened to so many of us: you embark on a story idea with great excitement only to find that no one is tracking the problem you’re reporting on in any meaningful way so you can’t get a sense for scope, severity and disparities. It’s natural to feel deflated and maybe even move on – but three journalists who have pressed forward anyway will discuss how to wrangle disorganized information from various sources into formats you can analyze and tell stories from. Charles Boutaud, Lighthouse Reports; Alyson Clary, APM Research Lab; Caitlin McGlade, Arizona Republic&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>It’s happened to so many of us: you embark on a story idea with great excitement only to find that no one is tracking the problem you’re reporting on in any meaningful way so you can’t get a sense for scope, severity and disparities. It’s natural to feel deflated and maybe even move on – but three journalists who have pressed forward anyway will discuss how to wrangle disorganized information from various sources into formats you can analyze and tell stories from. Charles Boutaud, Lighthouse Reports; Alyson Clary, APM Research Lab; Caitlin McGlade, Arizona Republic</p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-2010.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-2010.mp3" type="audio/mp3" length="59039520" />
     <itunes:explicit>no</itunes:explicit>
@@ -143,9 +144,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 17:30:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 17:30:00 -0000</pubDate> 
     <title>Get AI to read all that stuff with semantic search</title>
-    <description>&lt;![CDATA[&lt;p&gt;Semantic search is a novel way to search large sets of short-ish text, like datasets of complaints, incident reports or social media posts. Instead of keyword search – which misses misspellings, paraphrase and use of terms that the user hasn’t thought of – semantic search finds results whose meaning is similar to that of the query. It’s a guaranteed-safe way to use AI in a newsroom context, because the only downside of a “false positive” match is wasting the reporter’s time in reading the irrelevant search results. Let’s talk about the use-cases where we’ve used it, the fiddly choices we have to make when using semantic search, and the bright new future that awaits us. Dana Chiueh, Minnesota Star Tribune; Dylan Freedman, The New York Times; Jeremy Merrill &amp;amp; Steven Rich, The Washington Post&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Semantic search is a novel way to search large sets of short-ish text, like datasets of complaints, incident reports or social media posts. Instead of keyword search – which misses misspellings, paraphrase and use of terms that the user hasn’t thought of – semantic search finds results whose meaning is similar to that of the query. It’s a guaranteed-safe way to use AI in a newsroom context, because the only downside of a “false positive” match is wasting the reporter’s time in reading the irrelevant search results. Let’s talk about the use-cases where we’ve used it, the fiddly choices we have to make when using semantic search, and the bright new future that awaits us. Dana Chiueh, Minnesota Star Tribune; Dylan Freedman, The New York Times; Jeremy Merrill &amp;amp; Steven Rich, The Washington Post</p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-1089.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-1089.mp3" type="audio/mp3" length="60473376" />
     <itunes:explicit>no</itunes:explicit>
@@ -157,9 +158,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 17:30:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 17:30:00 -0000</pubDate> 
     <title>Google Trends for journalism</title>
-    <description>&lt;![CDATA[&lt;p&gt;Find out how to discover what people are searching for, what's trending near you, and see the tools latest features with hands-on training. We will cover how to use Google Trends to find story ideas, add color to data-driven storytelling, and how to dive deeper to discover geographic patterns and how to build time and topic comparisons. This session is sponsored by Google. IRE retains control of content, including the topic and speaker selection, for all conference sessions. Sam Larson-Rodriguez, Google Trends&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Find out how to discover what people are searching for, what's trending near you, and see the tools latest features with hands-on training. We will cover how to use Google Trends to find story ideas, add color to data-driven storytelling, and how to dive deeper to discover geographic patterns and how to build time and topic comparisons. This session is sponsored by Google. IRE retains control of content, including the topic and speaker selection, for all conference sessions. Sam Larson-Rodriguez, Google Trends</p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-3004.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-3004.mp3" type="audio/mp3" length="49773096" />
     <itunes:explicit>no</itunes:explicit>
@@ -171,9 +172,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 17:30:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 17:30:00 -0000</pubDate> 
     <title>How to start investigating your college or university with data and records</title>
-    <description>&lt;![CDATA[&lt;p&gt;Are you a student journalist who wishes they had a clearer road map to how to get started doing accountability journalism on your college campus? Let's talk about how to get started. A session for total beginners. Let's talk about open records laws, federally required disclosure like IRS Form 990 and the Clery Act, and what's available to you even if you're at a private institution. Mark Greenblatt, Arizona State University/Howard Center for Investigative Reporting; Deborah Nelson, University of Maryland; Jennifer Peebles, Atlanta Journal-Constitution &lt;a href="https://docs.google.com/presentation/d/1V9qcBAFMyCI7y8pJ0MvsV9ONxYPYEwpDTZc3lvsg1p4/edit#slide=id.g33bc2ad2e08_0_0"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Are you a student journalist who wishes they had a clearer road map to how to get started doing accountability journalism on your college campus? Let's talk about how to get started. A session for total beginners. Let's talk about open records laws, federally required disclosure like IRS Form 990 and the Clery Act, and what's available to you even if you're at a private institution. Mark Greenblatt, Arizona State University/Howard Center for Investigative Reporting; Deborah Nelson, University of Maryland; Jennifer Peebles, Atlanta Journal-Constitution <a href="https://docs.google.com/presentation/d/1V9qcBAFMyCI7y8pJ0MvsV9ONxYPYEwpDTZc3lvsg1p4/edit#slide=id.g33bc2ad2e08_0_0">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-1013.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-1013.mp3" type="audio/mp3" length="53912112" />
     <itunes:explicit>no</itunes:explicit>
@@ -185,9 +186,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 17:30:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 17:30:00 -0000</pubDate> 
     <title>Turning police disciplinary files into data and stories</title>
-    <description>&lt;![CDATA[&lt;p&gt;So you got your hands on a trove (or at least a pile) of documents about police misconduct — what do you do? Our panelists will walk through the life of a document dump from a mess of PDFs to high-impact reporting. On this journey from documents to data, no detail will be spared. We’ll cover organizing and sharing the documents, testing OCR, hand-annotating, using LLMs and most importantly, finding stories in the haystacks of text. The tools and approaches we’ll cover in this panel will be useful even if your document trove isn’t about police misconduct. And if you’re looking to get your hands on police disciplinary files like the ones we’re working with, we’ll have some ideas for that too. Dillon Bergin, MuckRock; Elizabeth Santos, UC Berkeley; Sammy Sussman, The New York Times (Local Investigations Fellowship); Emily Zentner, The California Newsroom&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>So you got your hands on a trove (or at least a pile) of documents about police misconduct — what do you do? Our panelists will walk through the life of a document dump from a mess of PDFs to high-impact reporting. On this journey from documents to data, no detail will be spared. We’ll cover organizing and sharing the documents, testing OCR, hand-annotating, using LLMs and most importantly, finding stories in the haystacks of text. The tools and approaches we’ll cover in this panel will be useful even if your document trove isn’t about police misconduct. And if you’re looking to get your hands on police disciplinary files like the ones we’re working with, we’ll have some ideas for that too. Dillon Bergin, MuckRock; Elizabeth Santos, UC Berkeley; Sammy Sussman, The New York Times (Local Investigations Fellowship); Emily Zentner, The California Newsroom</p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-1112.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-1112.mp3" type="audio/mp3" length="62536224" />
     <itunes:explicit>no</itunes:explicit>
@@ -199,9 +200,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 20:15:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 20:15:00 -0000</pubDate> 
     <title>50 free government data sets in 50 minutes</title>
-    <description>&lt;![CDATA[&lt;p&gt;Why take time to argue with government records custodians when you can grab story-ripe data online for free? This session will run through 50 free datasets in 50 minutes – a twist on the 50 FOIA requests in 50 minutes. The classics, like dams, train wrecks, and bridge inspections, but also new ideas that the savvy data journalist may have missed. It will show where the datasets are located, what stories can be generated, and any caveats, with a handout providing all the relevant links to the data and IRE Resource Center tip sheets. David Cuillier &amp;amp; Sydney Sims, Brechner FOI Project &lt;a href="https://resources.ire.org/tipsheets/20250306-30414.pdf"&gt;Tipsheet&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Why take time to argue with government records custodians when you can grab story-ripe data online for free? This session will run through 50 free datasets in 50 minutes – a twist on the 50 FOIA requests in 50 minutes. The classics, like dams, train wrecks, and bridge inspections, but also new ideas that the savvy data journalist may have missed. It will show where the datasets are located, what stories can be generated, and any caveats, with a handout providing all the relevant links to the data and IRE Resource Center tip sheets. David Cuillier &amp;amp; Sydney Sims, Brechner FOI Project <a href="https://resources.ire.org/tipsheets/20250306-30414.pdf">Tipsheet</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-1048.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-1048.mp3" type="audio/mp3" length="48920928" />
     <itunes:explicit>no</itunes:explicit>
@@ -213,9 +214,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 20:15:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 20:15:00 -0000</pubDate> 
     <title>How to run visual investigations</title>
-    <description>&lt;![CDATA[&lt;p&gt;How to collaborate across the newsroom, alongside graphics, photo and video desks, to identify distinct investigative storylines that can only be told visually. Joyce Lee, The Washington Post; Maureen Linke &amp;amp; John West, The Wall Street Journal; Ryan McNeill, Reuters&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>How to collaborate across the newsroom, alongside graphics, photo and video desks, to identify distinct investigative storylines that can only be told visually. Joyce Lee, The Washington Post; Maureen Linke &amp;amp; John West, The Wall Street Journal; Ryan McNeill, Reuters</p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-1011.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-1011.mp3" type="audio/mp3" length="55323840" />
     <itunes:explicit>no</itunes:explicit>
@@ -227,9 +228,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 20:15:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 20:15:00 -0000</pubDate> 
     <title>Learning a new beat in data</title>
-    <description>&lt;![CDATA[&lt;p&gt;Lots of early-career data and graphics journalists may find themselves working on a niche beat new to them, with complicated data, hard-to-find data sources, and a need for in-depth knowledge to truly excel in their reporting. This session will provide a primer on how to build data-specific sources and contacts (including a tipsheet with some of this information for a range of beats), how to get your footing in a topic that's brand new, and how to emerge as an expert in your beat. Pooja Dantewadia, Realtor.com; Rosmery Izaguirre &amp;amp; Paroma Soni, Politico&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Lots of early-career data and graphics journalists may find themselves working on a niche beat new to them, with complicated data, hard-to-find data sources, and a need for in-depth knowledge to truly excel in their reporting. This session will provide a primer on how to build data-specific sources and contacts (including a tipsheet with some of this information for a range of beats), how to get your footing in a topic that's brand new, and how to emerge as an expert in your beat. Pooja Dantewadia, Realtor.com; Rosmery Izaguirre &amp;amp; Paroma Soni, Politico</p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-1104.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-1104.mp3" type="audio/mp3" length="46716432" />
     <itunes:explicit>no</itunes:explicit>
@@ -241,9 +242,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 20:15:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 20:15:00 -0000</pubDate> 
     <title>Passive scraping for social media</title>
-    <description>&lt;![CDATA[&lt;p&gt;Scraping complex, changing sites with anti-bot measures like TikTok and Twitter is an uphill battle, but there's often a secret solution: spy on the traffic between your browser and the server, capturing the relevant pieces! This session will take a step into the second tier of “undocumented APIs,” showing participants how to intercept their browser’s data transmissions to build spreadsheets – often with far more information than is displayed on the screen. We’ll cover several automated, coding-friendly use cases, but participants won’t need any technical skills beyond using a web browser. Jonathan Soma, Columbia University &lt;a href="https://github.com/jsoma/nicar25-passive-scraping"&gt;GitHub repo&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Scraping complex, changing sites with anti-bot measures like TikTok and Twitter is an uphill battle, but there's often a secret solution: spy on the traffic between your browser and the server, capturing the relevant pieces! This session will take a step into the second tier of “undocumented APIs,” showing participants how to intercept their browser’s data transmissions to build spreadsheets – often with far more information than is displayed on the screen. We’ll cover several automated, coding-friendly use cases, but participants won’t need any technical skills beyond using a web browser. Jonathan Soma, Columbia University <a href="https://github.com/jsoma/nicar25-passive-scraping">GitHub repo</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-2049.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-2049.mp3" type="audio/mp3" length="47453616" />
     <itunes:explicit>no</itunes:explicit>
@@ -255,9 +256,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 20:15:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 20:15:00 -0000</pubDate> 
     <title>Spreading data wisdom through mentoring</title>
-    <description>&lt;![CDATA[&lt;p&gt;We’ve all have mentors, maybe just for that one breakfast, maybe for that one job transition, maybe for a lifetime. We’ll talk about how to find a mentor, how to set goals, how often to reach out, how to be a good mentor and how to be a good mentee. And why it’s sometimes important to look for help outside your workplace. Bring your questions, we'll leave plenty of time for Q&amp;amp;A. Sandra Fish, Independent journalist; Adrian Garcia, Financial Times Specialist; John Harden, The Washington Post; Caitlin Ostroff, The Wall Street Journal &lt;a href="https://docs.google.com/presentation/d/15SwvyaNP3JSsA4z38ZNyJVdjf9vga38RSdattKUeLPY/edit#slide=id.p"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>We’ve all have mentors, maybe just for that one breakfast, maybe for that one job transition, maybe for a lifetime. We’ll talk about how to find a mentor, how to set goals, how often to reach out, how to be a good mentor and how to be a good mentee. And why it’s sometimes important to look for help outside your workplace. Bring your questions, we'll leave plenty of time for Q&amp;amp;A. Sandra Fish, Independent journalist; Adrian Garcia, Financial Times Specialist; John Harden, The Washington Post; Caitlin Ostroff, The Wall Street Journal <a href="https://docs.google.com/presentation/d/15SwvyaNP3JSsA4z38ZNyJVdjf9vga38RSdattKUeLPY/edit#slide=id.p">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-2097.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-2097.mp3" type="audio/mp3" length="48373584" />
     <itunes:explicit>no</itunes:explicit>
@@ -269,9 +270,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 21:30:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 21:30:00 -0000</pubDate> 
     <title>Extracting data from documents with AI</title>
-    <description>&lt;![CDATA[&lt;p&gt;Come to this session to learn how to use AI to “read” documents like PDFs and Excel files. It’s more than just feeding the documents in and asking for data. This session will go over techniques as well as common pitfalls and how to avoid them. Rosmery Izaguirre &amp;amp; Sean McMinn, Politico; Jonathan Soma, Columbia University &lt;a href="https://docs.google.com/presentation/d/1wqjIlneLs6z1gBnSEwRFSSfPH9K65OH0mbLh0zOiTgY"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Come to this session to learn how to use AI to “read” documents like PDFs and Excel files. It’s more than just feeding the documents in and asking for data. This session will go over techniques as well as common pitfalls and how to avoid them. Rosmery Izaguirre &amp;amp; Sean McMinn, Politico; Jonathan Soma, Columbia University <a href="https://docs.google.com/presentation/d/1wqjIlneLs6z1gBnSEwRFSSfPH9K65OH0mbLh0zOiTgY">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-1037.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-1037.mp3" type="audio/mp3" length="54583992" />
     <itunes:explicit>no</itunes:explicit>
@@ -283,9 +284,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 21:30:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 21:30:00 -0000</pubDate> 
     <title>Going deeper with Census microdata: IPUMS is your friend</title>
-    <description>&lt;![CDATA[&lt;p&gt;Census microdata allows you to look at demographic trends that are impossible to find in Census summary data. This session will introduce you to the various free IPUMS tools to work with microdata and give you examples of how journalists have used this data in stories. Sandhya Kambhampati, Los Angeles Times; Paul Overberg, The Wall Street Journal; David Van Riper, IPUMS; MaryJo Webster, Minnesota Star Tribune &lt;a href="https://docs.google.com/presentation/d/1snA0oHf_9ZJZQfp3bn6CDT16mjr9MdeNYRwYnRc0VCc/edit#slide=id.p"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Census microdata allows you to look at demographic trends that are impossible to find in Census summary data. This session will introduce you to the various free IPUMS tools to work with microdata and give you examples of how journalists have used this data in stories. Sandhya Kambhampati, Los Angeles Times; Paul Overberg, The Wall Street Journal; David Van Riper, IPUMS; MaryJo Webster, Minnesota Star Tribune <a href="https://docs.google.com/presentation/d/1snA0oHf_9ZJZQfp3bn6CDT16mjr9MdeNYRwYnRc0VCc/edit#slide=id.p">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-1051.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-1051.mp3" type="audio/mp3" length="56723256" />
     <itunes:explicit>no</itunes:explicit>
@@ -297,9 +298,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 21:30:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 21:30:00 -0000</pubDate> 
     <title>Using open-source intelligence (OSINT) in investigations</title>
-    <description>&lt;![CDATA[&lt;p&gt;This session will show how journalists can begin incorporating open-source research methodologies in their investigations, with examples from real articles. Tristan Lee &amp;amp; Logan Williams, Bellingcat &lt;a href="https://docs.google.com/document/d/e/2PACX-1vRhz2dhnqLXmxNif8HavcBc6X4zFwvXcWa6drGrcK3QJj0mz5LjQewRific-KQKvb06Hu9VAnFUkaur/pub"&gt;Tipsheet&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>This session will show how journalists can begin incorporating open-source research methodologies in their investigations, with examples from real articles. Tristan Lee &amp;amp; Logan Williams, Bellingcat <a href="https://docs.google.com/document/d/e/2PACX-1vRhz2dhnqLXmxNif8HavcBc6X4zFwvXcWa6drGrcK3QJj0mz5LjQewRific-KQKvb06Hu9VAnFUkaur/pub">Tipsheet</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-1173.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-1173.mp3" type="audio/mp3" length="51341088" />
     <itunes:explicit>no</itunes:explicit>
@@ -311,9 +312,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 21:30:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 21:30:00 -0000</pubDate> 
     <title>Which coding language to use and why</title>
-    <description>&lt;![CDATA[&lt;p&gt;Journalists may use a variety of coding languages for data investigations or for news application development. Each project and each newsroom has a unique tech stack. You might be wondering: which ones should I try? Our panelists will discuss projects they’ve pursued with code, which languages they used, and why. Carla Astudillo, The Texas Tribune; Tazbia Fatima, Hearst; Nael Shiab, CBC News; Kai Teoh, The Dallas Morning News &lt;a href="https://docs.google.com/presentation/d/1xSEKDPdrrFv8p9L--bqWHfvwxAxJgziayR0FGsMest4/edit#slide=id.p"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Journalists may use a variety of coding languages for data investigations or for news application development. Each project and each newsroom has a unique tech stack. You might be wondering: which ones should I try? Our panelists will discuss projects they’ve pursued with code, which languages they used, and why. Carla Astudillo, The Texas Tribune; Tazbia Fatima, Hearst; Nael Shiab, CBC News; Kai Teoh, The Dallas Morning News <a href="https://docs.google.com/presentation/d/1xSEKDPdrrFv8p9L--bqWHfvwxAxJgziayR0FGsMest4/edit#slide=id.p">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-1039.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-1039.mp3" type="audio/mp3" length="52966608" />
     <itunes:explicit>no</itunes:explicit>
@@ -325,9 +326,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 22:45:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 22:45:00 -0000</pubDate> 
     <title>Beginner track: How to request data and documents: FOI</title>
-    <description>&lt;![CDATA[&lt;p&gt;Introduction to making successful requests for public data or documents. Kate Martin, APM Reports; Andrew Pantazi, Freelance Editor; Tisha Thompson, ESPN &lt;a href="https://docs.google.com/presentation/d/1o7y2s5gnvpIi074dNZTPk3IDVmxn8sy3i33VNArdZuk/edit?usp=sharing"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Introduction to making successful requests for public data or documents. Kate Martin, APM Reports; Andrew Pantazi, Freelance Editor; Tisha Thompson, ESPN <a href="https://docs.google.com/presentation/d/1o7y2s5gnvpIi074dNZTPk3IDVmxn8sy3i33VNArdZuk/edit?usp=sharing">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-2072.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-2072.mp3" type="audio/mp3" length="64750176" />
     <itunes:explicit>no</itunes:explicit>
@@ -339,9 +340,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 22:45:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 22:45:00 -0000</pubDate> 
     <title>Building a culture of accessibility and why it matters</title>
-    <description>&lt;![CDATA[&lt;p&gt;Publishing stories that have impact and reach requires inclusion in every part of a story's journey, from hiring reporters and editors to reporting to production and promotion. How do we make newsrooms more equitable for disabled and chronically ill and caregiver journalists? How do we reach disabled sources? What are some practical tips for making your reporting reach more people? This panel will discuss how to make newsrooms more accessible, being more inclusive in your reporting and producing stories that can reach all corners of your audience. Karen K. Ho, ARTnews; Joanna Kao, Pulitzer Center; Stacy Kess, Equal Access Public Media; Joe Murphy, NBC News &lt;a href="https://docs.google.com/document/d/1K2v0zqgq2gWxTAS9U4uPH65181FcFiK_oL0_liQbizo/edit?tab=t.0#heading=h.b1x2ky2i86zd"&gt;Tipsheet&lt;/a&gt; &lt;a href="https://docs.google.com/presentation/d/1jzHDavPmDTFyt_VgVi3v0UMWMsloP3rl0CZ_sZ8qyiw/edit#slide=id.g332e5154a5e_0_0"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Publishing stories that have impact and reach requires inclusion in every part of a story's journey, from hiring reporters and editors to reporting to production and promotion. How do we make newsrooms more equitable for disabled and chronically ill and caregiver journalists? How do we reach disabled sources? What are some practical tips for making your reporting reach more people? This panel will discuss how to make newsrooms more accessible, being more inclusive in your reporting and producing stories that can reach all corners of your audience. Karen K. Ho, ARTnews; Joanna Kao, Pulitzer Center; Stacy Kess, Equal Access Public Media; Joe Murphy, NBC News <a href="https://docs.google.com/document/d/1K2v0zqgq2gWxTAS9U4uPH65181FcFiK_oL0_liQbizo/edit?tab=t.0#heading=h.b1x2ky2i86zd">Tipsheet</a> <a href="https://docs.google.com/presentation/d/1jzHDavPmDTFyt_VgVi3v0UMWMsloP3rl0CZ_sZ8qyiw/edit#slide=id.g332e5154a5e_0_0">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-2051.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-2051.mp3" type="audio/mp3" length="54905520" />
     <itunes:explicit>no</itunes:explicit>
@@ -353,9 +354,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 22:45:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 22:45:00 -0000</pubDate> 
     <title>Data stories that don't look or sound like data stories</title>
-    <description>&lt;![CDATA[&lt;p&gt;Don't be boring! Get and use data in your investigations but remember you're telling a story to an audience that's probably not as geeked out by the data as you are. Carrie Cochran, Independent journalist; Jodie Fleischer, Cox Media Group; Tom Scheck, APM Reports &lt;a href="https://resources.ire.org/tipsheets/20250306-30472.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Don't be boring! Get and use data in your investigations but remember you're telling a story to an audience that's probably not as geeked out by the data as you are. Carrie Cochran, Independent journalist; Jodie Fleischer, Cox Media Group; Tom Scheck, APM Reports <a href="https://resources.ire.org/tipsheets/20250306-30472.pdf">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-2082.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-2082.mp3" type="audio/mp3" length="58219536" />
     <itunes:explicit>no</itunes:explicit>
@@ -367,9 +368,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 22:45:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 22:45:00 -0000</pubDate> 
     <title>Developing an ethical AI policy for your newsroom</title>
-    <description>&lt;![CDATA[&lt;p&gt;Join news leaders to discuss the why, when, and how to develop an AI policy for your newsroom. Darla Cameron, The Texas Tribune; Silvia Dal Ben Furtado, University of Texas at Austin School of Journalism and Media; Andrew Ford, USA Today / Gannett; Josh Hinkle, KXAN; Cynthia Tu, Sahan Journal &lt;a href="https://docs.google.com/presentation/d/1VbUDKEE4e54avNo8RKKUoywNo1oIz44SM2-rW0hrQdM/edit#slide=id.g331e8f58481_0_413"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Join news leaders to discuss the why, when, and how to develop an AI policy for your newsroom. Darla Cameron, The Texas Tribune; Silvia Dal Ben Furtado, University of Texas at Austin School of Journalism and Media; Andrew Ford, USA Today / Gannett; Josh Hinkle, KXAN; Cynthia Tu, Sahan Journal <a href="https://docs.google.com/presentation/d/1VbUDKEE4e54avNo8RKKUoywNo1oIz44SM2-rW0hrQdM/edit#slide=id.g331e8f58481_0_413">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-1196.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-1196.mp3" type="audio/mp3" length="59720592" />
     <itunes:explicit>no</itunes:explicit>
@@ -381,9 +382,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Thu, 06 Mar 2025 22:45:00 -0000</pubdate> 
+    <pubDate>Thu, 06 Mar 2025 22:45:00 -0000</pubDate> 
     <title>Finding the story: Using DNS search for investigative journalism</title>
-    <description>&lt;![CDATA[&lt;p&gt;Every online interaction begins with a lookup in the Domain Name System (DNS), the backbone of the Internet. As a result, there are digital footprints left behind in the DNS. With the demise of Whois, investigative reporters are looking for new tools to uncover these footprints. Learn how to use DNSDB Scout, a tool to query DNSDB, a historical passive DNS database, to discover previously unknown online connections and gain new information to advance your ongoing and breaking news investigations. Basic knowledge of the Domain Name System (DNS) is helpful, but not required. Attendees will need to bring their own laptop (no tablets) to participate in this class. Kelly Molloy, Domain Tools; Daniel Schwalbe, DomainTools &lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Every online interaction begins with a lookup in the Domain Name System (DNS), the backbone of the Internet. As a result, there are digital footprints left behind in the DNS. With the demise of Whois, investigative reporters are looking for new tools to uncover these footprints. Learn how to use DNSDB Scout, a tool to query DNSDB, a historical passive DNS database, to discover previously unknown online connections and gain new information to advance your ongoing and breaking news investigations. Basic knowledge of the Domain Name System (DNS) is helpful, but not required. Attendees will need to bring their own laptop (no tablets) to participate in this class. Kelly Molloy, Domain Tools; Daniel Schwalbe, DomainTools </p>]]></description>
     <guid>https://resources.ire.org/audio/20250306-3016.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250306-3016.mp3" type="audio/mp3" length="56572920" />
     <itunes:explicit>no</itunes:explicit>
@@ -395,9 +396,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Fri, 07 Mar 2025 15:00:00 -0000</pubdate> 
+    <pubDate>Fri, 07 Mar 2025 15:00:00 -0000</pubDate> 
     <title>Beginner track: Feed the beast: Integrating data nuggets on deadline</title>
-    <description>&lt;![CDATA[&lt;p&gt;No need to do a long-form investigative, data-heavy story. Start small. Maggie Green, ABC7 Chicago, WLS; Daniela Ibarra, KSAT; John Kelly, CBS News; Stephen Stock, Gray Media InvestigateTV - WVUE Fox 8&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>No need to do a long-form investigative, data-heavy story. Start small. Maggie Green, ABC7 Chicago, WLS; Daniela Ibarra, KSAT; John Kelly, CBS News; Stephen Stock, Gray Media InvestigateTV - WVUE Fox 8</p>]]></description>
     <guid>https://resources.ire.org/audio/20250307-2073.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250307-2073.mp3" type="audio/mp3" length="65232192" />
     <itunes:explicit>no</itunes:explicit>
@@ -409,9 +410,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Fri, 07 Mar 2025 15:00:00 -0000</pubdate> 
+    <pubDate>Fri, 07 Mar 2025 15:00:00 -0000</pubDate> 
     <title>Reporting on America's prison and jail death crisis</title>
-    <description>&lt;![CDATA[&lt;p&gt;It’s been a decade since Congress passed the Deaths in Custody Reporting Act, but the federal government still doesn’t know how many people die in jails or prisons or during arrests. Even worse, it has since told the inspector general that it has “no plans” of releasing the data it has already collected and is currently battling with USA Today and the Appeal in separate lawsuits, each seeking the data that the federal government has collected under DCRA. But where do you start now? The lack of direction from the federal government means that each state handles this data differently. Different agencies collect different pieces of the data, and you’ll have to string it together yourself. In this panel, reporters who’ve done the hard work of piecing deaths in custody data together will walk you through how you can build your own database to hold jails, prisons and police agencies accountable. Ethan Corey, The Appeal; A.J. Lagoe, KARE-TV &lt;a href="https://resources.ire.org/tipsheets/20250307-30401.pdf"&gt;Tipsheet&lt;/a&gt; &lt;a href="https://resources.ire.org/tipsheets/20250307-30435.pdf"&gt;Tipsheet (2)&lt;/a&gt; &lt;a href="https://docs.google.com/presentation/d/1K6qNdctYGYZtd2tsk4efczq6tGIg-cjKcG4lZf2IPKM/edit#slide=id.p"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>It’s been a decade since Congress passed the Deaths in Custody Reporting Act, but the federal government still doesn’t know how many people die in jails or prisons or during arrests. Even worse, it has since told the inspector general that it has “no plans” of releasing the data it has already collected and is currently battling with USA Today and the Appeal in separate lawsuits, each seeking the data that the federal government has collected under DCRA. But where do you start now? The lack of direction from the federal government means that each state handles this data differently. Different agencies collect different pieces of the data, and you’ll have to string it together yourself. In this panel, reporters who’ve done the hard work of piecing deaths in custody data together will walk you through how you can build your own database to hold jails, prisons and police agencies accountable. Ethan Corey, The Appeal; A.J. Lagoe, KARE-TV <a href="https://resources.ire.org/tipsheets/20250307-30401.pdf">Tipsheet</a> <a href="https://resources.ire.org/tipsheets/20250307-30435.pdf">Tipsheet (2)</a> <a href="https://docs.google.com/presentation/d/1K6qNdctYGYZtd2tsk4efczq6tGIg-cjKcG4lZf2IPKM/edit#slide=id.p">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250307-1113.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250307-1113.mp3" type="audio/mp3" length="58785456" />
     <itunes:explicit>no</itunes:explicit>
@@ -423,9 +424,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Fri, 07 Mar 2025 15:00:00 -0000</pubdate> 
+    <pubDate>Fri, 07 Mar 2025 15:00:00 -0000</pubDate> 
     <title>What's involved in data editing?</title>
-    <description>&lt;![CDATA[&lt;p&gt;Though more and more newsrooms have embraced data journalism, not every newsroom has a data editor. So what goes into data editing, why do we need it, and how can we help the journalists in our newsrooms use the most accurate and responsible data? In a panel discussion, data editors will explore these questions. Yoohyun Jung, Boston Globe; Allie Kanik, Houston Chronicle / San Antonio Express-News; Dan Kopf, San Francisco Chronicle; Kai Teoh, The Dallas Morning News; MaryJo Webster, Minnesota Star Tribune&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Though more and more newsrooms have embraced data journalism, not every newsroom has a data editor. So what goes into data editing, why do we need it, and how can we help the journalists in our newsrooms use the most accurate and responsible data? In a panel discussion, data editors will explore these questions. Yoohyun Jung, Boston Globe; Allie Kanik, Houston Chronicle / San Antonio Express-News; Dan Kopf, San Francisco Chronicle; Kai Teoh, The Dallas Morning News; MaryJo Webster, Minnesota Star Tribune</p>]]></description>
     <guid>https://resources.ire.org/audio/20250307-1019.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250307-1019.mp3" type="audio/mp3" length="60274272" />
     <itunes:explicit>no</itunes:explicit>
@@ -437,9 +438,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Fri, 07 Mar 2025 16:15:00 -0000</pubdate> 
+    <pubDate>Fri, 07 Mar 2025 16:15:00 -0000</pubDate> 
     <title>CAR (data journalism) through the decades</title>
-    <description>&lt;![CDATA[&lt;p&gt;Join us to learn about how computer-assisted reporting has evolved, how it has influenced IRE, where it's going, what we think might be the next big thing. We’ll discuss advances in technology, trends that turned out to be game-changers and unexpected flops. This panel will be a moderated conversation with time for questions. Neena Hagen, The Boston Globe; Mark Horvit, University of Missouri; Brant Houston, University of Illinois; Laura Kurtzberg, IRE &amp;amp; NICAR; Shawn McIntosh, The Atlanta Journal-Constitution&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Join us to learn about how computer-assisted reporting has evolved, how it has influenced IRE, where it's going, what we think might be the next big thing. We’ll discuss advances in technology, trends that turned out to be game-changers and unexpected flops. This panel will be a moderated conversation with time for questions. Neena Hagen, The Boston Globe; Mark Horvit, University of Missouri; Brant Houston, University of Illinois; Laura Kurtzberg, IRE &amp;amp; NICAR; Shawn McIntosh, The Atlanta Journal-Constitution</p>]]></description>
     <guid>https://resources.ire.org/audio/20250307-1023.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250307-1023.mp3" type="audio/mp3" length="54448080" />
     <itunes:explicit>no</itunes:explicit>
@@ -451,9 +452,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Fri, 07 Mar 2025 16:15:00 -0000</pubdate> 
+    <pubDate>Fri, 07 Mar 2025 16:15:00 -0000</pubDate> 
     <title>Digging deep: Scraping government websites</title>
-    <description>&lt;![CDATA[&lt;p&gt;Join us as we scrape a government website live and dig pages deep to extract specific data. Whether your data is a search bar and five clicks into the database, or located in a document, we’ll show you how to use a tool that will save your team hours of work and make what seems impossible, possible. This session is sponsored by Bright Data. IRE retains control of content, including the topic and speaker selection, for all conference sessions. Jennifer Burns, (Bright Data) Data for Bright Journalists; Michael Newton, Bright Data&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Join us as we scrape a government website live and dig pages deep to extract specific data. Whether your data is a search bar and five clicks into the database, or located in a document, we’ll show you how to use a tool that will save your team hours of work and make what seems impossible, possible. This session is sponsored by Bright Data. IRE retains control of content, including the topic and speaker selection, for all conference sessions. Jennifer Burns, (Bright Data) Data for Bright Journalists; Michael Newton, Bright Data</p>]]></description>
     <guid>https://resources.ire.org/audio/20250307-2098.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250307-2098.mp3" type="audio/mp3" length="26760264" />
     <itunes:explicit>no</itunes:explicit>
@@ -465,9 +466,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Fri, 07 Mar 2025 16:15:00 -0000</pubdate> 
+    <pubDate>Fri, 07 Mar 2025 16:15:00 -0000</pubDate> 
     <title>Public records for social justice: Uncovering inequity in your community through FOI</title>
-    <description>&lt;![CDATA[&lt;p&gt;This practical workshop will lay out public records to help attendees examine injustice in their communities, and how to acquire those records. From police abuse, to red lining, to census, to Title IX, this session will provide a list of records to request to expose inequities and make the world a little better. Walk away with a list of dozens of records that you can request in your community to expose racial injustice. Learn strategies and techniques for acquiring these records when government custodians would rather you not. Get tips for working with marginalized communities to interpret the records with context and sensitivity. José Ignacio Castañeda, Spotlight Delaware; David Cuillier &amp;amp; Sydney Sims, Brechner FOI Project; Gunita Singh, Reporters Committee for Freedom of the Press &lt;a href="https://resources.ire.org/tipsheets/20250307-30392.pdf"&gt;Tipsheet&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>This practical workshop will lay out public records to help attendees examine injustice in their communities, and how to acquire those records. From police abuse, to red lining, to census, to Title IX, this session will provide a list of records to request to expose inequities and make the world a little better. Walk away with a list of dozens of records that you can request in your community to expose racial injustice. Learn strategies and techniques for acquiring these records when government custodians would rather you not. Get tips for working with marginalized communities to interpret the records with context and sensitivity. José Ignacio Castañeda, Spotlight Delaware; David Cuillier &amp;amp; Sydney Sims, Brechner FOI Project; Gunita Singh, Reporters Committee for Freedom of the Press <a href="https://resources.ire.org/tipsheets/20250307-30392.pdf">Tipsheet</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250307-1049.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250307-1049.mp3" type="audio/mp3" length="64371504" />
     <itunes:explicit>no</itunes:explicit>
@@ -479,9 +480,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Fri, 07 Mar 2025 16:15:00 -0000</pubdate> 
+    <pubDate>Fri, 07 Mar 2025 16:15:00 -0000</pubDate> 
     <title>The chaos in college sports: What all students should know</title>
-    <description>&lt;![CDATA[&lt;p&gt;Do you pay tuition? Interested in sports? Regardless of your devotion to your school’s team, the amateur athletics model that has ruled for decades is crashing down, thanks to the recent House settlement. And students may pay part of that price. Most Division I schools are expected to start paying athletes up to $20 million a year (total), but the settlement is wreaking havoc in Athletics departments trying to get ready for implementation July 1. Whether it’s Title IX equity, fundraising challenges, student fee increases, student-athletes losing positions on teams…there are dozens of stories to cover on campus in this new world of college athletics. And all that before the new administration makes changes. We’ll give you details on the settlement arrangement and its expected impact on NIL and other issues, plus hands-on help on how to track the documents and data to cover what’s happening at your school. This panel will be immediately followed by a networking reception for those who attend the panel. Peyton Barish, Knight Commission on Intercollegiate Athletics; Josh Fine &amp;amp; Jodi Upton, Syracuse University; Paula Lavigne, ESPN &lt;a href="https://docs.google.com/presentation/d/1cDhq4hXecSZjT-h0qH58ZSeqbMBbFvFT/edit#slide=id.g33cec52d90f_0_10"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Do you pay tuition? Interested in sports? Regardless of your devotion to your school’s team, the amateur athletics model that has ruled for decades is crashing down, thanks to the recent House settlement. And students may pay part of that price. Most Division I schools are expected to start paying athletes up to $20 million a year (total), but the settlement is wreaking havoc in Athletics departments trying to get ready for implementation July 1. Whether it’s Title IX equity, fundraising challenges, student fee increases, student-athletes losing positions on teams…there are dozens of stories to cover on campus in this new world of college athletics. And all that before the new administration makes changes. We’ll give you details on the settlement arrangement and its expected impact on NIL and other issues, plus hands-on help on how to track the documents and data to cover what’s happening at your school. This panel will be immediately followed by a networking reception for those who attend the panel. Peyton Barish, Knight Commission on Intercollegiate Athletics; Josh Fine &amp;amp; Jodi Upton, Syracuse University; Paula Lavigne, ESPN <a href="https://docs.google.com/presentation/d/1cDhq4hXecSZjT-h0qH58ZSeqbMBbFvFT/edit#slide=id.g33cec52d90f_0_10">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250307-2084.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250307-2084.mp3" type="audio/mp3" length="56455056" />
     <itunes:explicit>no</itunes:explicit>
@@ -493,9 +494,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Fri, 07 Mar 2025 17:30:00 -0000</pubdate> 
+    <pubDate>Fri, 07 Mar 2025 17:30:00 -0000</pubDate> 
     <title>Building the bridge to advanced data journalism</title>
-    <description>&lt;![CDATA[&lt;p&gt;Your students are comfortable with the fundamentals: they’re (mostly) fluent in numeracy, proficient with Google Sheets, can make publishable data visualizations and understand how to integrate data into their storytelling. Now it’s time to design an advanced class so that they can take the next logical step. But where should you concentrate your efforts to deepen their expertise? And how can you introduce challenging concepts—like coding, scraping and stats—without overwhelming them? Join some of the field’s top journalist-educators as they share practical strategies to make more advanced data skills accessible and meaningful over the course of a semester. Liz Lucas, University of Missouri School of Journalism; Dhrumil Mehta, Columbia University; Alex Richards, Syracuse University; Derek Willis, University of Maryland&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Your students are comfortable with the fundamentals: they’re (mostly) fluent in numeracy, proficient with Google Sheets, can make publishable data visualizations and understand how to integrate data into their storytelling. Now it’s time to design an advanced class so that they can take the next logical step. But where should you concentrate your efforts to deepen their expertise? And how can you introduce challenging concepts—like coding, scraping and stats—without overwhelming them? Join some of the field’s top journalist-educators as they share practical strategies to make more advanced data skills accessible and meaningful over the course of a semester. Liz Lucas, University of Missouri School of Journalism; Dhrumil Mehta, Columbia University; Alex Richards, Syracuse University; Derek Willis, University of Maryland</p>]]></description>
     <guid>https://resources.ire.org/audio/20250307-1192.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250307-1192.mp3" type="audio/mp3" length="65028864" />
     <itunes:explicit>no</itunes:explicit>
@@ -507,9 +508,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Fri, 07 Mar 2025 17:30:00 -0000</pubdate> 
+    <pubDate>Fri, 07 Mar 2025 17:30:00 -0000</pubDate> 
     <title>Data reporting for smaller newsrooms</title>
-    <description>&lt;![CDATA[&lt;p&gt;If you're part of a small data team—or you are the data team—this session will cover practical ways to weave data into your beat, balance quick-turn stories with deeper investigations, and make the most of limited resources. Whether you're wrangling spreadsheets solo or collaborating with a small team, we’ll share tips, tools, and strategies to help you maximize your impact. Cody Lillich, KTVK/KPHO-TV; Kate Martin, APM Reports; Justin Myers, Chicago Public Media; Junyao Yang, Mission Local &lt;a href="https://docs.google.com/presentation/d/16xxPQ5HSaFjEvYcp2pRq4uRkd3kjxulDltMB6LP6QLw/edit#slide=id.g33a4236759f_0_134"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>If you're part of a small data team—or you are the data team—this session will cover practical ways to weave data into your beat, balance quick-turn stories with deeper investigations, and make the most of limited resources. Whether you're wrangling spreadsheets solo or collaborating with a small team, we’ll share tips, tools, and strategies to help you maximize your impact. Cody Lillich, KTVK/KPHO-TV; Kate Martin, APM Reports; Justin Myers, Chicago Public Media; Junyao Yang, Mission Local <a href="https://docs.google.com/presentation/d/16xxPQ5HSaFjEvYcp2pRq4uRkd3kjxulDltMB6LP6QLw/edit#slide=id.g33a4236759f_0_134">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250307-1028.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250307-1028.mp3" type="audio/mp3" length="70460112" />
     <itunes:explicit>no</itunes:explicit>
@@ -521,9 +522,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Fri, 07 Mar 2025 17:30:00 -0000</pubdate> 
+    <pubDate>Fri, 07 Mar 2025 17:30:00 -0000</pubDate> 
     <title>Investigating who's behind that website</title>
-    <description>&lt;![CDATA[&lt;p&gt;Reporting online today, journalists must battle with astroturf campaigns, fake news sites and sketchy shell companies to find out who is behind the story. Usually it leads to a frustratingly common question: Who is behind this website? Using a range of tools (free and otherwise), we walk you through how to investigate the provenance and ownership of websites: how can you identify the scope and scale of the network it belongs to — if any? Who’s behind the site, now and in the past? Who are the main actors promoting this website? Where else does this site crop up? While it is not always possible to fully unmask the owner of a site, using a thorough checklist of tools and techniques that we have used in real-world investigations, we can help you make sure to reveal as much as possible about a website, and potentially uncover important clues. Pri Bengani, Bloomberg; Jon Keegan, Sherwood News &lt;a href="https://github.com/jonkeegan/behind-this-website"&gt;GitHub repo&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Reporting online today, journalists must battle with astroturf campaigns, fake news sites and sketchy shell companies to find out who is behind the story. Usually it leads to a frustratingly common question: Who is behind this website? Using a range of tools (free and otherwise), we walk you through how to investigate the provenance and ownership of websites: how can you identify the scope and scale of the network it belongs to — if any? Who’s behind the site, now and in the past? Who are the main actors promoting this website? Where else does this site crop up? While it is not always possible to fully unmask the owner of a site, using a thorough checklist of tools and techniques that we have used in real-world investigations, we can help you make sure to reveal as much as possible about a website, and potentially uncover important clues. Pri Bengani, Bloomberg; Jon Keegan, Sherwood News <a href="https://github.com/jonkeegan/behind-this-website">GitHub repo</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250307-1128.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250307-1128.mp3" type="audio/mp3" length="57735888" />
     <itunes:explicit>no</itunes:explicit>
@@ -535,9 +536,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Fri, 07 Mar 2025 20:15:00 -0000</pubdate> 
+    <pubDate>Fri, 07 Mar 2025 20:15:00 -0000</pubDate> 
     <title>15 health datasets in 60 minutes</title>
-    <description>&lt;![CDATA[&lt;p&gt;Illness, disease and death, oh my! Health data can be a scary subject full of unreliable methods and incomplete data. We'll show you 15 reliable health-related databases and demonstrate how they can be used to localize national trends. Madi Alexander, Politico&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Illness, disease and death, oh my! Health data can be a scary subject full of unreliable methods and incomplete data. We'll show you 15 reliable health-related databases and demonstrate how they can be used to localize national trends. Madi Alexander, Politico</p>]]></description>
     <guid>https://resources.ire.org/audio/20250307-2057.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250307-2057.mp3" type="audio/mp3" length="64206000" />
     <itunes:explicit>no</itunes:explicit>
@@ -549,9 +550,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Fri, 07 Mar 2025 20:15:00 -0000</pubdate> 
+    <pubDate>Fri, 07 Mar 2025 20:15:00 -0000</pubDate> 
     <title>Beginner track: Making your data story ironclad</title>
-    <description>&lt;![CDATA[&lt;p&gt;Using data in your storytelling doesn't have to feel like running with scissors. Learn the best practices to make sure your stories and data aren't wrong. Sandhya Kambhampati, Los Angeles Times; Liz Lucas, University of Missouri School of Journalism; Teghan Simonton, Tampa Bay Times &lt;a href="https://docs.google.com/presentation/d/1zcJNzEt6zOcYtNXPQbMy1EJb_ntisqco_XzZi33k0mw/edit#slide=id.p"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Using data in your storytelling doesn't have to feel like running with scissors. Learn the best practices to make sure your stories and data aren't wrong. Sandhya Kambhampati, Los Angeles Times; Liz Lucas, University of Missouri School of Journalism; Teghan Simonton, Tampa Bay Times <a href="https://docs.google.com/presentation/d/1zcJNzEt6zOcYtNXPQbMy1EJb_ntisqco_XzZi33k0mw/edit#slide=id.p">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250307-2061.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250307-2061.mp3" type="audio/mp3" length="66706704" />
     <itunes:explicit>no</itunes:explicit>
@@ -563,9 +564,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Fri, 07 Mar 2025 20:15:00 -0000</pubdate> 
+    <pubDate>Fri, 07 Mar 2025 20:15:00 -0000</pubDate> 
     <title>Do you really need a map? How to make the most of your data viz</title>
-    <description>&lt;![CDATA[&lt;p&gt;This is a panel for folks interested in data viz but who don't have a design background. It can be tempting to throw data into a variety of forms that end up not making sense to the readers (and can sometimes amount to journalistic malpractice!). Panelists will go through their approach to simple data viz and feature some go-to tools. Emily Hopkins, Mirror Indy; Emilia Ruzicka, University of Virginia; Jake Steinberg, Minnesota Star Tribune &lt;a href="https://docs.google.com/presentation/d/1ufMp2LJ3iHE7Oc0ZIGmjPkbgz2FsEZKsxfyTb1CDkz4/edit#slide=id.g332961f0d21_0_0"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>This is a panel for folks interested in data viz but who don't have a design background. It can be tempting to throw data into a variety of forms that end up not making sense to the readers (and can sometimes amount to journalistic malpractice!). Panelists will go through their approach to simple data viz and feature some go-to tools. Emily Hopkins, Mirror Indy; Emilia Ruzicka, University of Virginia; Jake Steinberg, Minnesota Star Tribune <a href="https://docs.google.com/presentation/d/1ufMp2LJ3iHE7Oc0ZIGmjPkbgz2FsEZKsxfyTb1CDkz4/edit#slide=id.g332961f0d21_0_0">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250307-1116.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250307-1116.mp3" type="audio/mp3" length="67574592" />
     <itunes:explicit>no</itunes:explicit>
@@ -577,9 +578,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Fri, 07 Mar 2025 20:15:00 -0000</pubdate> 
+    <pubDate>Fri, 07 Mar 2025 20:15:00 -0000</pubDate> 
     <title>Don't let go!: The challenges and benefits of continuing your data coverage</title>
-    <description>&lt;![CDATA[&lt;p&gt;“Don't let go”: A moderated panel on the challenges and benefits of following a story, and getting multiple stories out of the same or related data sets – sometimes over the course of months or years. We’ll go through recent examples and discuss how we structured our continuing coverage, how we were able to return to and extend the original data, how we made it work with our newsroom’s editorial strategy, and how we tried to get the most out of every piece. Rosie Cima, Big Local News; Amy Fan, Independent journalist; Weihua Li, Bloomberg News; Tom McGinty, Wall Street Journal&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>“Don't let go”: A moderated panel on the challenges and benefits of following a story, and getting multiple stories out of the same or related data sets – sometimes over the course of months or years. We’ll go through recent examples and discuss how we structured our continuing coverage, how we were able to return to and extend the original data, how we made it work with our newsroom’s editorial strategy, and how we tried to get the most out of every piece. Rosie Cima, Big Local News; Amy Fan, Independent journalist; Weihua Li, Bloomberg News; Tom McGinty, Wall Street Journal</p>]]></description>
     <guid>https://resources.ire.org/audio/20250307-1193.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250307-1193.mp3" type="audio/mp3" length="67938192" />
     <itunes:explicit>no</itunes:explicit>
@@ -591,9 +592,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Fri, 07 Mar 2025 20:15:00 -0000</pubdate> 
+    <pubDate>Fri, 07 Mar 2025 20:15:00 -0000</pubDate> 
     <title>Using data and docs to fact-check immigration rhetoric</title>
-    <description>&lt;![CDATA[&lt;p&gt;We often hear that undocumented people don't show up in many official data sources, but how can journalists looking to cover these improtant stories still equip themselves with important information that can level up thier reporting? Come to this session to find learn what data and docs exist to help you do important, thorough work that centers immigrants. This session is sponsored by Reporters Committee for Freedom of the Press. IRE retains control of content, including the topic and speaker selection, for all conference sessions. Diana Fuentes, IRE &amp;amp; NICAR; Renee Griffin, Reporters Committee for Freedom of the Press; Zach Mider, Bloomberg News; Wendy Wei, Investigative Project on Race and Equity &lt;a href="https://resources.ire.org/tipsheets/20250307-30402.pdf"&gt;Tipsheet&lt;/a&gt; &lt;a href="https://resources.ire.org/tipsheets/20250307-30403.pdf"&gt;Tipsheet (2)&lt;/a&gt; &lt;a href="https://resources.ire.org/tipsheets/20250307-30404.pdf"&gt;Tipsheet (3)&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>We often hear that undocumented people don't show up in many official data sources, but how can journalists looking to cover these improtant stories still equip themselves with important information that can level up thier reporting? Come to this session to find learn what data and docs exist to help you do important, thorough work that centers immigrants. This session is sponsored by Reporters Committee for Freedom of the Press. IRE retains control of content, including the topic and speaker selection, for all conference sessions. Diana Fuentes, IRE &amp;amp; NICAR; Renee Griffin, Reporters Committee for Freedom of the Press; Zach Mider, Bloomberg News; Wendy Wei, Investigative Project on Race and Equity <a href="https://resources.ire.org/tipsheets/20250307-30402.pdf">Tipsheet</a> <a href="https://resources.ire.org/tipsheets/20250307-30403.pdf">Tipsheet (2)</a> <a href="https://resources.ire.org/tipsheets/20250307-30404.pdf">Tipsheet (3)</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250307-1014.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250307-1014.mp3" type="audio/mp3" length="57076512" />
     <itunes:explicit>no</itunes:explicit>
@@ -605,9 +606,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Fri, 07 Mar 2025 21:30:00 -0000</pubdate> 
+    <pubDate>Fri, 07 Mar 2025 21:30:00 -0000</pubDate> 
     <title>Beginner track: Creating meatier stories: Sourcing, documents and other tools to start investigative reporting</title>
-    <description>&lt;![CDATA[&lt;p&gt;Best strategies for taking daily reporting to the next step. Cindy Galli, ABC News; Terri Langford, The Texas Tribune ; Paula Lavigne, ESPN; Aaron Mendelson, The Trace &lt;a href="https://resources.ire.org/tipsheets/20250307-30416.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Best strategies for taking daily reporting to the next step. Cindy Galli, ABC News; Terri Langford, The Texas Tribune ; Paula Lavigne, ESPN; Aaron Mendelson, The Trace <a href="https://resources.ire.org/tipsheets/20250307-30416.pdf">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250307-2075.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250307-2075.mp3" type="audio/mp3" length="64451112" />
     <itunes:explicit>no</itunes:explicit>
@@ -619,9 +620,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Fri, 07 Mar 2025 21:30:00 -0000</pubdate> 
+    <pubDate>Fri, 07 Mar 2025 21:30:00 -0000</pubDate> 
     <title>How to approach an investigative data question: How many rats are in the Rainforest Cafe?</title>
-    <description>&lt;![CDATA[&lt;p&gt;Join us on a wild safari as we transform the quirky question, “How many rats are in the Rainforest Cafe?” into an adventure in logical thinking and strategic planning for data-based investigative journalism. We will journey through a hypothetical investigation into cleanliness at the Rainforest Cafe, breaking down the steps needed to tackle reporting questions on deadline with documents and data and showing how to expand from a seemingly simple query to a broader, impactful investigation. This will be a lively, interactive panel, ideally suited to early career journalists, or anyone else seeking to get comfortable with the process of approaching a story from an investigative mindset. By the end of the session, participants will leave equipped to craft an investigative data story from scratch — even starting from the most unexpected or whimsical question. Adiel Kaplan, Columbia Journalism School; Veronica Penney, Science; Emily Zentner, The California Newsroom &lt;a href="https://docs.google.com/document/d/1zGszvGxY2bT-1sdfwk9UYuPUbmSleVp0_hDrgwXnIkU/edit?tab=t.0#heading=h.wilfgiin65rp"&gt;Tipsheet&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Join us on a wild safari as we transform the quirky question, “How many rats are in the Rainforest Cafe?” into an adventure in logical thinking and strategic planning for data-based investigative journalism. We will journey through a hypothetical investigation into cleanliness at the Rainforest Cafe, breaking down the steps needed to tackle reporting questions on deadline with documents and data and showing how to expand from a seemingly simple query to a broader, impactful investigation. This will be a lively, interactive panel, ideally suited to early career journalists, or anyone else seeking to get comfortable with the process of approaching a story from an investigative mindset. By the end of the session, participants will leave equipped to craft an investigative data story from scratch — even starting from the most unexpected or whimsical question. Adiel Kaplan, Columbia Journalism School; Veronica Penney, Science; Emily Zentner, The California Newsroom <a href="https://docs.google.com/document/d/1zGszvGxY2bT-1sdfwk9UYuPUbmSleVp0_hDrgwXnIkU/edit?tab=t.0#heading=h.wilfgiin65rp">Tipsheet</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250307-1061.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250307-1061.mp3" type="audio/mp3" length="67410432" />
     <itunes:explicit>no</itunes:explicit>
@@ -633,9 +634,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Fri, 07 Mar 2025 21:30:00 -0000</pubdate> 
+    <pubDate>Fri, 07 Mar 2025 21:30:00 -0000</pubDate> 
     <title>The internet was never written in ink</title>
-    <description>&lt;![CDATA[&lt;p&gt;Newsrooms are taking old articles offline, projects are deprecating, governments are censoring and retconning. Right now, for reporters who rely on federal data, the ice seems to get thinner and thinner by the day when it comes to access. But it’s a problem that far predates the current crisis of transparency. How often have you needed something that you bookmarked eons ago that is now offline or broken? Or needed a historical copy of a dataset that is overwritten every week or retroactively edited? Or been stopped in downloading data because a link was taken down, and the agency doesn’t know how to reply to your FOIA? In this session, we’ll talk about different strategies to scrape, pull, download and store data and build your own digital collection and archive. We’ll share tools that we use every day to ensure we have reliable access to data we need, and approaches to documenting and managing that data to make it easy to find and use in the future. (And yes, we’ll talk about what the heck to do with the federal government right now, and alternatives to current data sources that organizations have set up.) Chris Amico, MuckRock; Mark Horvit, University of Missouri; Cheryl Phillips, Stanford University; Cam Rodriguez, The New York Times&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Newsrooms are taking old articles offline, projects are deprecating, governments are censoring and retconning. Right now, for reporters who rely on federal data, the ice seems to get thinner and thinner by the day when it comes to access. But it’s a problem that far predates the current crisis of transparency. How often have you needed something that you bookmarked eons ago that is now offline or broken? Or needed a historical copy of a dataset that is overwritten every week or retroactively edited? Or been stopped in downloading data because a link was taken down, and the agency doesn’t know how to reply to your FOIA? In this session, we’ll talk about different strategies to scrape, pull, download and store data and build your own digital collection and archive. We’ll share tools that we use every day to ensure we have reliable access to data we need, and approaches to documenting and managing that data to make it easy to find and use in the future. (And yes, we’ll talk about what the heck to do with the federal government right now, and alternatives to current data sources that organizations have set up.) Chris Amico, MuckRock; Mark Horvit, University of Missouri; Cheryl Phillips, Stanford University; Cam Rodriguez, The New York Times</p>]]></description>
     <guid>https://resources.ire.org/audio/20250307-2043.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250307-2043.mp3" type="audio/mp3" length="62343360" />
     <itunes:explicit>no</itunes:explicit>
@@ -647,9 +648,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Fri, 07 Mar 2025 23:00:00 -0000</pubdate> 
+    <pubDate>Fri, 07 Mar 2025 23:00:00 -0000</pubDate> 
     <title>Lightning Talks ⚡️</title>
-    <description>&lt;![CDATA[&lt;p&gt;Sometimes you don't need 45 minutes to explain a useful technique or interesting resource. Join your colleagues for a session of short (5-minute) talks about doing data journalism, web development and related topics. A cash bar will be open during the show! Rashika Jaipuriar, IRE &amp;amp; NICAR&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Sometimes you don't need 45 minutes to explain a useful technique or interesting resource. Join your colleagues for a session of short (5-minute) talks about doing data journalism, web development and related topics. A cash bar will be open during the show! Rashika Jaipuriar, IRE &amp;amp; NICAR</p>]]></description>
     <guid>https://resources.ire.org/audio/20250307-3036.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250307-3036.mp3" type="audio/mp3" length="97431984" />
     <itunes:explicit>no</itunes:explicit>
@@ -661,9 +662,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 00:15:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 00:15:00 -0000</pubDate> 
     <title>2024 Philip Meyer Awards presentation</title>
-    <description>&lt;![CDATA[]]&gt;</description>
+    <description><![CDATA[]]></description>
     <guid>https://resources.ire.org/audio/20250307-3035.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250307-3035.mp3" type="audio/mp3" length="4358208" />
     <itunes:explicit>no</itunes:explicit>
@@ -675,9 +676,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 15:00:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 15:00:00 -0000</pubDate> 
     <title>Beginner track: Tools to save you time</title>
-    <description>&lt;![CDATA[&lt;p&gt;A review of tools and shortcuts that can help you with documents, data, organizing your work, etc., such as PDF converters, DocumentCloud, Wayback Machine, Pinpoint, Tabula, OpenRefine. Pooja Dantewadia, Realtor.com; Tyler Dukes, McClatchy Media; Cynthia Tu, Sahan Journal &lt;a href="https://docs.google.com/presentation/d/1MgtRi-mvvpf99a8qz6kpqLDefvleSooGwmi010Ig1Mk/edit#slide=id.g332473bd870_0_223"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>A review of tools and shortcuts that can help you with documents, data, organizing your work, etc., such as PDF converters, DocumentCloud, Wayback Machine, Pinpoint, Tabula, OpenRefine. Pooja Dantewadia, Realtor.com; Tyler Dukes, McClatchy Media; Cynthia Tu, Sahan Journal <a href="https://docs.google.com/presentation/d/1MgtRi-mvvpf99a8qz6kpqLDefvleSooGwmi010Ig1Mk/edit#slide=id.g332473bd870_0_223">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-2076.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-2076.mp3" type="audio/mp3" length="70747872" />
     <itunes:explicit>no</itunes:explicit>
@@ -689,9 +690,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 15:00:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 15:00:00 -0000</pubDate> 
     <title>Evolving threats to journalists' safety – digital, physical and legal</title>
-    <description>&lt;![CDATA[&lt;p&gt;From cyberattacks that disrupt print and digital publishing to criminal and civil complaints for routine newsgathering, journalists and newsrooms today face myriad threats. Hear from panelists on how to navigate legal proceedings and keep yourself, sources and documents safe. Ben Camacho, The Southlander; Olivia Martin, Freedom of the Press Foundation; Stephanie Sugars, U.S. Press Freedom Tracker; Leita Walker, Ballard Spahr LLP &lt;a href="https://docs.google.com/document/d/1Wq_a3btNp4dXdHx8O4EnOehJa_A9OU3AHEX4zvBoiz0/edit?tab=t.0#heading=h.um9x6d3dxtq0"&gt;Tipsheet&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>From cyberattacks that disrupt print and digital publishing to criminal and civil complaints for routine newsgathering, journalists and newsrooms today face myriad threats. Hear from panelists on how to navigate legal proceedings and keep yourself, sources and documents safe. Ben Camacho, The Southlander; Olivia Martin, Freedom of the Press Foundation; Stephanie Sugars, U.S. Press Freedom Tracker; Leita Walker, Ballard Spahr LLP <a href="https://docs.google.com/document/d/1Wq_a3btNp4dXdHx8O4EnOehJa_A9OU3AHEX4zvBoiz0/edit?tab=t.0#heading=h.um9x6d3dxtq0">Tipsheet</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-1101.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-1101.mp3" type="audio/mp3" length="69317040" />
     <itunes:explicit>no</itunes:explicit>
@@ -703,9 +704,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 15:00:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 15:00:00 -0000</pubDate> 
     <title>How to investigate special-interest influence on your Congressional delegation</title>
-    <description>&lt;![CDATA[&lt;p&gt;Two decades after an embarrassing ethics scandal forced the U.S. Congress to revamp its disclosure requirements for members accepting private trips from special interest groups, those organizations have blown a hole through those rules. An investigation by veteran IRE members and their student teams at The Howard Center for Investigative Journalism at the University of Maryland and Boston University reveals, for the first time, how special interests paying for House members and their staff to travel around the world are skirting requirements limiting the access lobbyists involved in the trips have to House members. The reporters examined 17,000 trips since 2012, also showing how 24 House members turned scores of trips into “influence peddling vacations” for themselves and their relatives. The team’s work led to a series of national investigative stories published in September 2024 with more on deck this year. You will leave this session ready to mine congressional private travel records and deeply probe special interest influence on House members in your state. Haiyi Bi &amp;amp; Maggie Mulvihill &amp;amp; Phil Randazzo, Boston University; Derek Willis, University of Maryland &lt;a href="https://resources.ire.org/tipsheets/20250308-30408.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Two decades after an embarrassing ethics scandal forced the U.S. Congress to revamp its disclosure requirements for members accepting private trips from special interest groups, those organizations have blown a hole through those rules. An investigation by veteran IRE members and their student teams at The Howard Center for Investigative Journalism at the University of Maryland and Boston University reveals, for the first time, how special interests paying for House members and their staff to travel around the world are skirting requirements limiting the access lobbyists involved in the trips have to House members. The reporters examined 17,000 trips since 2012, also showing how 24 House members turned scores of trips into “influence peddling vacations” for themselves and their relatives. The team’s work led to a series of national investigative stories published in September 2024 with more on deck this year. You will leave this session ready to mine congressional private travel records and deeply probe special interest influence on House members in your state. Haiyi Bi &amp;amp; Maggie Mulvihill &amp;amp; Phil Randazzo, Boston University; Derek Willis, University of Maryland <a href="https://resources.ire.org/tipsheets/20250308-30408.pdf">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-1147.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-1147.mp3" type="audio/mp3" length="70528032" />
     <itunes:explicit>no</itunes:explicit>
@@ -717,9 +718,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 15:00:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 15:00:00 -0000</pubDate> 
     <title>Quantifying history</title>
-    <description>&lt;![CDATA[&lt;p&gt;New tools allow us not just to quantify what is happening in the world today, but also to find new revelations in historical collections that previously have been inaccessible. This panel will talk about their projects to tell previously ignored stories and give you tips and resources for doing your own work. Michael Corey, Mapping Prejudice, University of Minnesota Libraries; Alexia Fernandez Campbell, Bloomberg Industry Group; Jennifer LaFleur, UC Berkeley; Joyce Lee &amp;amp; Andrew Ba Tran, The Washington Post; Pratheek Rebala, ProPublica &lt;a href="https://docs.google.com/presentation/d/1B28xZIsnMx9nrYBEnTDd_2U9oUHWJ6eGm-4zHll5Dcc/edit#slide=id.g2c2f049247d_0_6"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>New tools allow us not just to quantify what is happening in the world today, but also to find new revelations in historical collections that previously have been inaccessible. This panel will talk about their projects to tell previously ignored stories and give you tips and resources for doing your own work. Michael Corey, Mapping Prejudice, University of Minnesota Libraries; Alexia Fernandez Campbell, Bloomberg Industry Group; Jennifer LaFleur, UC Berkeley; Joyce Lee &amp;amp; Andrew Ba Tran, The Washington Post; Pratheek Rebala, ProPublica <a href="https://docs.google.com/presentation/d/1B28xZIsnMx9nrYBEnTDd_2U9oUHWJ6eGm-4zHll5Dcc/edit#slide=id.g2c2f049247d_0_6">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-1022.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-1022.mp3" type="audio/mp3" length="71102352" />
     <itunes:explicit>no</itunes:explicit>
@@ -731,9 +732,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 16:15:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 16:15:00 -0000</pubDate> 
     <title>Behind the story: 2024 Philip Meyer winners</title>
-    <description>&lt;![CDATA[&lt;p&gt;A data deep dive into the 2024 Philip Meyer Award winners. Hear from reporters on how they gathered, cleaned, analyzed and visualized the data behind some of the year's biggest stories. Eric Fan, Bloomberg News; Alexia Fernandez Campbell, Bloomberg Industry Group; Brant Houston, University of Illinois; Pratheek Rebala, ProPublica&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>A data deep dive into the 2024 Philip Meyer Award winners. Hear from reporters on how they gathered, cleaned, analyzed and visualized the data behind some of the year's biggest stories. Eric Fan, Bloomberg News; Alexia Fernandez Campbell, Bloomberg Industry Group; Brant Houston, University of Illinois; Pratheek Rebala, ProPublica</p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-2058.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-2058.mp3" type="audio/mp3" length="65713968" />
     <itunes:explicit>no</itunes:explicit>
@@ -745,9 +746,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 16:15:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 16:15:00 -0000</pubDate> 
     <title>Climate change has changed natural disasters; we must change how we prepare</title>
-    <description>&lt;![CDATA[&lt;p&gt;Wildfires and hurricanes. Excessive heat and bitter cold. Extreme weather events have become stronger, more prevalent, and more unpredictable thanks to human-caused climate change. While these events provide an opportunity to capture an audience’s attention and explain the connection between extreme weather and climate change it isn’t always apparent how we can — whether we should — do that. This moderated panel will combine firsthand insights from those covering extreme weather events with breaking news threat modeling to develop a framework for the age of human-caused climate change that emphasizes the “So What” and “Here’s Why This Matters” of the unfolding story. Adiel Kaplan, Columbia Journalism School; Chris Keller, The Associated Press; Teghan Simonton, Tampa Bay Times; M.K. Wildeman, Associated Press &lt;a href="https://docs.google.com/document/d/1wSrW4cOaiOXEZdShmvI2c2fP0CIDIuOak4-Hmr495e0/edit?tab=t.0"&gt;Tipsheet&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Wildfires and hurricanes. Excessive heat and bitter cold. Extreme weather events have become stronger, more prevalent, and more unpredictable thanks to human-caused climate change. While these events provide an opportunity to capture an audience’s attention and explain the connection between extreme weather and climate change it isn’t always apparent how we can — whether we should — do that. This moderated panel will combine firsthand insights from those covering extreme weather events with breaking news threat modeling to develop a framework for the age of human-caused climate change that emphasizes the “So What” and “Here’s Why This Matters” of the unfolding story. Adiel Kaplan, Columbia Journalism School; Chris Keller, The Associated Press; Teghan Simonton, Tampa Bay Times; M.K. Wildeman, Associated Press <a href="https://docs.google.com/document/d/1wSrW4cOaiOXEZdShmvI2c2fP0CIDIuOak4-Hmr495e0/edit?tab=t.0">Tipsheet</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-1072.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-1072.mp3" type="audio/mp3" length="67210080" />
     <itunes:explicit>no</itunes:explicit>
@@ -759,9 +760,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 16:15:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 16:15:00 -0000</pubDate> 
     <title>Everything you need to know about political dark money</title>
-    <description>&lt;![CDATA[&lt;p&gt;Dark money played a major role in the 2024 elections, and in the months ahead, it will continue to shape the legislative landscape in Washington and all across the country. This panel will provide an overview of what you need to know to uncover dark money activity and try to find out who is behind it. Learn how to follow the money trails with tools and techniques to track secretive groups, piece together opaque spending networks, and uncover donors through political ad records, corporate records, and campaign finance data as well as filings with the Internal Revenue Service, Department of Labor, Congress, and more. Michael Beckel, Issue One; Robert Maguire, Citizens for Responsibility and Ethics in Washington (CREW); Shanna Ports, Campaign Legal Center; Albert Serna, LACIJ/Investigate LA &lt;a href="https://docs.google.com/document/d/1a14Rplenyl4WoQwIn6K2mEzdhR49-1KR2AFqgddfwXI/edit?tab=t.0"&gt;Tipsheet&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Dark money played a major role in the 2024 elections, and in the months ahead, it will continue to shape the legislative landscape in Washington and all across the country. This panel will provide an overview of what you need to know to uncover dark money activity and try to find out who is behind it. Learn how to follow the money trails with tools and techniques to track secretive groups, piece together opaque spending networks, and uncover donors through political ad records, corporate records, and campaign finance data as well as filings with the Internal Revenue Service, Department of Labor, Congress, and more. Michael Beckel, Issue One; Robert Maguire, Citizens for Responsibility and Ethics in Washington (CREW); Shanna Ports, Campaign Legal Center; Albert Serna, LACIJ/Investigate LA <a href="https://docs.google.com/document/d/1a14Rplenyl4WoQwIn6K2mEzdhR49-1KR2AFqgddfwXI/edit?tab=t.0">Tipsheet</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-1110.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-1110.mp3" type="audio/mp3" length="69845280" />
     <itunes:explicit>no</itunes:explicit>
@@ -773,9 +774,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 16:15:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 16:15:00 -0000</pubDate> 
     <title>Workshop your public records request</title>
-    <description>&lt;![CDATA[&lt;p&gt;Never filed a public records request yet? No worries! Bring your request ideas and get help from public records experts as you file your first request. At the end of the session, you’ll have a submitted a public records request to the agency of your choice and leave with tips that can help you file even more requests. Dillon Bergin &amp;amp; Kelly Kauffman, MuckRock; Gunita Singh, Reporters Committee for Freedom of the Press; Matt Topic, Loevy + Loevy&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Never filed a public records request yet? No worries! Bring your request ideas and get help from public records experts as you file your first request. At the end of the session, you’ll have a submitted a public records request to the agency of your choice and leave with tips that can help you file even more requests. Dillon Bergin &amp;amp; Kelly Kauffman, MuckRock; Gunita Singh, Reporters Committee for Freedom of the Press; Matt Topic, Loevy + Loevy</p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-1109.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-1109.mp3" type="audio/mp3" length="87507456" />
     <itunes:explicit>no</itunes:explicit>
@@ -787,9 +788,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 17:30:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 17:30:00 -0000</pubDate> 
     <title>Beginner track: Writing with numbers</title>
-    <description>&lt;![CDATA[&lt;p&gt;Going from data to story: Best practices for writing about your data findings, reporting on other's surveys and studies and how to avoid common problems. Jaimi Dowdell, Reuters; Jennifer LaFleur, UC Berkeley&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Going from data to story: Best practices for writing about your data findings, reporting on other's surveys and studies and how to avoid common problems. Jaimi Dowdell, Reuters; Jennifer LaFleur, UC Berkeley</p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-2074.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-2074.mp3" type="audio/mp3" length="66902640" />
     <itunes:explicit>no</itunes:explicit>
@@ -801,9 +802,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 17:30:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 17:30:00 -0000</pubDate> 
     <title>Covering transportation with data and docs</title>
-    <description>&lt;![CDATA[&lt;p&gt;From highways to railways to runways, transportation issues impact safety, the supply chain, interntional trade, and so much more. Come to this session to learn where to find important data and docs and how to use them to cover this sprawling topic, especially after high-profile incidents. Paul Overberg, The Wall Street Journal; Wesley Ratko, San Antonio Express-News &lt;a href="https://docs.google.com/presentation/d/1A21ygPu6dOTfNYfN9rBK-yLla9kE6GNajUDT1NKy3d0/edit#slide=id.p1"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>From highways to railways to runways, transportation issues impact safety, the supply chain, interntional trade, and so much more. Come to this session to learn where to find important data and docs and how to use them to cover this sprawling topic, especially after high-profile incidents. Paul Overberg, The Wall Street Journal; Wesley Ratko, San Antonio Express-News <a href="https://docs.google.com/presentation/d/1A21ygPu6dOTfNYfN9rBK-yLla9kE6GNajUDT1NKy3d0/edit#slide=id.p1">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-1133.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-1133.mp3" type="audio/mp3" length="70087536" />
     <itunes:explicit>no</itunes:explicit>
@@ -815,9 +816,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 17:30:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 17:30:00 -0000</pubDate> 
     <title>Lessons learned from inclusive collaborations to inform Global Majority-led cross-border investigations</title>
-    <description>&lt;![CDATA[&lt;p&gt;Many cross-border investigations are led by a Global Minority media partner who are incentivized to prioritize Global Minority editorial objectives and audiences. How could we apply DEI practices that have been pioneered in collaborative community reporting projects to design more equitable international collaborations? Eva Constantaras &amp;amp; Jack Sapoch, Lighthouse Reports; Mónica Cordero Sancho, Investigate Midwest ; William Lager, The Marshall Project; Bianca Muniz, Agência Pública de Jornalismo Investigativo&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Many cross-border investigations are led by a Global Minority media partner who are incentivized to prioritize Global Minority editorial objectives and audiences. How could we apply DEI practices that have been pioneered in collaborative community reporting projects to design more equitable international collaborations? Eva Constantaras &amp;amp; Jack Sapoch, Lighthouse Reports; Mónica Cordero Sancho, Investigate Midwest ; William Lager, The Marshall Project; Bianca Muniz, Agência Pública de Jornalismo Investigativo</p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-1131.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-1131.mp3" type="audio/mp3" length="68900688" />
     <itunes:explicit>no</itunes:explicit>
@@ -829,9 +830,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 17:30:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 17:30:00 -0000</pubDate> 
     <title>Yes, you still need to calculate an accuracy rate for your AI workflow</title>
-    <description>&lt;![CDATA[&lt;p&gt;LLMs like ChatGPT and Claude really can be helpful. I swear. They have helped us by reading large quantities of documents and classifying them, or by extracting a snippet, to answer questions like: Do these Truth Social posts contain an insult? Who is the guest in described in this podcast episode description? Is “Bethel Christian School” a religious or secular school? But they don’t always help on the first try – and you can’t evaluate AI with just vibes. I mean, you can. But you’ll end up being wrong. Come learn best practice methodologies for how to use these sorts of AI classification and extraction methodologies from Washington Post journalists who have done about a dozen such experiments in the past year. We’ll cover how to generate gold data, pick the right accuracy stat, calculate that accuracy stat and how to use those stats to improve your prompts. Caitlin Gilbert &amp;amp; Jeremy Merrill &amp;amp; Ence Morse, The Washington Post &lt;a href="https://docs.google.com/document/d/16d1RajwUMJkHptsxce1JyOo7hgDi9ntwnLUYn2lzofY/edit?tab=t.0"&gt;Tipsheet&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>LLMs like ChatGPT and Claude really can be helpful. I swear. They have helped us by reading large quantities of documents and classifying them, or by extracting a snippet, to answer questions like: Do these Truth Social posts contain an insult? Who is the guest in described in this podcast episode description? Is “Bethel Christian School” a religious or secular school? But they don’t always help on the first try – and you can’t evaluate AI with just vibes. I mean, you can. But you’ll end up being wrong. Come learn best practice methodologies for how to use these sorts of AI classification and extraction methodologies from Washington Post journalists who have done about a dozen such experiments in the past year. We’ll cover how to generate gold data, pick the right accuracy stat, calculate that accuracy stat and how to use those stats to improve your prompts. Caitlin Gilbert &amp;amp; Jeremy Merrill &amp;amp; Ence Morse, The Washington Post <a href="https://docs.google.com/document/d/16d1RajwUMJkHptsxce1JyOo7hgDi9ntwnLUYn2lzofY/edit?tab=t.0">Tipsheet</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-1088.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-1088.mp3" type="audio/mp3" length="60622848" />
     <itunes:explicit>no</itunes:explicit>
@@ -843,9 +844,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 20:15:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 20:15:00 -0000</pubDate> 
     <title>Beginner track: Easy visualizations for your first data stories</title>
-    <description>&lt;![CDATA[&lt;p&gt;Best practices for thinking about simple data visualizations to help tell your story and a peek at some free tools. Adriana Aguilar, ABC OTV Data Team; Brent Jones, NPR; Grace Manthey, CBS News &amp;amp; Stations; CJ Sinner, The Minnesota Star Tribune&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Best practices for thinking about simple data visualizations to help tell your story and a peek at some free tools. Adriana Aguilar, ABC OTV Data Team; Brent Jones, NPR; Grace Manthey, CBS News &amp;amp; Stations; CJ Sinner, The Minnesota Star Tribune</p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-2077.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-2077.mp3" type="audio/mp3" length="67932624" />
     <itunes:explicit>no</itunes:explicit>
@@ -857,9 +858,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 20:15:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 20:15:00 -0000</pubDate> 
     <title>Covering agriculture &amp; our food supply with data</title>
-    <description>&lt;![CDATA[&lt;p&gt;During this session, panelists will share their experiences and tips for reporting on agricultural issues and data-driven food supply chains. Attendees will learn about relevant agricultural and environmental databases that will allow them to explore the intersections between food production, climate change, and economic factors. Mónica Cordero Sancho, Investigate Midwest ; Leah Douglas, Reuters; John McCracken, Investigate Midwest; Gavin Off, The Charlotte Observer&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>During this session, panelists will share their experiences and tips for reporting on agricultural issues and data-driven food supply chains. Attendees will learn about relevant agricultural and environmental databases that will allow them to explore the intersections between food production, climate change, and economic factors. Mónica Cordero Sancho, Investigate Midwest ; Leah Douglas, Reuters; John McCracken, Investigate Midwest; Gavin Off, The Charlotte Observer</p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-2067.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-2067.mp3" type="audio/mp3" length="73497600" />
     <itunes:explicit>no</itunes:explicit>
@@ -871,9 +872,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 20:15:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 20:15:00 -0000</pubDate> 
     <title>Policing the police with data</title>
-    <description>&lt;![CDATA[&lt;p&gt;From challenging police narratives to tracking police violence and tallying inflating police budgets, data has played a crucial role in holding police agencies accountable across the country. Come to this session to learn how to equip your reporting with crucial data that will help inform and improve your public safety journalism in your own communities. Lakeidra Chavis, The Marshall Project; Jeff Hargarten, Star Tribune; Matt Kiefer, Medill | Northwestern; Jennifer Lu, APM Reports &lt;a href="https://docs.google.com/document/d/1oc8xmPzuBverbq7ZtHUJfN3YTNmd-8meO86NN9KJObs/edit?tab=t.0#heading=h.88ejq3v7xrsh"&gt;Tipsheet&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>From challenging police narratives to tracking police violence and tallying inflating police budgets, data has played a crucial role in holding police agencies accountable across the country. Come to this session to learn how to equip your reporting with crucial data that will help inform and improve your public safety journalism in your own communities. Lakeidra Chavis, The Marshall Project; Jeff Hargarten, Star Tribune; Matt Kiefer, Medill | Northwestern; Jennifer Lu, APM Reports <a href="https://docs.google.com/document/d/1oc8xmPzuBverbq7ZtHUJfN3YTNmd-8meO86NN9KJObs/edit?tab=t.0#heading=h.88ejq3v7xrsh">Tipsheet</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-2089.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-2089.mp3" type="audio/mp3" length="59415264" />
     <itunes:explicit>no</itunes:explicit>
@@ -885,9 +886,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 20:15:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 20:15:00 -0000</pubDate> 
     <title>Tips for successful public records requests</title>
-    <description>&lt;![CDATA[&lt;p&gt;Too often journalists are stonewalled when seeking public records that show how the government is operating at the national, state and local levels. This session will cover strategies to find success with the Freedom of Information Act and state public records laws, including how to get agencies to respond to your requests more quickly, steps you can take to overcome agencies' resistance and where you can find resources to help you appeal denials. Marisa Kwiatkowski, Knight Foundation; Ryan Martin, Mirror Indy; Gunita Singh, Reporters Committee for Freedom of the Press; Matt Topic, Loevy + Loevy &lt;a href="https://docs.google.com/document/d/1W40Hs6XxjmKgyOcE13L8tZnn6qG1MlTp6C8unXW4Ydw/edit?tab=t.0#heading=h.xu54bippp7d7"&gt;Tipsheet&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Too often journalists are stonewalled when seeking public records that show how the government is operating at the national, state and local levels. This session will cover strategies to find success with the Freedom of Information Act and state public records laws, including how to get agencies to respond to your requests more quickly, steps you can take to overcome agencies' resistance and where you can find resources to help you appeal denials. Marisa Kwiatkowski, Knight Foundation; Ryan Martin, Mirror Indy; Gunita Singh, Reporters Committee for Freedom of the Press; Matt Topic, Loevy + Loevy <a href="https://docs.google.com/document/d/1W40Hs6XxjmKgyOcE13L8tZnn6qG1MlTp6C8unXW4Ydw/edit?tab=t.0#heading=h.xu54bippp7d7">Tipsheet</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-2088.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-2088.mp3" type="audio/mp3" length="70809456" />
     <itunes:explicit>no</itunes:explicit>
@@ -899,9 +900,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 21:30:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 21:30:00 -0000</pubDate> 
     <title>Auditing AI algorithms for bias</title>
-    <description>&lt;![CDATA[&lt;p&gt;AI is everywhere and reporters are finding new ways to hold AI tools accountable. This panel showcases original investigations into predictive and generative AI tools built by some of the largest technology companies in the world by two award-winning freelance reporters. Towards the end of the session, we will also discuss how reporters can use AI tools ethically and we would love to hear from the community what is needed to help reporters in newsrooms and freelance reporters. Varsha Bansal, Independent journalist; Tyler Dukes, McClatchy Media; Joanna Kao, Pulitzer Center; Hilke Schellmann, New York University &lt;a href="https://docs.google.com/presentation/d/1HohIMcVx-77OkLKbbMsFgActhAODaDCSJW3oIZldNiU/edit#slide=id.p"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>AI is everywhere and reporters are finding new ways to hold AI tools accountable. This panel showcases original investigations into predictive and generative AI tools built by some of the largest technology companies in the world by two award-winning freelance reporters. Towards the end of the session, we will also discuss how reporters can use AI tools ethically and we would love to hear from the community what is needed to help reporters in newsrooms and freelance reporters. Varsha Bansal, Independent journalist; Tyler Dukes, McClatchy Media; Joanna Kao, Pulitzer Center; Hilke Schellmann, New York University <a href="https://docs.google.com/presentation/d/1HohIMcVx-77OkLKbbMsFgActhAODaDCSJW3oIZldNiU/edit#slide=id.p">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-1135.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-1135.mp3" type="audio/mp3" length="72045168" />
     <itunes:explicit>no</itunes:explicit>
@@ -913,9 +914,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 21:30:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 21:30:00 -0000</pubDate> 
     <title>No comment? What to do when government agencies won't answer your questions about their data</title>
-    <description>&lt;![CDATA[&lt;p&gt;What to do when the owner of the data you are analyzing says no comment. Hannah Fresques, ProPublica; Jane Kirtley, University of Minnesota; Ryan Little &amp;amp; Greg Morton, The Baltimore Banner&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>What to do when the owner of the data you are analyzing says no comment. Hannah Fresques, ProPublica; Jane Kirtley, University of Minnesota; Ryan Little &amp;amp; Greg Morton, The Baltimore Banner</p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-1154.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-1154.mp3" type="audio/mp3" length="67044096" />
     <itunes:explicit>no</itunes:explicit>
@@ -927,9 +928,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 21:30:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 21:30:00 -0000</pubDate> 
     <title>Tools, tips and tough lessons for teaching data journalism</title>
-    <description>&lt;![CDATA[&lt;p&gt;This panel is all about the latest in teaching data journalism to college students. Many NICAR participants have been teaching for a long time, or make side money teaching a class as an adjunct. The panelists will discuss strategies and techniques that help make data journalism accessible to students. Rahul Bhargava, Northeastern University; Maggie Mulvihill, Boston University; Matt Waite, University of Nebraska&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>This panel is all about the latest in teaching data journalism to college students. Many NICAR participants have been teaching for a long time, or make side money teaching a class as an adjunct. The panelists will discuss strategies and techniques that help make data journalism accessible to students. Rahul Bhargava, Northeastern University; Maggie Mulvihill, Boston University; Matt Waite, University of Nebraska</p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-1186.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-1186.mp3" type="audio/mp3" length="69321264" />
     <itunes:explicit>no</itunes:explicit>
@@ -941,9 +942,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 22:45:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 22:45:00 -0000</pubDate> 
     <title>How to turn your investigation or data findings into narrative audio</title>
-    <description>&lt;![CDATA[&lt;p&gt;How do you turn a mountain of data and complex investigative findings into audio storytelling that captivates audiences? This panel explores the art of weaving complex data into character-rich, narrative storytelling in audio form. Whether it’s a podcast or a radio feature, this panel will give you advice on how to make your stories resonate to the ear. Alexia Fernandez Campbell, Bloomberg Industry Group; Curtis Gilbert, APM Reports; Kate Howard, Reveal; Emily Zentner, The California Newsroom &lt;a href="https://docs.google.com/presentation/d/1MmrcIjWuJHBpz2oijLbigk_cgcRVj2bPRgAPvbNZods/edit#slide=id.p"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>How do you turn a mountain of data and complex investigative findings into audio storytelling that captivates audiences? This panel explores the art of weaving complex data into character-rich, narrative storytelling in audio form. Whether it’s a podcast or a radio feature, this panel will give you advice on how to make your stories resonate to the ear. Alexia Fernandez Campbell, Bloomberg Industry Group; Curtis Gilbert, APM Reports; Kate Howard, Reveal; Emily Zentner, The California Newsroom <a href="https://docs.google.com/presentation/d/1MmrcIjWuJHBpz2oijLbigk_cgcRVj2bPRgAPvbNZods/edit#slide=id.p">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-2079.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-2079.mp3" type="audio/mp3" length="76958208" />
     <itunes:explicit>no</itunes:explicit>
@@ -955,9 +956,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 22:45:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 22:45:00 -0000</pubDate> 
     <title>Practical, ethical use of AI in the newsroom: Research, reporting and fact-checking</title>
-    <description>&lt;![CDATA[&lt;p&gt;This panel brings together journalists and engineers who are leveraging AI to report groundbreaking stories, surface leads from troves of data, and bolster the integrity of their journalism. Panelists will discuss the shortcomings and risks of this rapidly evolving technology, as well as the opportunities for experimentation and how to responsibly incorporate AI in your newsroom. Attendees will leave with some guiding principles for using AI, some cautionary tales to help them avoid our mistakes, and some inspiration for how they can creatively incorporate these technologies to enhance their accountability reporting. Katlyn Alo, The Washington Post; Dana Chiueh, Minnesota Star Tribune; Dylan Freedman, The New York Times; Ryan Sabalow, CalMatters&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>This panel brings together journalists and engineers who are leveraging AI to report groundbreaking stories, surface leads from troves of data, and bolster the integrity of their journalism. Panelists will discuss the shortcomings and risks of this rapidly evolving technology, as well as the opportunities for experimentation and how to responsibly incorporate AI in your newsroom. Attendees will leave with some guiding principles for using AI, some cautionary tales to help them avoid our mistakes, and some inspiration for how they can creatively incorporate these technologies to enhance their accountability reporting. Katlyn Alo, The Washington Post; Dana Chiueh, Minnesota Star Tribune; Dylan Freedman, The New York Times; Ryan Sabalow, CalMatters</p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-1166.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-1166.mp3" type="audio/mp3" length="75751440" />
     <itunes:explicit>no</itunes:explicit>
@@ -969,9 +970,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 22:45:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 22:45:00 -0000</pubDate> 
     <title>Swapping LexisNexis for free tools</title>
-    <description>&lt;![CDATA[&lt;p&gt;Expensive all-in-one research tools are attractive, especially if your newsroom has the money to pay for them — but what if it doesn’t? Or, what if you don’t want a tool to do your research and sell it back to you? In this panel, we’ll help you drop the subscription and find court records, search news archives and background businesses and people using your own elbow grease. We’ll show you why collecting your own datasets to do these tasks (and saving them over time) helps you more than relying on a tool not made for journalists or by journalists. You’ll leave our panel confident that you can effectively research on your own and find support when you run into questions. Maybe you’ll even build a Lexis Nexis for your newsroom. Dillon Bergin, MuckRock; Brandon Meyer, University of Florida; Diara J. Townes, Sunlight Research Center &lt;a href="https://docs.google.com/presentation/d/1ttQmVCqSVkyJBq-oDGMbVZqmim662V-qD3t5M6VDD7I/edit#slide=id.g33bff4d0c9e_0_220"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Expensive all-in-one research tools are attractive, especially if your newsroom has the money to pay for them — but what if it doesn’t? Or, what if you don’t want a tool to do your research and sell it back to you? In this panel, we’ll help you drop the subscription and find court records, search news archives and background businesses and people using your own elbow grease. We’ll show you why collecting your own datasets to do these tasks (and saving them over time) helps you more than relying on a tool not made for journalists or by journalists. You’ll leave our panel confident that you can effectively research on your own and find support when you run into questions. Maybe you’ll even build a Lexis Nexis for your newsroom. Dillon Bergin, MuckRock; Brandon Meyer, University of Florida; Diara J. Townes, Sunlight Research Center <a href="https://docs.google.com/presentation/d/1ttQmVCqSVkyJBq-oDGMbVZqmim662V-qD3t5M6VDD7I/edit#slide=id.g33bff4d0c9e_0_220">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-1111.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-1111.mp3" type="audio/mp3" length="70481904" />
     <itunes:explicit>no</itunes:explicit>
@@ -983,9 +984,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sat, 08 Mar 2025 22:45:00 -0000</pubdate> 
+    <pubDate>Sat, 08 Mar 2025 22:45:00 -0000</pubDate> 
     <title>Using data to report on the housing crisis in your community</title>
-    <description>&lt;![CDATA[&lt;p&gt;As housing affordability becomes an increasing hurdle for many Americans, this session explores ways to quantify housing challenges across the country, paired with examples of local investigative reporting. Presenters from NBC News and Princeton’s Eviction Lab will share methodologies behind their data products — the Home Buyer Index and Eviction Tracking Tools — and how any newsroom can leverage these resources. Reporters from Tampa Bay Times and Injustice Watch will offer insights on investigating corporate landlords, building code enforcement and evictions in a local context. Attendees will walk away with hands-on strategies to develop compelling stories and shed light on housing affordability in your community. Jasmine Cui, NBC News; Maya Dukmasova, Injustice Watch; Teghan Simonton, Tampa Bay Times; Camila Vallejo , Eviction Lab &lt;a href="https://docs.google.com/document/d/16jYrbmtKTusqwTHoFznV8O-mLdbfA25l9gMU4ZQiWkc/edit?tab=t.0"&gt;Tipsheet&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>As housing affordability becomes an increasing hurdle for many Americans, this session explores ways to quantify housing challenges across the country, paired with examples of local investigative reporting. Presenters from NBC News and Princeton’s Eviction Lab will share methodologies behind their data products — the Home Buyer Index and Eviction Tracking Tools — and how any newsroom can leverage these resources. Reporters from Tampa Bay Times and Injustice Watch will offer insights on investigating corporate landlords, building code enforcement and evictions in a local context. Attendees will walk away with hands-on strategies to develop compelling stories and shed light on housing affordability in your community. Jasmine Cui, NBC News; Maya Dukmasova, Injustice Watch; Teghan Simonton, Tampa Bay Times; Camila Vallejo , Eviction Lab <a href="https://docs.google.com/document/d/16jYrbmtKTusqwTHoFznV8O-mLdbfA25l9gMU4ZQiWkc/edit?tab=t.0">Tipsheet</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250308-1117.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250308-1117.mp3" type="audio/mp3" length="63908448" />
     <itunes:explicit>no</itunes:explicit>
@@ -997,9 +998,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sun, 09 Mar 2025 14:00:00 -0000</pubdate> 
+    <pubDate>Sun, 09 Mar 2025 14:00:00 -0000</pubDate> 
     <title>Beginner track: Taking it all home</title>
-    <description>&lt;![CDATA[&lt;p&gt;You've picked up some new skills, filled your brain with inspiration and your notebook with ideas, but now what? We'll give you some tips on how to take advantage of what you've learned, avoid letting your skills get rusty and even continue learning when you get back to your job. Bring your questions, too! We'll have lots of time for that. Greta Kaul, Minnesota Star Tribune; John Kelly, CBS News; Liz Lucas, University of Missouri School of Journalism&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>You've picked up some new skills, filled your brain with inspiration and your notebook with ideas, but now what? We'll give you some tips on how to take advantage of what you've learned, avoid letting your skills get rusty and even continue learning when you get back to your job. Bring your questions, too! We'll have lots of time for that. Greta Kaul, Minnesota Star Tribune; John Kelly, CBS News; Liz Lucas, University of Missouri School of Journalism</p>]]></description>
     <guid>https://resources.ire.org/audio/20250309-2078.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250309-2078.mp3" type="audio/mp3" length="66747648" />
     <itunes:explicit>no</itunes:explicit>
@@ -1011,9 +1012,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sun, 09 Mar 2025 14:00:00 -0000</pubdate> 
+    <pubDate>Sun, 09 Mar 2025 14:00:00 -0000</pubDate> 
     <title>Election data to use after the election</title>
-    <description>&lt;![CDATA[&lt;p&gt;For many news organizations, election data analysis ends on election night or soon after. But there are multiple types of election data produced in the weeks and months after the election ends, including cast vote records and voter history files. This session will demonstrate uses of them and ways that you can incorporate them into other types of reporting. Derek Willis, University of Maryland &lt;a href="https://github.com/dwillis/nicar25-election-data"&gt;GitHub repo&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>For many news organizations, election data analysis ends on election night or soon after. But there are multiple types of election data produced in the weeks and months after the election ends, including cast vote records and voter history files. This session will demonstrate uses of them and ways that you can incorporate them into other types of reporting. Derek Willis, University of Maryland <a href="https://github.com/dwillis/nicar25-election-data">GitHub repo</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250309-1119.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250309-1119.mp3" type="audio/mp3" length="69291120" />
     <itunes:explicit>no</itunes:explicit>
@@ -1025,9 +1026,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sun, 09 Mar 2025 15:15:00 -0000</pubdate> 
+    <pubDate>Sun, 09 Mar 2025 15:15:00 -0000</pubDate> 
     <title>Behind the story: Recovery Inc. – Using data to investigate the big business of addiction treatment</title>
-    <description>&lt;![CDATA[&lt;p&gt;Go behind the story with members of the team whose multi-year investigation into the business of addiction treatment has sparked reform laws, DOJ kickback and money laundering investigations, FBI raids, and fraud conspiracy indictments. Kelly Dietz, KARE11; A.J. Lagoe, KARE-TV &lt;a href="https://resources.ire.org/tipsheets/20250309-30470.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Go behind the story with members of the team whose multi-year investigation into the business of addiction treatment has sparked reform laws, DOJ kickback and money laundering investigations, FBI raids, and fraud conspiracy indictments. Kelly Dietz, KARE11; A.J. Lagoe, KARE-TV <a href="https://resources.ire.org/tipsheets/20250309-30470.pdf">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250309-2081.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250309-2081.mp3" type="audio/mp3" length="64191744" />
     <itunes:explicit>no</itunes:explicit>
@@ -1039,9 +1040,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sun, 09 Mar 2025 15:15:00 -0000</pubdate> 
+    <pubDate>Sun, 09 Mar 2025 15:15:00 -0000</pubDate> 
     <title>Yes, you really CAN get high-res satellite images for free</title>
-    <description>&lt;![CDATA[&lt;p&gt;This panel will show newcomers to this compelling form of evidence that medium res images are now free and easy to use via open source portals (you can just tap a slider on EO Browser app to eliminate pictures with clouds), and also how to Make and Frame your email request to marketing people at private companies for high res images. Carl Churchill, The Wall Street Journal; Laura Kurtzberg, IRE &amp;amp; NICAR; Rowan Philp, GIJN; Daniel Wolfe, The Washington Post &lt;a href="https://docs.google.com/presentation/d/1Vk_TAiENBeAjT88HQMHdXBXsPnZtg6MZaRSYa4qQbfc/edit#slide=id.g82901b2fc3_0_83"&gt;Slides&lt;/a&gt;&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>This panel will show newcomers to this compelling form of evidence that medium res images are now free and easy to use via open source portals (you can just tap a slider on EO Browser app to eliminate pictures with clouds), and also how to Make and Frame your email request to marketing people at private companies for high res images. Carl Churchill, The Wall Street Journal; Laura Kurtzberg, IRE &amp;amp; NICAR; Rowan Philp, GIJN; Daniel Wolfe, The Washington Post <a href="https://docs.google.com/presentation/d/1Vk_TAiENBeAjT88HQMHdXBXsPnZtg6MZaRSYa4qQbfc/edit#slide=id.g82901b2fc3_0_83">Slides</a></p>]]></description>
     <guid>https://resources.ire.org/audio/20250309-1125.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250309-1125.mp3" type="audio/mp3" length="68113872" />
     <itunes:explicit>no</itunes:explicit>
@@ -1053,9 +1054,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sun, 09 Mar 2025 16:30:00 -0000</pubdate> 
+    <pubDate>Sun, 09 Mar 2025 16:30:00 -0000</pubDate> 
     <title>Early career journalists' roundtable</title>
-    <description>&lt;![CDATA[&lt;p&gt;Journalism is an ever-changing, ever-evolving industry and that goes doubly these days. Come to this session for discussion about what it means to be a journalist, how to carve out a path for yourself in the industry, and how to handle the trials and tribulations that come with this work. Diana Fuentes, IRE &amp;amp; NICAR; Teghan Simonton, Tampa Bay Times&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Journalism is an ever-changing, ever-evolving industry and that goes doubly these days. Come to this session for discussion about what it means to be a journalist, how to carve out a path for yourself in the industry, and how to handle the trials and tribulations that come with this work. Diana Fuentes, IRE &amp;amp; NICAR; Teghan Simonton, Tampa Bay Times</p>]]></description>
     <guid>https://resources.ire.org/audio/20250309-1163.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250309-1163.mp3" type="audio/mp3" length="74587488" />
     <itunes:explicit>no</itunes:explicit>
@@ -1067,9 +1068,9 @@
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
   <item>
-    <pubdate>Sun, 09 Mar 2025 16:30:00 -0000</pubdate> 
+    <pubDate>Sun, 09 Mar 2025 16:30:00 -0000</pubDate> 
     <title>Quick-hit investigations</title>
-    <description>&lt;![CDATA[&lt;p&gt;Learn strategies, story ideas, resources and tips for watchdog stories on a variety of beats. You'll get tips on how to produce meaty enterprise stories that take days or weeks rather than months. Adam Rhodes &amp;amp; Francisco Vara-Orta, IRE &amp;amp; NICAR&lt;/p&gt;]]&gt;</description>
+    <description><![CDATA[<p>Learn strategies, story ideas, resources and tips for watchdog stories on a variety of beats. You'll get tips on how to produce meaty enterprise stories that take days or weeks rather than months. Adam Rhodes &amp;amp; Francisco Vara-Orta, IRE &amp;amp; NICAR</p>]]></description>
     <guid>https://resources.ire.org/audio/20250309-3044.mp3</guid>
     <enclosure url="https://resources.ire.org/audio/20250309-3044.mp3" type="audio/mp3" length="64290624" />
     <itunes:explicit>no</itunes:explicit>
