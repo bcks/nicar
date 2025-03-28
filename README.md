@@ -6,10 +6,10 @@ If you like podcasts and computer-assisted investigative journalism you might en
 <br> 
 
 **Drop this URL into your favorite podcast app:**  
-[https://raw.githubusercontent.com/bcks/nicar/main/podcast.xml](https://raw.githubusercontent.com/bcks/nicar/main/podcast.xml)
+[https://backspace.com/nicar/podcast.xml](https://backspace.com/nicar/podcast.xml)
 
 <br> 
 
 The feed is packaged from the list of audio files and tip sheets from [2024](https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/) and [2025](https://www.ire.org/training/conferences/nicar-2025/nicar-2025-tipsheets-and-audio/) generously shared by the presenters and conference organizers. 
 
-NB: Most of the audio is not in stereo.
+NB: Some sessions are not in stereo.
