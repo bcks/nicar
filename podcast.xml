@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel> 
   <title>NICAR Sessions</title>
-  <description>An unofficial podcast feed of audio recordings from NICAR 2024 and 2025</description>
+  <description>An unofficial podcast feed of audio recordings from NICAR 2024–2026</description>
   <language>en-us</language> 
   <link>https://github.com/bcks/nicar</link>
   <generator>Podcast RSS Generator (https://github.com/vpetersson/podcast-rss-generator)</generator>
@@ -12,11 +12,10 @@
   <itunes:email>john@backspace.com</itunes:email>
   </itunes:owner>
   <itunes:author>NICAR</itunes:author>
-  <itunes:summary>An unofficial podcast feed of audio recordings from NICAR 2024 and 2025 </itunes:summary>
+  <itunes:summary>An unofficial podcast feed of audio recordings from NICAR 2024–2026</itunes:summary>
   <itunes:category text="Technology" />
   <itunes:category text="News" />
   <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
-
   <item>
     <pubDate>Thu, 06 Mar 2025 15:00:00 -0000</pubDate> 
     <title>Beginner track: New to data journalism? Start here</title>
@@ -2146,6 +2145,943 @@
     <link>https://www.ire.org/training/conferences/nicar-2024/nicar24-tipsheets-audio/</link>
     <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
   </item>
-
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>How to get data out of complex documents using AI</title>
+    <description><![CDATA[<p>Disha Raychaudhuri, Reuters; Duy Nguyen, The New York Times; Teresa Mondría Terol, The New York Times</p>]]></description>
+    <guid>https://resources.ire.org/files/5607fcf0-4d6e-487c-b479-6ec8c3879f71.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/5607fcf0-4d6e-487c-b479-6ec8c3879f71.mp3" type="audio/mp3" length="53753616" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3646</itunes:duration>
+    <itunes:episode>15</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Everyone can be (and should be) a housing reporter</title>
+    <description><![CDATA[<p>Juan Pablo Garnham, Eviction Lab; Aaron Mondry, Outlier Media <a href="https://resources.ire.org/tipsheets/20260305-1007.pdf">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/files/8ed964d3-8922-493e-8b53-85c7180c4391.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/8ed964d3-8922-493e-8b53-85c7180c4391.mp3" type="audio/mp3" length="53535024" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3624</itunes:duration>
+    <itunes:episode>16</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>AI concepts you should know</title>
+    <description><![CDATA[<p>Libby Seline, University of Chicago; Ryan Serpico, Hearst; Jon Keegan, Sherwood News <a href="https://resources.ire.org/tipsheets/20260305-1008.pdf">Slides</a> <a href="https://aiglossary.news/">Website</a></p>]]></description>
+    <guid>https://resources.ire.org/files/ca39d450-5ac9-40bd-bbf2-720a6b3512e0.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/ca39d450-5ac9-40bd-bbf2-720a6b3512e0.mp3" type="audio/mp3" length="55289568" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3664</itunes:duration>
+    <itunes:episode>17</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>From delving into data to door knocking: Finding people behind the numbers and getting them to speak</title>
+    <description><![CDATA[<p>Jared Kofsky, ABC News; Stephanie Lamm, Atlanta Journal-Constitution; Caresse Jackman, InvestigateTV; Elisabeth Gawthrop, American Public Media; Mark Nichols, ABC News <a href="https://resources.ire.org/tipsheets/20260305-1009.pdf">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/files/96da0b1e-d42f-46f3-86ea-83186026fcf5.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/96da0b1e-d42f-46f3-86ea-83186026fcf5.mp3" type="audio/mp3" length="51141696" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3637</itunes:duration>
+    <itunes:episode>18</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Using data to find sources</title>
+    <description><![CDATA[<p>Brian Whitton, The Wall Street Journal; Aaron Mendelson, The Trace; Adriana Navarro, Arizona Center for Investigative Reporting; Taylor Nichols, Houston Chronicle <a href="https://resources.ire.org/tipsheets/20260305-1022.pdf">Slides</a> <a href="https://resources.ire.org/tipsheets/20260305-1022-1.pdf">Tipsheet</a></p>]]></description>
+    <guid>https://resources.ire.org/files/251ce5f3-2764-4179-9821-0f439a5063ee.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/251ce5f3-2764-4179-9821-0f439a5063ee.mp3" type="audio/mp3" length="50751624" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3492</itunes:duration>
+    <itunes:episode>19</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Data in the world of audio</title>
+    <description><![CDATA[<p>Hannah Reale, GBH News; Clayton Guse, WNYC/Gothamist; Amy Qin, WBEZ</p>]]></description>
+    <guid>https://resources.ire.org/files/e8691528-b621-4f80-a51c-9648386d6f7e.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/e8691528-b621-4f80-a51c-9648386d6f7e.mp3" type="audio/mp3" length="54414528" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3609</itunes:duration>
+    <itunes:episode>20</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Using data to investigate the global surveillance industry</title>
+    <description><![CDATA[<p>Aaron Sankin, The Marshall Project; Andrew Couts, WIRED <a href="https://resources.ire.org/tipsheets/20260305-1069.pdf">Tipsheet</a></p>]]></description>
+    <guid>https://resources.ire.org/files/78b08c79-a23c-4e5d-9095-5ac977ecbfa3.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/78b08c79-a23c-4e5d-9095-5ac977ecbfa3.mp3" type="audio/mp3" length="39643896" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3391</itunes:duration>
+    <itunes:episode>21</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Next-gen crime data: Know your NIBRS!</title>
+    <description><![CDATA[<p>Paul Overberg, The Wall Street Journal; Jill Castellano, The Marshall Project; Maia Rosenfeld, KFF Health News <a href="https://resources.ire.org/tipsheets/20260305-1129.pdf">Slides</a> <a href="https://resources.ire.org/tipsheets/20260305-1129-1.pdf">Slides (2)</a> <a href="https://resources.ire.org/tipsheets/20260305-1129-2.pdf">Slides (3)</a> <a href="https://resources.ire.org/tipsheets/20260305-1129-3.pdf">Tipsheet</a></p>]]></description>
+    <guid>https://resources.ire.org/files/66db7a09-5b49-4a72-bdaa-5486707fdb76.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/66db7a09-5b49-4a72-bdaa-5486707fdb76.mp3" type="audio/mp3" length="52505520" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3847</itunes:duration>
+    <itunes:episode>22</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Accessing data on deaths in custody</title>
+    <description><![CDATA[<p>Ethan Corey, Behind Bars Data Project; A.J. Lagoe, KARE-TV; Ivy Scott, The Marshall Project <a href="https://resources.ire.org/tipsheets/20260305-1153.pdf">Tipsheet</a> <a href="https://resources.ire.org/tipsheets/20260305-1153-1.pdf">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/files/eadf589a-c071-4635-9983-b8b8ae16d0ee.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/eadf589a-c071-4635-9983-b8b8ae16d0ee.mp3" type="audio/mp3" length="42278496" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3621</itunes:duration>
+    <itunes:episode>23</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Reporting on maternal and infant health in turbulent times</title>
+    <description><![CDATA[<p>Andrea Suozzo, ProPublica; Sophie Chou, Independent journalist; Holly Hacker, KFF Health News <a href="https://resources.ire.org/tipsheets/20260305-1158-1.pdf">Slides</a> <a href="https://resources.ire.org/tipsheets/20260305-1158.pdf">Tipsheet</a></p>]]></description>
+    <guid>https://resources.ire.org/files/364bced8-40bf-4975-924d-a8c83c0fe2cc.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/364bced8-40bf-4975-924d-a8c83c0fe2cc.mp3" type="audio/mp3" length="42671856" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3709</itunes:duration>
+    <itunes:episode>24</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Data journalism for new reporters</title>
+    <description><![CDATA[<p>Helena Bengtsson, Gota Media / Bonnier News Local; Jennifer LaFleur, UC Berkeley School of Journalism; Cheryl Phillips, Big Local News</p>]]></description>
+    <guid>https://resources.ire.org/files/9e2c7e33-bd54-4016-95e7-ce8337bac6cc.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/9e2c7e33-bd54-4016-95e7-ce8337bac6cc.mp3" type="audio/mp3" length="46875504" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3365</itunes:duration>
+    <itunes:episode>25</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Investigating the AI data center boom</title>
+    <description><![CDATA[<p>Michelle Ma, Bloomberg; Phoebe Liu, Forbes; Enrique Saenz, MirrorIndy</p>]]></description>
+    <guid>https://resources.ire.org/files/ae393795-3182-4022-b8a7-94af685a21aa.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/ae393795-3182-4022-b8a7-94af685a21aa.mp3" type="audio/mp3" length="50811768" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3627</itunes:duration>
+    <itunes:episode>26</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Introducing the new IRE Resource Center</title>
+    <description><![CDATA[<p>Ben Welsh, Reuters; Derek Willis, University of Maryland <a href="https://palewi.re/docs/ire-archive-slide-deck/">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/files/2700585c-09d4-4ada-b752-625568b61b7e.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/2700585c-09d4-4ada-b752-625568b61b7e.mp3" type="audio/mp3" length="35152032" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3071</itunes:duration>
+    <itunes:episode>27</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Following the money in college sports’ new era</title>
+    <description><![CDATA[<p>Jodi Upton, Syracuse University; Max Rivera, Bloomberg; Peyton Barish, Knight-Newhouse College Athletics Database; Michael H. LeRoy, University of Illinois</p>]]></description>
+    <guid>https://resources.ire.org/files/9a206910-537b-48d7-b6b3-ee37dbe61f10.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/9a206910-537b-48d7-b6b3-ee37dbe61f10.mp3" type="audio/mp3" length="54525840" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3622</itunes:duration>
+    <itunes:episode>28</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Monitoring police accountability laws across the U.S.</title>
+    <description><![CDATA[<p>Jodi Upton, Syracuse University; Sam Stecklow, Invisible Institute; Sarah Taddeo, USA TODAY Network; David Robinson, Rochester Democrat and Chronicle; Katey Rusch, UC Berkeley <a href="https://resources.ire.org/tipsheets/20260305-1304-1.pdf">Slides</a> <a href="https://resources.ire.org/tipsheets/20260305-1304.pdf">Tipsheet</a></p>]]></description>
+    <guid>https://resources.ire.org/files/7d564ddb-df57-44ac-a529-40977f633ab8.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/7d564ddb-df57-44ac-a529-40977f633ab8.mp3" type="audio/mp3" length="56180640" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3679</itunes:duration>
+    <itunes:episode>29</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Supporting the next generation of journalists through a historic slide in U.S. press freedom</title>
+    <description><![CDATA[<p>Andrew Miller, Indiana Daily Student; Mia Hilkowitz, Indiana University; Lucas Griffith, University of Cincinnati; Olivia Mapes, The Purdue Exponent; Stephanie Sugars, U.S. Press Freedom Tracker; Elaine Monaghan, Indiana University</p>]]></description>
+    <guid>https://resources.ire.org/files/aacc2889-dfde-4363-ba1d-42e8356ad4d8.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/aacc2889-dfde-4363-ba1d-42e8356ad4d8.mp3" type="audio/mp3" length="44923104" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3455</itunes:duration>
+    <itunes:episode>30</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Accessing records to report on immigration enforcement actions</title>
+    <description><![CDATA[<p>Gunita Singh, Reporters Committee for Freedom of the Press (RCFP); Will Craft, The Guardian; Eileen Grench, Documented; Jim Daley, South Side Weekly; Pratheek Rebala, ProPublica</p>]]></description>
+    <guid>https://resources.ire.org/files/b851373d-d125-432b-b58f-37a8723ee8cb.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/b851373d-d125-432b-b58f-37a8723ee8cb.mp3" type="audio/mp3" length="54781440" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3616</itunes:duration>
+    <itunes:episode>31</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>We're managers, ask us anything: career, networking, mentorship</title>
+    <description><![CDATA[<p>Cindy Galli, MS NOW; Kate Howard, Reveal from The Center for Investigative Reporting; Diana Fuentes, Investigative Reporters &amp;amp; Editors</p>]]></description>
+    <guid>https://resources.ire.org/files/4040f977-f65a-48ff-b2b6-ba84fba527b6.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/4040f977-f65a-48ff-b2b6-ba84fba527b6.mp3" type="audio/mp3" length="40993584" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3567</itunes:duration>
+    <itunes:episode>32</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>The SLAPP Back Initiative: Building a first-of-its-kind database</title>
+    <description><![CDATA[<p>Susanna Granieri, First Amendment Watch <a href="https://resources.ire.org/tipsheets/20260305-1334.pdf">Tipsheet</a></p>]]></description>
+    <guid>https://resources.ire.org/files/ffa18241-e8e2-4f3b-b47c-210011d7762a.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/ffa18241-e8e2-4f3b-b47c-210011d7762a.mp3" type="audio/mp3" length="45914256" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3197</itunes:duration>
+    <itunes:episode>33</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>What your newsroom knows (but can’t find)</title>
+    <description><![CDATA[<p>Avery Wallace Louis, Stanford University; Hannah Woodworth, Stanford Univeristy; Lucy Zimmerman, Stanford University</p>]]></description>
+    <guid>https://resources.ire.org/files/2fc8fdb7-b014-4ec1-a219-a7dbd010b565.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/2fc8fdb7-b014-4ec1-a219-a7dbd010b565.mp3" type="audio/mp3" length="43236048" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>2978</itunes:duration>
+    <itunes:episode>34</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Catching the quiet changes: Automating website monitoring for investigative journalism with Visualping</title>
+    <description><![CDATA[<p>Kayla Zhu, Visualping <a href="https://resources.ire.org/tipsheets/20260305-1348.pdf">Slides</a> <a href="https://resources.ire.org/tipsheets/20260305-1348-1.pdf">Tipsheet</a></p>]]></description>
+    <guid>https://resources.ire.org/files/2edd09a4-83b2-4e23-8ea3-2c18b0300320.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/2edd09a4-83b2-4e23-8ea3-2c18b0300320.mp3" type="audio/mp3" length="44481312" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3170</itunes:duration>
+    <itunes:episode>35</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Finding a needle in a haystack: How to manage document-heavy investigations</title>
+    <description><![CDATA[<p>Chris Miles, Everlaw</p>]]></description>
+    <guid>https://resources.ire.org/files/bd0c0da3-dfe4-4780-9a26-f422717f8606.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/bd0c0da3-dfe4-4780-9a26-f422717f8606.mp3" type="audio/mp3" length="49326240" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3594</itunes:duration>
+    <itunes:episode>36</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>How to turn local data into far more useful tools for your newsroom — and your audiences</title>
+    <description><![CDATA[<p>AmyJo Brown, The Public Ledger; Rob Reid, Texas Tribune; Jaden Edison, The Texas Tribune</p>]]></description>
+    <guid>https://resources.ire.org/files/dfd79a47-9f09-43be-9ccf-21dcce1fcdeb.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/dfd79a47-9f09-43be-9ccf-21dcce1fcdeb.mp3" type="audio/mp3" length="56213232" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3887</itunes:duration>
+    <itunes:episode>37</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Google Trends for election coverage</title>
+    <description><![CDATA[<p>Alejandra Arevalo Zuniga, Google</p>]]></description>
+    <guid>https://resources.ire.org/files/6f65ae8f-69be-4670-873c-77c780a1e3be.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/6f65ae8f-69be-4670-873c-77c780a1e3be.mp3" type="audio/mp3" length="34765344" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>2562</itunes:duration>
+    <itunes:episode>38</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Thu, 05 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Pitching, reporting and planning the investigation</title>
+    <description><![CDATA[<p>Francisco Vara-Orta, Investigative Reporters &amp;amp; Editors; Diana Fuentes, Investigative Reporters &amp;amp; Editors</p>]]></description>
+    <guid>https://resources.ire.org/files/0306e950-7be5-475a-97b8-52507caaa33d.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/0306e950-7be5-475a-97b8-52507caaa33d.mp3" type="audio/mp3" length="53255328" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3581</itunes:duration>
+    <itunes:episode>39</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Utilizing new police misconduct and employment databases</title>
+    <description><![CDATA[<p>Sam Stecklow, Invisible Institute; Lisa Pickoff-White, California Reporting Project; Maheen Khan, Invisible Institute; Kyle Vass, Dragline (ACLU-WV); Beryl Lipton, Democrat &amp;amp; Chronicle <a href="https://resources.ire.org/tipsheets/20260306-1021.pdf">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/files/27056734-4fe7-458a-b341-0c656b535cf1.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/27056734-4fe7-458a-b341-0c656b535cf1.mp3" type="audio/mp3" length="40936560" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3554</itunes:duration>
+    <itunes:episode>40</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Connect with skeptical and disengaged audiences ... with data!</title>
+    <description><![CDATA[<p>Eva Constantaras, Lighthouse Reports; Aaron Mendelson, The Trace; Max Siegelbaum, Documented</p>]]></description>
+    <guid>https://resources.ire.org/files/568fb845-ffda-4c74-8e91-a6b87096a33c.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/568fb845-ffda-4c74-8e91-a6b87096a33c.mp3" type="audio/mp3" length="53359728" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3681</itunes:duration>
+    <itunes:episode>41</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Teaching data journalism in the AI era</title>
+    <description><![CDATA[<p>Alex Richards, Syracuse University; Matt Waite, University of Nebraska; Elisabeth Gawthrop, American Public Media; Rahul Bhargava, Northeastern University</p>]]></description>
+    <guid>https://resources.ire.org/files/b5a63464-ee68-4d71-9ddb-e458c84c938c.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/b5a63464-ee68-4d71-9ddb-e458c84c938c.mp3" type="audio/mp3" length="51749568" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3505</itunes:duration>
+    <itunes:episode>42</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Tips to investigate influencers and live-streamers</title>
+    <description><![CDATA[<p>Leon Yin, Bloomberg News</p>]]></description>
+    <guid>https://resources.ire.org/files/3b778e69-e017-42f5-87fc-6460cd85cf2b.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/3b778e69-e017-42f5-87fc-6460cd85cf2b.mp3" type="audio/mp3" length="56339856" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3551</itunes:duration>
+    <itunes:episode>43</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Accessibility basics</title>
+    <description><![CDATA[<p>Stacy Kess, Equal Access Public Media; Emilia Ruzicka, Independent journalist; Patrick Garvin, Maritz Global Events <a href="https://resources.ire.org/tipsheets/20260306-1096.pdf">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/files/1faa4bf1-92b7-42bd-9688-2de339fa7545.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/1faa4bf1-92b7-42bd-9688-2de339fa7545.mp3" type="audio/mp3" length="42967680" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3657</itunes:duration>
+    <itunes:episode>44</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Analyzing images and videos with AI</title>
+    <description><![CDATA[<p>Jonathan Soma, Columbia University <a href="https://jsoma.github.io/workshop-ai-images-video/nicar-2026/">Walkthrough</a></p>]]></description>
+    <guid>https://resources.ire.org/files/2ff2cec7-0a3a-4340-84ed-50cd78b43893.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/2ff2cec7-0a3a-4340-84ed-50cd78b43893.mp3" type="audio/mp3" length="57949968" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3570</itunes:duration>
+    <itunes:episode>45</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Everything you never wanted to know about crypto: A primer for data investigations</title>
+    <description><![CDATA[<p>Caitlin Ostroff, The Wall Street Journal; Jeremy Merrill, The Washington Post; Sam Kessler, The Wall Street Journal <a href="https://resources.ire.org/tipsheets/20260306-1122.pdf">Slides</a> <a href="https://colab.research.google.com/drive/1CbNQY1IhY5ShxrNEhELM6Iymi2uWzEyI?authuser=1#scrollTo=V5t8GJ1ZlOkK">CoLab notebook</a></p>]]></description>
+    <guid>https://resources.ire.org/files/457fe4ab-23b0-4367-8e41-04a942476af8.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/457fe4ab-23b0-4367-8e41-04a942476af8.mp3" type="audio/mp3" length="55170048" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3690</itunes:duration>
+    <itunes:episode>46</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Editing the machine: Fact-checking AI-assisted reporting in the newsroom</title>
+    <description><![CDATA[<p>Angeliki Kastanis, Associated Press; Jennifer LaFleur, UC Berkeley School of Journalism; Meghan Hoyer, The Washington Post</p>]]></description>
+    <guid>https://resources.ire.org/files/10c561b8-dd54-4b5d-bea1-52c9519adc40.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/10c561b8-dd54-4b5d-bea1-52c9519adc40.mp3" type="audio/mp3" length="49894656" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3514</itunes:duration>
+    <itunes:episode>47</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Nonprofit data 101</title>
+    <description><![CDATA[<p>Andrea Suozzo, ProPublica; Ellis Simani, ProPublica <a href="https://resources.ire.org/tipsheets/20260306-1133.pdf">Tipsheet</a> <a href="https://resources.ire.org/tipsheets/20260306-1133-1.pdf">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/files/9188b378-70c9-4551-bb19-a6196258a0fa.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/9188b378-70c9-4551-bb19-a6196258a0fa.mp3" type="audio/mp3" length="58982136" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3861</itunes:duration>
+    <itunes:episode>48</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Investigating TikTok through data donations</title>
+    <description><![CDATA[<p>Independent Session</p>]]></description>
+    <guid>https://resources.ire.org/files/565805da-f235-4fdb-83a7-d03b4fa009cd.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/565805da-f235-4fdb-83a7-d03b4fa009cd.mp3" type="audio/mp3" length="49599168" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3706</itunes:duration>
+    <itunes:episode>49</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Cheatsheet: An investigative spreadsheet tool powered by A.I.</title>
+    <description><![CDATA[<p>Dylan Freedman, The New York Times; Teresa Mondría Terol, The New York Times</p>]]></description>
+    <guid>https://resources.ire.org/files/9df746e0-1f6b-4e24-baff-34b63bd5047b.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/9df746e0-1f6b-4e24-baff-34b63bd5047b.mp3" type="audio/mp3" length="53111760" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3389</itunes:duration>
+    <itunes:episode>50</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Persuasion 401: The psychology of investigative reporting</title>
+    <description><![CDATA[<p>David Cuillier, Brechner FOI Project <a href="https://resources.ire.org/tipsheets/20260306-1157.pdf">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/files/85102c08-b6a9-4a88-bcf6-fdf60418d630.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/85102c08-b6a9-4a88-bcf6-fdf60418d630.mp3" type="audio/mp3" length="61460400" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3671</itunes:duration>
+    <itunes:episode>51</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Five demos for finding things with A.I. outside of chatbots</title>
+    <description><![CDATA[<p>Dylan Freedman, The New York Times; Duy Nguyen, The New York Times; Jeremy Merrill, The Washington Post; Angela Eichhorst, CT Mirror</p>]]></description>
+    <guid>https://resources.ire.org/files/a4a715e0-fe08-4a06-a0cb-d1ca30c6d71b.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/a4a715e0-fe08-4a06-a0cb-d1ca30c6d71b.mp3" type="audio/mp3" length="56936640" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3588</itunes:duration>
+    <itunes:episode>52</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>How to find data</title>
+    <description><![CDATA[<p>Greg Morton, The Baltimore Banner; Stephanie Lamm, Atlanta Journal-Constitution; Sean Mussenden, University of Maryland</p>]]></description>
+    <guid>https://resources.ire.org/files/6e5075e2-0e30-4bb8-9432-64cf8cb6b1fc.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/6e5075e2-0e30-4bb8-9432-64cf8cb6b1fc.mp3" type="audio/mp3" length="49617360" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3414</itunes:duration>
+    <itunes:episode>53</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Easy visualizations for your first data stories</title>
+    <description><![CDATA[<p>Adrian D. Garcia, Financial Times Specialist; Elena Mejia, Bloomberg; Haohsiang Ko, Financial Times; Prinz Magtulis, Reuters</p>]]></description>
+    <guid>https://resources.ire.org/files/7c3252fb-feee-4ef6-81b9-c138fe84f1c0.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/7c3252fb-feee-4ef6-81b9-c138fe84f1c0.mp3" type="audio/mp3" length="51222720" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3604</itunes:duration>
+    <itunes:episode>54</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Tracking hidden money, influence and power across borders</title>
+    <description><![CDATA[<p>Anna Massoglia, MuckRock; Ezana Ćeman, Organized Crime and Corruption Reporting Project; Klil Eden, Organized Crime and Corruption Reporting Project <a href="https://resources.ire.org/tipsheets/20260306-1219.pdf">Tipsheet</a> <a href="https://resources.ire.org/tipsheets/20260306-1219-1.pdf">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/files/d3b6bc77-83bb-4bcc-a57e-e59a5aafe5ca.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/d3b6bc77-83bb-4bcc-a57e-e59a5aafe5ca.mp3" type="audio/mp3" length="36947232" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>2647</itunes:duration>
+    <itunes:episode>55</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>How to do data-driven work in small communities</title>
+    <description><![CDATA[<p>Pam Dempsey, Northwestern University; Jill Blackman, Northwestern University; Aallyah Wright, Capital B News; Erica Peterson, Mountain State Spotlight; Chris Farone, Boston Institute for Nonprofit Journalism</p>]]></description>
+    <guid>https://resources.ire.org/files/8ad0e721-0fda-45d5-804b-cb7d8154c2e5.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/8ad0e721-0fda-45d5-804b-cb7d8154c2e5.mp3" type="audio/mp3" length="49249200" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3574</itunes:duration>
+    <itunes:episode>56</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>How we did it: Student-led investigations</title>
+    <description><![CDATA[<p>Haley Parsley, Capital News Service; Andrew Miller, Indiana Daily Student; Sana Muneer, Boston University; Matthew Wuschke, Boston University; Elizabeth Alspach, University of Maryland <a href="https://resources.ire.org/tipsheets/20260306-1233-1.pdf">Tipsheet</a> <a href="https://resources.ire.org/tipsheets/20260306-1233.pdf">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/files/e81ab658-3e23-42af-93db-a06f44b8e5b8.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/e81ab658-3e23-42af-93db-a06f44b8e5b8.mp3" type="audio/mp3" length="48835584" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3437</itunes:duration>
+    <itunes:episode>57</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Behind the stories: 2025 Philip Meyer Winners</title>
+    <description><![CDATA[<p>Brant Houston, University of Illinois</p>]]></description>
+    <guid>https://resources.ire.org/files/de6b5b2e-7b58-4593-85ee-aa7e4f32b451.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/de6b5b2e-7b58-4593-85ee-aa7e4f32b451.mp3" type="audio/mp3" length="53971008" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3765</itunes:duration>
+    <itunes:episode>58</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Automating your data collection with dashboards and AI sponsored by Bright Data</title>
+    <description><![CDATA[<p>Jennifer Burns, Bright Data; Caelyn Gonzalez, Bright Data</p>]]></description>
+    <guid>https://resources.ire.org/files/156a5838-529a-4ad0-9bdf-af891c71de8e.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/156a5838-529a-4ad0-9bdf-af891c71de8e.mp3" type="audio/mp3" length="17193792" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>1499</itunes:duration>
+    <itunes:episode>59</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Investigating the Epstein Files</title>
+    <description><![CDATA[<p>Rob Barry, The Wall Street Journal; Jack Gillum, The Wall Street Journal; Jaclyn Jeffrey-Wilensky, The Wall Street Journal; Caitlin Ostroff, The Wall Street Journal; Brian Whitton, The Wall Street Journal</p>]]></description>
+    <guid>https://resources.ire.org/files/9470f6f2-93f2-4cbb-8a43-68dd87816baa.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/9470f6f2-93f2-4cbb-8a43-68dd87816baa.mp3" type="audio/mp3" length="42983040" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3746</itunes:duration>
+    <itunes:episode>60</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Fri, 06 Mar 2026 12:00:00 -0000</pubdate>
+    <title>The art of networking - and why it's vital</title>
+    <description><![CDATA[<p>Independent Session</p>]]></description>
+    <guid>https://resources.ire.org/files/c8d2055c-7365-4636-ad83-c7fef7a2edeb.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/c8d2055c-7365-4636-ad83-c7fef7a2edeb.mp3" type="audio/mp3" length="15880416" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>1197</itunes:duration>
+    <itunes:episode>61</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Sat, 07 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Immigration data and how to make sense of it</title>
+    <description><![CDATA[<p>Will Craft, The Guardian; Leon Yin, Bloomberg News; Tanvi Misra, Independent journalist; Elena Mejia, Bloomberg</p>]]></description>
+    <guid>https://resources.ire.org/files/3846a44f-d4ca-4c84-804b-9026f8a98207.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/3846a44f-d4ca-4c84-804b-9026f8a98207.mp3" type="audio/mp3" length="55629120" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3705</itunes:duration>
+    <itunes:episode>62</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Sat, 07 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Fun with hypotheticals: Investigating your dubious data dilemmas in real time</title>
+    <description><![CDATA[<p>Adiel Kaplan, Tow-Knight Center for Journalism Futures; Veronica Penney, American Association for the Advancement of Science; Emily Zentner, The California Newsroom <a href="https://resources.ire.org/tipsheets/20260307-1031.pdf">Tipsheet</a></p>]]></description>
+    <guid>https://resources.ire.org/files/3e5c84da-fa24-4f05-b859-c83bb1c57164.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/3e5c84da-fa24-4f05-b859-c83bb1c57164.mp3" type="audio/mp3" length="41611200" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3606</itunes:duration>
+    <itunes:episode>63</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Sat, 07 Mar 2026 12:00:00 -0000</pubdate>
+    <title>How to use AI responsibly</title>
+    <description><![CDATA[<p>Lisa Pickoff-White, California Reporting Project; Sachita Nishal, Northwestern University; Dylan Freedman, The New York Times; Katey Rusch, UC Berkeley <a href="https://resources.ire.org/tipsheets/20260307-1034-1.pdf">Tipsheet</a> <a href="https://resources.ire.org/tipsheets/20260307-1034.pdf">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/files/fe7149f4-7836-49bf-9d26-879149321bc7.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/fe7149f4-7836-49bf-9d26-879149321bc7.mp3" type="audio/mp3" length="57605616" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3773</itunes:duration>
+    <itunes:episode>64</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Sat, 07 Mar 2026 12:00:00 -0000</pubdate>
+    <title>The price of recovery: How to investigate opioid settlement spending</title>
+    <description><![CDATA[<p>Ty McClung, West Virginia University; Jessica Riley, West Virginia University; Drew Solt, West Virginia University; Claudi Di Lima, West Virginia University; Hannah Heiskell, West Virginia University</p>]]></description>
+    <guid>https://resources.ire.org/files/158bd511-de42-4306-ad7c-423bd75e55ff.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/158bd511-de42-4306-ad7c-423bd75e55ff.mp3" type="audio/mp3" length="44195904" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3223</itunes:duration>
+    <itunes:episode>65</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Sat, 07 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Auditing AI algorithms for bias (and sometimes using AI tools to do so)</title>
+    <description><![CDATA[<p>Sean Mussenden, University of Maryland; Daniel Trielli, University of Maryland; Tyler Dukes, McClatchy <a href="https://resources.ire.org/tipsheets/20260307-1054.pdf">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/files/91533b97-7be8-4717-b84e-1ec704001625.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/91533b97-7be8-4717-b84e-1ec704001625.mp3" type="audio/mp3" length="42884736" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3693</itunes:duration>
+    <itunes:episode>66</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Sat, 07 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Using open-source intelligence (OSINT) in investigations</title>
+    <description><![CDATA[<p>Tristan Lee, Decoherence Media; Jennefer Harper, Decoherence Media; Alison Killing, Financial Times</p>]]></description>
+    <guid>https://resources.ire.org/files/b380d122-503d-4356-acaa-7202d6ad9371.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/b380d122-503d-4356-acaa-7202d6ad9371.mp3" type="audio/mp3" length="43907040" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3619</itunes:duration>
+    <itunes:episode>67</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Sat, 07 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Data crowd competition: 40 ideas in 40 minutes</title>
+    <description><![CDATA[<p>David Cuillier, Brechner FOI Project; Cierra Putman, WTHR; Samantha Sunne, Independent journalist <a href="https://resources.ire.org/tipsheets/20260307-1156.pdf">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/files/a3225f72-da75-43a0-a580-9e33a5d42c9e.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/a3225f72-da75-43a0-a580-9e33a5d42c9e.mp3" type="audio/mp3" length="37872528" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3294</itunes:duration>
+    <itunes:episode>68</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Sat, 07 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Data team starter kit: How to build a data team from the ground up</title>
+    <description><![CDATA[<p>Greg Morton, The Baltimore Banner; Allan James Vestal, The Baltimore Banner; Sahana Jayaraman, The Baltimore Banner</p>]]></description>
+    <guid>https://resources.ire.org/files/20f1f8f7-a4ab-496d-a93a-812e1640ddbe.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/20f1f8f7-a4ab-496d-a93a-812e1640ddbe.mp3" type="audio/mp3" length="57854016" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3663</itunes:duration>
+    <itunes:episode>69</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Sat, 07 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Data collection at scale for countries where data is hidden</title>
+    <description><![CDATA[<p>Tazbia Fatima, Hearst; Alexander Borodikhin, Mediazona; Inaara Gangji, UC Berkeley; Eunjee Wi, Arizona State University</p>]]></description>
+    <guid>https://resources.ire.org/files/494c67ba-0adc-46f6-9639-bcd87cb441cb.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/494c67ba-0adc-46f6-9639-bcd87cb441cb.mp3" type="audio/mp3" length="53676960" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3673</itunes:duration>
+    <itunes:episode>70</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Sat, 07 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Uncovering wrongdoing with AI: Real-world methods and ethical boundaries</title>
+    <description><![CDATA[<p>Sotirios Sideris, Nieman Foundation for Journalism at Harvard University; Eva Constantaras, Lighthouse Reports; Sanjin Ibrahimovic, MuckRock; Jonathan Soma, Columbia University</p>]]></description>
+    <guid>https://resources.ire.org/files/d1892965-eebe-43e2-89d4-7946a8c49fab.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/d1892965-eebe-43e2-89d4-7946a8c49fab.mp3" type="audio/mp3" length="61399008" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3868</itunes:duration>
+    <itunes:episode>71</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Sat, 07 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Becoming acquainted with your city as a data reporter with no beat</title>
+    <description><![CDATA[<p>Sahana Jayaraman, The Baltimore Banner; Bianca Pallaro, The New York Times; Elliott Ramos, CBS News; Kara Newhouse, Howard Center for Investigative Journalism</p>]]></description>
+    <guid>https://resources.ire.org/files/15c5d19b-caf9-4a6a-a4ca-3076f8328c49.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/15c5d19b-caf9-4a6a-a4ca-3076f8328c49.mp3" type="audio/mp3" length="54590832" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3712</itunes:duration>
+    <itunes:episode>72</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Sat, 07 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Covering growing corporate power, even on deadline</title>
+    <description><![CDATA[<p>Arlene Martinez, Good Jobs First <a href="https://resources.ire.org/tipsheets/20260307-1194.pdf">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/files/ef1b33af-cf22-4a5b-b44d-06a7005dafa1.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/ef1b33af-cf22-4a5b-b44d-06a7005dafa1.mp3" type="audio/mp3" length="46109904" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3621</itunes:duration>
+    <itunes:episode>73</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Sat, 07 Mar 2026 12:00:00 -0000</pubdate>
+    <title>How to avoid a midterm meltdown: Tips for covering elections</title>
+    <description><![CDATA[<p>Phoebe Quinton, Atlanta Journal-Constitution; Derek Willis, University of Maryland; Alexandra Glorioso, Miami Herald <a href="https://resources.ire.org/tipsheets/20260307-1215.pdf">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/files/2d4265ff-ad14-488d-89a3-45f9efe02eab.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/2d4265ff-ad14-488d-89a3-45f9efe02eab.mp3" type="audio/mp3" length="50496624" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3723</itunes:duration>
+    <itunes:episode>74</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Sat, 07 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Elections 2026: Uncovering influence operations in the U.S.</title>
+    <description><![CDATA[<p>Anna Massoglia, MuckRock; Robert Maguire, Citizens for Responsibility and Ethics in Washington</p>]]></description>
+    <guid>https://resources.ire.org/files/fcd91d1d-2320-4d28-b7b9-7590cbc9073e.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/fcd91d1d-2320-4d28-b7b9-7590cbc9073e.mp3" type="audio/mp3" length="53592384" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3581</itunes:duration>
+    <itunes:episode>75</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Sat, 07 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Turn the impossible into the doable: The random sample as a reporting tool</title>
+    <description><![CDATA[<p>Rae Ellen Bichell, KFF Health News; Maia Rosenfeld, KFF Health News</p>]]></description>
+    <guid>https://resources.ire.org/files/3c4f96b3-1c3e-4a67-b5f8-ce7f0b70a10e.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/3c4f96b3-1c3e-4a67-b5f8-ce7f0b70a10e.mp3" type="audio/mp3" length="49637568" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3774</itunes:duration>
+    <itunes:episode>76</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Sat, 07 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Big Local News tools, wares and resources</title>
+    <description><![CDATA[<p>Ryan Pitts, Big Local News; Cheryl Phillips, Big Local News; Gerald Rich, Big Local News; Serdar Tumgoren, Big Local News; Rosie Cima, Big Local News</p>]]></description>
+    <guid>https://resources.ire.org/files/33cd8146-3c10-477d-9840-8ba8fba38d6b.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/33cd8146-3c10-477d-9840-8ba8fba38d6b.mp3" type="audio/mp3" length="48083424" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3242</itunes:duration>
+    <itunes:episode>77</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Sun, 08 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Use our quiz to focus on policy, not politics, in 2026</title>
+    <description><![CDATA[<p>Evan Wyloge, Independent journalist; sandra fish, QuizTheVote <a href="https://resources.ire.org/tipsheets/20260308-1058.pdf">Slides</a> <a href="https://www.quizthevote.com/">Website</a></p>]]></description>
+    <guid>https://resources.ire.org/files/0238a955-1cce-4263-8ace-5163afcb1b8f.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/0238a955-1cce-4263-8ace-5163afcb1b8f.mp3" type="audio/mp3" length="46252368" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3537</itunes:duration>
+    <itunes:episode>78</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Sun, 08 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Data-driven stories ideas for students</title>
+    <description><![CDATA[<p>Gerry Lanosga, Indiana University; Diana Fuentes, Investigative Reporters &amp;amp; Editors; Craig Lyons, Arnolt Center for Investigative Journalism <a href="https://resources.ire.org/tipsheets/20260308-1335.pdf">Slides</a></p>]]></description>
+    <guid>https://resources.ire.org/files/1b18e0ac-4b4b-4ef9-a97b-051401e2e697.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/1b18e0ac-4b4b-4ef9-a97b-051401e2e697.mp3" type="audio/mp3" length="52469520" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3742</itunes:duration>
+    <itunes:episode>79</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Sun, 08 Mar 2026 12:00:00 -0000</pubdate>
+    <title>AI tools journalists can use ethically</title>
+    <description><![CDATA[<p>Independent Session</p>]]></description>
+    <guid>https://resources.ire.org/files/55121c73-e533-4905-ad94-2a74fbf6eb95.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/55121c73-e533-4905-ad94-2a74fbf6eb95.mp3" type="audio/mp3" length="42833184" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>3485</itunes:duration>
+    <itunes:episode>80</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
+  <item>
+    <pubdate>Sun, 08 Mar 2026 12:00:00 -0000</pubdate>
+    <title>Quick-hit investigations</title>
+    <description><![CDATA[<p>Francisco Vara-Orta, Investigative Reporters &amp;amp; Editors; Adam Rhodes, IRE &amp;amp; NICAR</p>]]></description>
+    <guid>https://resources.ire.org/files/47f0e2fd-2ff2-4aef-99e0-156d0e73b89f.mp3</guid>
+    <enclosure url="https://resources.ire.org/files/47f0e2fd-2ff2-4aef-99e0-156d0e73b89f.mp3" type="audio/mp3" length="51538800" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>2949</itunes:duration>
+    <itunes:episode>81</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodetype>full</itunes:episodetype>
+    <link>https://github.com/bcks/nicar</link>
+    <itunes:image href="https://raw.githubusercontent.com/bcks/nicar/refs/heads/main/podcast-cover.jpg" />
+  </item>
 </channel>
 </rss>
